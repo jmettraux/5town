@@ -1,4 +1,11 @@
 
+*.swp
 .vimrc
 .viminfo
+.vimgrep
+.vimspec
+
+.bxsinfo.yaml
+.rspec.out
+.errors
 
