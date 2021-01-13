@@ -2,8 +2,8 @@
 LI=-Ilib -rfivetown
 
 goblin:
-	ruby ${LI} -e "make_monster('sources/monsters/Goblin.md')"
+	ruby ${LI} -e "make_creature('sources/creatures/Goblin.md')"
 
-monsters:
-	ruby ${LI} -e "make_monsters"
+creatures:
+	ruby ${LI} -e "make_creatures"
 

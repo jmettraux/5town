@@ -1,5 +1,5 @@
 
-class Monster
+class Creature
 
   attr_reader :abilities
   attr_accessor :phase, :name, :type
@@ -153,14 +153,14 @@ class Monster
   end
 end
 
-class MdownToMonster < Redcarpet::Render::Base
+class MdownToCreature < Redcarpet::Render::Base
 
-  attr_reader :monster
+  attr_reader :creature
 
   def initialize
 
     super
-    @monster = Monster.new
+    @creature = Creature.new
   end
 
   def normal_text(text); text; end
@@ -168,10 +168,10 @@ class MdownToMonster < Redcarpet::Render::Base
   def header(title, level)
 
     if level == 1
-      @monster.name = title
+      @creature.name = title
     else
 #p [ :header, title, level ]
-      @monster.phase = title
+      @creature.phase = title
       ''
     end
   end
@@ -185,8 +185,8 @@ class MdownToMonster < Redcarpet::Render::Base
 
     if text.match?(/\A\*.+\*\z/)
       text
-    elsif @monster.type == nil
-      @monster.type = text
+    elsif @creature.type == nil
+      @creature.type = text
     elsif text.match(/\A\*\*[A-Z]/)
       text.gsub(/\.$/, '')
     else
@@ -198,7 +198,7 @@ class MdownToMonster < Redcarpet::Render::Base
   def paragraph(text)
 
     if m = text.match(/^\*\*([^*]+)\*\* (.*)$/)
-      @monster << [ m[1], m[2] ]
+      @creature << [ m[1], m[2] ]
       text
     else
 #p [ :paragraph, text ]
@@ -210,19 +210,19 @@ class MdownToMonster < Redcarpet::Render::Base
   def table_row(content); ''; end
     #
   def table_cell(content, alignment)
-    @monster.abilities << content if content.match(/\d+/)
+    @creature.abilities << content if content.match(/\d+/)
     ''
   end
 end
 
-def make_monster(pa)
+def make_creature(pa)
 
   s = File.read(pa)
 puts "-" * 80; puts s.strip + "\n"; puts "-" * 80
-  mtm = MdownToMonster.new
+  mtm = MdownToCreature.new
 
   Redcarpet::Markdown.new(mtm, tables: true).render(s)
-  m = mtm.monster
+  m = mtm.creature
 
 pp m.to_h
 puts "v" * 80
@@ -231,12 +231,11 @@ puts m.to_md
 puts "^" * 80
 end
 
-def make_monsters
+def make_creatures
 
+  Dir[File.join(__dir__, '../sources/creatures/*.md')].each do |pa|
 
-  Dir[File.join(__dir__, '../sources/monsters/*.md')].each do |pa|
-
-    make_monster(pa)
+    make_creature(pa)
   end
 end
 
