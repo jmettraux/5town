@@ -1,10 +1,12 @@
 
 class Monster
 
+  attr_reader :abilities
   attr_accessor :phase, :name, :type
 
   def initialize
 
+    @abilities = [] # STR, DEX, CON, INT, WIS, CHA
     @phase = 'Stats'
     @entries = {}
   end
@@ -21,9 +23,7 @@ class Monster
 
   def to_h
 
-    { name: @name,
-      type: @type,
-      entries: @entries }
+    { name: @name, type: @type, abilities: @abilities, entries: @entries }
   end
 end
 
@@ -77,6 +77,14 @@ p [ :emphasis, text ]
 p [ :paragraph, text ]
       text
     end
+  end
+
+  def table(header, body); ''; end
+  def table_row(content); ''; end
+    #
+  def table_cell(content, alignment)
+    @monster.abilities << content if content.match(/\d+/)
+    ''
   end
 end
 
