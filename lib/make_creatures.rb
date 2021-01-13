@@ -9,6 +9,9 @@ class Creature
     @abilities = [] # STR, DEX, CON, INT, WIS, CHA
     @phase = 'Stats'
     @entries = {}
+
+    @stab = nil
+    @shoot = nil
   end
 
   def <<(kv)
@@ -25,6 +28,9 @@ class Creature
 
     @options = opts
 
+    attacks = @entries['Actions'].collect { |a| translate_action(a) }
+      # which sets Stab and Shoot
+
     o = StringIO.new
 
     nn = "\n\n"
@@ -39,6 +45,9 @@ class Creature
     o << '**Move** ' << move << nn
     o << '**Morale** ' << morale << nn
 
+    o << '## Attacks' << nn
+    attacks.each { |a| o << a << nn }
+
     o.string
   end
 
@@ -46,7 +55,16 @@ class Creature
 
     hp = self['Hit Points']
     m = hp.match(/\(([^)]+)d.+\)/)
-    m ? m[1].to_i : 1
+    hd = m ? m[1].to_i : 1
+
+    con = hd * modifier(:con)
+
+    hdd = "#{hd}d8"
+    hdd = hdd + ((con < 0) ? "-#{con}" : (con > 0) ? "+#{con}" : '')
+
+    hps = (hd * 4.5).to_i + hd * con
+
+    "#{hd} (#{hps} #{hdd})"
   end
 
   def armor_class
@@ -68,7 +86,15 @@ class Creature
 
   def skills
 
-    ''
+    a = []
+
+    a << [ "Stab #{@stab.first}" ] if @stab
+    a << [ "Shoot #{@shoot.first}" ] if @shoot
+
+    a.concat(
+      self['Skills'].split(/\s*,\s*/).collect { |s| translate_skill(s) })
+
+    a.join(', ')
   end
 
   def move
@@ -92,6 +118,134 @@ class Creature
   end
 
   protected
+
+  SKILL_TO_ATT = {
+
+    'Athletics' => :str,
+
+    'Acrobatics' => :dex, 'Sleight of hand' => :dex, 'Stealth' => :dex,
+
+    'Arcana' => :int, 'History' => :int, 'Investigation' => :int,
+    'Nature' => :int, 'Religion' => :int,
+
+    'Animal Handling' => :wis, 'Insight' => :wis, 'Medicine' => :wis,
+    'Perception' => :wis, 'Survival' => :wis,
+
+    'Deception' => :cha, 'Intimidation' => :cha, 'Performance' => :cha,
+    'Persuasion' => :cha
+
+      }.freeze
+
+  SKILL_TO_SKILL = {
+    'Athletics' => 'Exert (str)',
+    'Acrobatics' => 'Exert (dex)',
+    'Sleight of hand' => 'Perform',
+    'Stealth' => 'Sneak',
+    'Arcana' => 'Magic',
+    'History' => 'Know',
+    'Investigation' => 'Connect',
+    'Nature' => 'Survive',
+    'Religion' => 'Pray',
+    'Animal Handling' => 'Ride',
+    'Insight' => 'Notice',
+    'Medicine' => 'Heal',
+    'Perception' => 'Notice',
+    'Survival' => 'Survive',
+    'Deception' => 'Connect',
+    'Intimidation' => 'Lead',
+    'Performance' => 'Perform',
+    'Persuasion' => 'Convice'
+      }.freeze
+
+  # Punch / Smite (WOG)
+  # Stab / Spear (WOG)
+  # Shoot
+    #
+  # Administer / Reeve (WOG)
+  # Connect
+  # Convince / Talk (WOG)
+  # Craft
+  # Exert
+  # Heal
+  # Know / Ken (WOG)
+  # Lead
+  # Magic
+  # Notice
+  # Perform
+  # Pray
+  # Ride
+  # Sail
+  # Sneak
+  # Survive / Hunt (WOG)
+  # Work / Toil (WOG)
+  # Trade / Gift (WOG)
+
+  def translate_skill(s)
+
+    m = s.match(/\A([^-+]+) ([-+]\d+)/)
+    n = m[1]
+    n1 = SKILL_TO_SKILL[n]
+    b = m[2].to_i
+    a = SKILL_TO_ATT[n]
+    m5 = mod5(a)
+
+    sl = b - m5
+    if sl < 1 then sl = 0
+    else sl = sl / 2
+    end
+
+    "#{n1} #{sl}"
+  end
+
+  def translate_action(a)
+
+    name, desc = a
+
+    type = desc.match?(/anged/) ? 'Shoot' : 'Stab'
+
+    desc1 = desc
+      .gsub(/^(Melee|Ranged) Weapon Attack:/,
+        '')
+      .gsub(/ ([-+]\d+) to hit,/) { |m|
+        translate_attack_bonus(type, $1.to_i) }
+      .gsub(/ Hit: \d+ \(([^)]+)\) /) { |m|
+        translate_attack_damage(type, $1) }
+
+    "***#{name}.*** #{desc1}"
+  end
+
+  # Warning: sets @stab or @shoot
+  #
+  def translate_attack_bonus(type, bonus)
+
+    m5s, m5d = mod5(:str), mod5(:dex)
+    d5s, d5d = bonus - m5s, bonus - m5d
+
+    att = d5s < d5d ? :str : :dex
+    rem = [ d5s, d5d ].min
+
+    m = modifier(att)
+
+    rem = 0 if rem < 0
+
+    if type == 'Shoot'
+      @shoot = [ rem, att ]
+    else
+      @stab = [ rem, att ]
+    end
+
+#p [ :tab, type, bonus, '<>', 's', m5s, d5s, 'd', m5d, d5d, '>', att, m, rem ]
+    "#{tb(rem + m)} (#{type} #{rem} #{att.to_s.upcase} #{tb(m)})"
+  end
+
+  def translate_attack_damage(type, dice)
+
+    att = type == 'Shoot' ? @shoot.last : @stab.last
+
+    " Hit: #{dice.split(/[-+]/).first}#{tb(modifier(att))} "
+  end
+
+  def tb(i); i < 0 ? i.to_s : "+#{i}"; end
 
   def attribute_table
 
@@ -139,17 +293,25 @@ class Creature
 
   def attribute(att)
 
-    v =
-      case att.to_s
-      when /str/i then @abilities[0]
-      when /dex/i then @abilities[1]
-      when /con/i then @abilities[2]
-      when /int/i then @abilities[3]
-      when /wis/i then @abilities[4]
-      when /cha/i then @abilities[5]
-      else 0
-      end
-    v.match(/\A(\d+)/)[1].to_i
+    att5(att).match(/\A(\d+)/)[1].to_i
+  end
+
+  def mod5(att)
+
+    att5(att).match(/\(([-+]\d+)\)/)[1].to_i
+  end
+
+  def att5(att)
+
+    case att.to_s
+    when /str/i then @abilities[0]
+    when /dex/i then @abilities[1]
+    when /con/i then @abilities[2]
+    when /int/i then @abilities[3]
+    when /wis/i then @abilities[4]
+    when /cha/i then @abilities[5]
+    else 0
+    end
   end
 end
 
