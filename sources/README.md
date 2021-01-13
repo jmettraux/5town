@@ -1,5 +1,5 @@
 
 # sources/
 
-All the monsters under monsters/ are covered by the [OGL](ogl.md).
+All the creatures under creatures/ are covered by the [OGL](ogl.md).
 
