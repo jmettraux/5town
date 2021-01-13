@@ -1,0 +1,24 @@
+## Rats, Swarm
+
+*Medium swarm of Tiny beasts, unaligned*
+
+**Hit Dice** 7 (31 7d8)
+
+**Armor Class** 10
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+|  9 (+0) | 11 (+0) |  9 (+0) |  2 (-2) | 10 (+0) |  3 (-2) |
+
+**Saves** Physical 15, Evasion 15, Mental 15, Luck 15
+
+**Skills** Stab 2
+
+**Move** 30 ft.
+
+**Morale** 10
+
+## Attacks
+
+***Bites.*** +2 (Stab 2 DEX +0), reach 0 ft., one target in the swarm's space. Hit: 2d6+0 piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer.
+

@@ -1,0 +1,24 @@
+## Snake, Giant Poisonous
+
+*Medium beast, unaligned*
+
+**Hit Dice** 2 (9 2d8)
+
+**Armor Class** 14
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 10 (+0) | 18 (+2) | 13 (+0) |  2 (-2) | 10 (+0) |  3 (-2) |
+
+**Saves** Physical 15, Evasion 13, Mental 15, Luck 15
+
+**Skills** Stab 2, Notice 1
+
+**Move** 30 ft., swim 30 ft.
+
+**Morale** 8
+
+## Attacks
+
+***Bite.*** +4 (Stab 2 DEX +2), reach 10 ft., one target. Hit: 1d4+2 piercing damage, and the target must make a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.
+

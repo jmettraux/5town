@@ -92,7 +92,8 @@ class Creature
     a << [ "Shoot #{@shoot.first}" ] if @shoot
 
     a.concat(
-      self['Skills'].split(/\s*,\s*/).collect { |s| translate_skill(s) })
+      (self['Skills'] || '')
+        .split(/\s*,\s*/).collect { |s| translate_skill(s) })
 
     a.join(', ')
   end
@@ -203,10 +204,11 @@ class Creature
 
     type = desc.match?(/anged/) ? 'Shoot' : 'Stab'
 
+#p desc
     desc1 = desc
       .gsub(/^(Melee|Ranged) Weapon Attack:/,
         '')
-      .gsub(/ ([-+]\d+) to hit,/) { |m|
+      .gsub(/ ([-+]\d+) to hit/) { |m|
         translate_attack_bonus(type, $1.to_i) }
       .gsub(/ Hit: \d+ \(([^)]+)\) /) { |m|
         translate_attack_damage(type, $1) }
@@ -234,12 +236,12 @@ class Creature
       @stab = [ rem, att ]
     end
 
-#p [ :tab, type, bonus, '<>', 's', m5s, d5s, 'd', m5d, d5d, '>', att, m, rem ]
     "#{tb(rem + m)} (#{type} #{rem} #{att.to_s.upcase} #{tb(m)})"
   end
 
   def translate_attack_damage(type, dice)
 
+#p [ :tad, type, dice, @shoot, @stab ]
     att = type == 'Shoot' ? @shoot.last : @stab.last
 
     " Hit: #{dice.split(/[-+]/).first}#{tb(modifier(att))} "
@@ -380,24 +382,30 @@ end
 def make_creature(pa)
 
   s = File.read(pa)
-puts "-" * 80; puts s.strip + "\n"; puts "-" * 80
+#puts "-" * 80; puts s.strip + "\n"; puts "-" * 80
+
   mtm = MdownToCreature.new
 
   Redcarpet::Markdown.new(mtm, tables: true).render(s)
   m = mtm.creature
 
-pp m.to_h
-puts "v" * 80
-#puts m.to_md(clasave: true)
-puts m.to_md
-puts "^" * 80
+  m
 end
 
 def make_creatures
 
   Dir[File.join(__dir__, '../sources/creatures/*.md')].each do |pa|
 
-    make_creature(pa)
+    fn = File.join('out/creatures', File.basename(pa))
+
+    md = make_creature(pa).to_md rescue nil
+
+    if md
+      puts "...#{fn}"
+      File.open(fn, 'wb') { |f| f.puts(md) }
+    else
+      puts "!!!#{fn}"
+    end
   end
 end
 
