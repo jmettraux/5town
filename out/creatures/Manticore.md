@@ -14,7 +14,7 @@
 
 **Skills** Stab 2, Shoot 2
 
-**Move** 30 ft., fly 50 ft.
+**Move** 30ft_9m_6sq, fly 50ft_15m_10sq
 
 **Morale** 9
 
@@ -22,9 +22,9 @@
 
 ***Multiattack.*** The manticore makes three attacks: one with its bite and two with its claws or three with its tail spikes.
 
-***Bite.*** +3 (Stab 2 DEX +1), reach 5 ft., one target. Hit: 1d8+1 piercing damage.
+***Bite.*** +3 (Stab 2 DEX +1), reach 5ft_1.5m_1sq, one target. Hit: 1d8+1 piercing damage.
 
-***Claw.*** +3 (Stab 2 DEX +1), reach 5 ft., one target. Hit: 1d6+1 slashing damage.
+***Claw.*** +3 (Stab 2 DEX +1), reach 5ft_1.5m_1sq, one target. Hit: 1d6+1 slashing damage.
 
-***Tail Spike.*** +3 (Shoot 2 DEX +1), range 100/200 ft., one target. Hit: 1d8+1 piercing damage.
+***Tail Spike.*** +3 (Shoot 2 DEX +1), range 100/200ft_60m_40sq, one target. Hit: 1d8+1 piercing damage.
 

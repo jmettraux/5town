@@ -14,7 +14,7 @@
 
 **Skills** Stab 2, Connect 2, Notice 1, Sneak 1
 
-**Move** 30 ft.
+**Move** 30ft_9m_6sq
 
 **Morale** 12
 
@@ -22,9 +22,9 @@
 
 ***Multiattack.*** The lamia makes two attacks: one with its claws and one with its dagger or Intoxicating Touch.
 
-***Claws.*** +3 (Stab 2 STR +1), reach 5 ft., one target. Hit: 2d10+1 slashing damage.
+***Claws.*** +3 (Stab 2 STR +1), reach 5ft_1.5m_1sq, one target. Hit: 2d10+1 slashing damage.
 
-***Dagger.*** +3 (Stab 2 STR +1), reach 5 ft., one target. Hit: 1d4+1 piercing damage.
+***Dagger.*** +3 (Stab 2 STR +1), reach 5ft_1.5m_1sq, one target. Hit: 1d4+1 piercing damage.
 
-***Intoxicating Touch.*** Melee Spell Attack:+3 (Stab 2 STR +1), reach 5 ft., one creature. Hit: The target is magically cursed for 1 hour. Until the curse ends, the target has disadvantage on Wisdom saving throws and all ability checks.
+***Intoxicating Touch.*** Melee Spell Attack:+3 (Stab 2 STR +1), reach 5ft_1.5m_1sq, one creature. Hit: The target is magically cursed for 1 hour. Until the curse ends, the target has disadvantage on Wisdom saving throws and all ability checks.
 

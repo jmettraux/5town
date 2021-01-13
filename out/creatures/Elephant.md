@@ -14,13 +14,13 @@
 
 **Skills** Stab 2
 
-**Move** 40 ft.
+**Move** 40ft_12m_8sq
 
 **Morale** 8
 
 ## Attacks
 
-***Gore.*** +4 (Stab 2 STR +2), reach 5 ft., one target. Hit: 3d8+2 piercing damage.
+***Gore.*** +4 (Stab 2 STR +2), reach 5ft_1.5m_1sq, one target. Hit: 3d8+2 piercing damage.
 
-***Stomp.*** +4 (Stab 2 STR +2), reach 5 ft., one prone creature. Hit: 3d10+2 bludgeoning damage.
+***Stomp.*** +4 (Stab 2 STR +2), reach 5ft_1.5m_1sq, one prone creature. Hit: 3d10+2 bludgeoning damage.
 

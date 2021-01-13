@@ -14,11 +14,11 @@
 
 **Skills** Stab 2
 
-**Move** 30 ft., climb 30 ft.
+**Move** 30ft_9m_6sq, climb 30ft_9m_6sq
 
 **Morale** 7
 
 ## Attacks
 
-***Bite.*** +3 (Stab 2 STR +1), reach 5 ft., one target. Hit: 1d8+1 piercing damage.
+***Bite.*** +3 (Stab 2 STR +1), reach 5ft_1.5m_1sq, one target. Hit: 1d8+1 piercing damage.
 

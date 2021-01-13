@@ -14,15 +14,15 @@
 
 **Skills** Stab 2, Shoot 2
 
-**Move** 30 ft.
+**Move** 30ft_9m_6sq
 
 **Morale** 8
 
 ## Attacks
 
-***Scimitar.*** +2 (Stab 2 DEX +0), reach 5 ft., one target. Hit: 1d6 +0 slashing damage.
+***Scimitar.*** +2 (Stab 2 DEX +0), reach 5ft_1.5m_1sq, one target. Hit: 1d6 +0 slashing damage.
 
-***Light Crossbow.*** +2 (Shoot 2 DEX +0), range 80 ft./320 ft., one target. Hit: 1d8 +0 piercing damage.
+***Light Crossbow.*** +2 (Shoot 2 DEX +0), range 80ft_24m_16sq/320ft_96m_64sq, one target. Hit: 1d8 +0 piercing damage.
 
 ***Bandits.*** rove in gangs and are sometimes led by thugs, veterans, or spellcasters. Not all bandits are evil. Oppression, drought, disease, or famine can often drive otherwise honest folk to a life of banditry.
 

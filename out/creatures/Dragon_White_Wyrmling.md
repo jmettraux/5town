@@ -14,13 +14,13 @@
 
 **Skills** Stab 2, Notice 2, Sneak 1
 
-**Move** 30 ft., burrow 15 ft., fly 60 ft., swim 30 ft.
+**Move** 30ft_9m_6sq, burrow 15ft_4.5m_3sq, fly 60ft_18m_12sq, swim 30ft_9m_6sq
 
 **Morale** 8
 
 ## Attacks
 
-***Bite.*** +3 (Stab 2 STR +1), reach 5 ft., one target. Hit: 1d10+1 piercing damage plus 2 (1d4) cold damage.
+***Bite.*** +3 (Stab 2 STR +1), reach 5ft_1.5m_1sq, one target. Hit: 1d10+1 piercing damage plus 2 (1d4) cold damage.
 
-***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast of hail in a 15-foot cone. Each creature in that area must make a DC 12 Constitution saving throw, taking 22 (5d8) cold damage on a failed save, or half as much damage on a successful one.
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast of hail in a 15ft_4.5m_3sq cone. Each creature in that area must make a DC 12 Constitution saving throw, taking 22 (5d8) cold damage on a failed save, or half as much damage on a successful one.
 

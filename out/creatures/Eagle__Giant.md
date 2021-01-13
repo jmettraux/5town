@@ -14,7 +14,7 @@
 
 **Skills** Stab 2, Notice 1
 
-**Move** 10 ft., fly 80 ft.
+**Move** 10ft_3m_2sq, fly 80ft_24m_16sq
 
 **Morale** 8
 
@@ -22,7 +22,7 @@
 
 ***Multiattack.*** The eagle makes two attacks: one with its beak and one with its talons.
 
-***Beak.*** +3 (Stab 2 DEX +1), reach 5 ft., one target. Hit: 1d6+1 piercing damage.
+***Beak.*** +3 (Stab 2 DEX +1), reach 5ft_1.5m_1sq, one target. Hit: 1d6+1 piercing damage.
 
-***Talons.*** +3 (Stab 2 DEX +1), reach 5 ft., one target. Hit: 2d6+1 slashing damage.
+***Talons.*** +3 (Stab 2 DEX +1), reach 5ft_1.5m_1sq, one target. Hit: 2d6+1 slashing damage.
 

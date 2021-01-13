@@ -14,13 +14,13 @@
 
 **Skills** Stab 2
 
-**Move** 60 ft., fly 90 ft.
+**Move** 60ft_18m_12sq, fly 90ft_27m_18sq
 
 **Morale** 11
 
 ## Attacks
 
-***Hooves.*** +4 (Stab 2 STR +2), reach 5 ft., one target. Hit: 2d8+2 bludgeoning damage plus 7 (2d6) fire damage.
+***Hooves.*** +4 (Stab 2 STR +2), reach 5ft_1.5m_1sq, one target. Hit: 2d8+2 bludgeoning damage plus 7 (2d6) fire damage.
 
-***Ethereal Stride.*** The nightmare and up to three willing creatures within 5 feet of it magically enter the Ethereal Plane from the Material Plane, or vice versa.
+***Ethereal Stride.*** The nightmare and up to three willing creatures within 5ft_1.5m_1sq of it magically enter the Ethereal Plane from the Material Plane, or vice versa.
 

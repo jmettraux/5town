@@ -14,7 +14,7 @@
 
 **Skills** Stab 3, Notice 1
 
-**Move** 30 ft.
+**Move** 30ft_9m_6sq
 
 **Morale** 10 (8 fear of fire)
 
@@ -22,7 +22,7 @@
 
 ***Multiattack.*** The troll makes three attacks: one with its bite and two with its claws.
 
-***Bite.*** +5 (Stab 3 STR +2), reach 5 ft., one target. Hit: 1d6+2 piercing damage.
+***Bite.*** +5 (Stab 3 STR +2), reach 5ft_1.5m_1sq, one target. Hit: 1d6+2 piercing damage.
 
-***Claw.*** +5 (Stab 3 STR +2), reach 5 ft., one target. Hit: 2d6+2 slashing damage.
+***Claw.*** +5 (Stab 3 STR +2), reach 5ft_1.5m_1sq, one target. Hit: 2d6+2 slashing damage.
 

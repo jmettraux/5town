@@ -14,11 +14,11 @@
 
 **Skills** Stab 1, Notice 1
 
-**Move** 50 ft.
+**Move** 50ft_15m_10sq
 
 **Morale** 7
 
 ## Attacks
 
-***Bite.*** +1 (Stab 1 DEX +0), reach 5 ft., one target. Hit: 1d6+0 piercing damage.
+***Bite.*** +1 (Stab 1 DEX +0), reach 5ft_1.5m_1sq, one target. Hit: 1d6+0 piercing damage.
 

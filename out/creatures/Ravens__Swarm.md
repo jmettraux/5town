@@ -14,11 +14,11 @@
 
 **Skills** Stab 2, Notice 2
 
-**Move** 10 ft., fly 50 ft.
+**Move** 10ft_3m_2sq, fly 50ft_15m_10sq
 
 **Morale** 9
 
 ## Attacks
 
-***Beaks.*** +3 (Stab 2 DEX +1), reach 5 ft., one target in the swarm's space. Hit: 2d6+1 piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer.
+***Beaks.*** +3 (Stab 2 DEX +1), reach 5ft_1.5m_1sq, one target in the swarm's space. Hit: 2d6+1 piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer.
 

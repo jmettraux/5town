@@ -14,7 +14,7 @@
 
 **Skills** Stab 2, Notice 3, Sneak 3
 
-**Move** 50 ft., fly 50 ft. (hover)
+**Move** 50ft_15m_10sq, fly 50ft_15m_10sq (hover)
 
 **Morale** 12
 
@@ -22,5 +22,5 @@
 
 ***Multiattack.*** The stalker makes two slam attacks.
 
-***Slam.*** +4 (Stab 2 DEX +2), reach 5 ft., one target. Hit: 2d6+2 bludgeoning damage.
+***Slam.*** +4 (Stab 2 DEX +2), reach 5ft_1.5m_1sq, one target. Hit: 2d6+2 bludgeoning damage.
 

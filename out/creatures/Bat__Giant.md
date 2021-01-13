@@ -14,11 +14,11 @@
 
 **Skills** Stab 1
 
-**Move** 10 ft., fly 60 ft.
+**Move** 10ft_3m_2sq, fly 60ft_18m_12sq
 
 **Morale** 8
 
 ## Attacks
 
-***Bite.*** +2 (Stab 1 DEX +1), reach 5 ft., one creature. Hit: 1d6+1 piercing damage.
+***Bite.*** +2 (Stab 1 DEX +1), reach 5ft_1.5m_1sq, one creature. Hit: 1d6+1 piercing damage.
 

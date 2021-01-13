@@ -14,7 +14,7 @@
 
 **Skills** Stab 3, Notice 3, Sneak 1
 
-**Move** 40 ft., fly 80 ft., swim 40 ft.
+**Move** 40ft_12m_8sq, fly 80ft_24m_16sq, swim 40ft_12m_8sq
 
 **Morale** 8
 
@@ -22,9 +22,9 @@
 
 ***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
 
-***Bite.*** +5 (Stab 3 STR +2), reach 10 ft., one target. Hit: 2d10+2 piercing damage plus 4 (1d8) acid damage.
+***Bite.*** +5 (Stab 3 STR +2), reach 10ft_3m_2sq, one target. Hit: 2d10+2 piercing damage plus 4 (1d8) acid damage.
 
-***Claw.*** +5 (Stab 3 STR +2), reach 5 ft., one target. Hit: 2d6+2 slashing damage.
+***Claw.*** +5 (Stab 3 STR +2), reach 5ft_1.5m_1sq, one target. Hit: 2d6+2 slashing damage.
 
-***Acid Breath (Recharge 5-6).*** The dragon exhales acid in a 30-foot line that is 5 feet wide. Each creature in that line must make a DC 14 Dexterity saving throw, taking 49 (11d8) acid damage on a failed save, or half as much damage on a successful one.
+***Acid Breath (Recharge 5-6).*** The dragon exhales acid in a 30ft_9m_6sq line that is 5ft_1.5m_1sq wide. Each creature in that line must make a DC 14 Dexterity saving throw, taking 49 (11d8) acid damage on a failed save, or half as much damage on a successful one.
 

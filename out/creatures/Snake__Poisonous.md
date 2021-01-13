@@ -14,11 +14,11 @@
 
 **Skills** Stab 2
 
-**Move** 30 ft., swim 30 ft.
+**Move** 30ft_9m_6sq, swim 30ft_9m_6sq
 
 **Morale** 7
 
 ## Attacks
 
-***Bite.*** +3 (Stab 2 DEX +1), reach 5 ft., one target. Hit: 1 piercing damage, and the target must make a DC 10 Constitution saving throw, taking 5 (2d4) poison damage on a failed save, or half as much damage on a successful one.
+***Bite.*** +3 (Stab 2 DEX +1), reach 5ft_1.5m_1sq, one target. Hit: 1 piercing damage, and the target must make a DC 10 Constitution saving throw, taking 5 (2d4) poison damage on a failed save, or half as much damage on a successful one.
 

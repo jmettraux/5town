@@ -14,11 +14,11 @@
 
 **Skills** Stab 2
 
-**Move** 50 ft.
+**Move** 50ft_15m_10sq
 
 **Morale** 7
 
 ## Attacks
 
-***Beak.*** +3 (Stab 2 STR +1), reach 5 ft., one target. Hit: 1d8+1 slashing damage.
+***Beak.*** +3 (Stab 2 STR +1), reach 5ft_1.5m_1sq, one target. Hit: 1d8+1 slashing damage.
 

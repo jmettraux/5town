@@ -14,7 +14,7 @@
 
 **Skills** Stab 4, Notice 2
 
-**Move** 20 ft., fly 120 ft.
+**Move** 20ft_6m_4sq, fly 120ft_36m_24sq
 
 **Morale** 10 (12 in lair)
 
@@ -22,7 +22,7 @@
 
 ***Multiattack.*** The roc makes two attacks: one with its beak and one with its talons.
 
-***Beak.*** +6 (Stab 4 STR +2), reach 10 ft., one target. Hit: 4d8+2 piercing damage.
+***Beak.*** +6 (Stab 4 STR +2), reach 10ft_3m_2sq, one target. Hit: 4d8+2 piercing damage.
 
-***Talons.*** +6 (Stab 4 STR +2), reach 5 ft., one target. Hit: 4d6+2 slashing damage, and the target is grappled (escape DC 19). Until this grapple ends, the target is restrained, and the roc can't use its talons on another target.
+***Talons.*** +6 (Stab 4 STR +2), reach 5ft_1.5m_1sq, one target. Hit: 4d6+2 slashing damage, and the target is grappled (escape DC 19). Until this grapple ends, the target is restrained, and the roc can't use its talons on another target.
 

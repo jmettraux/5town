@@ -14,7 +14,7 @@
 
 **Skills** Stab 3, Shoot 3, Exert (str) 3, Notice 1
 
-**Move** 40 ft.
+**Move** 40ft_12m_8sq
 
 **Morale** 9
 
@@ -22,7 +22,7 @@
 
 ***Multiattack.*** The giant makes two greatclub attacks.
 
-***Greatclub.*** +5 (Stab 3 STR +2), reach 15 ft., one target. Hit: 3d8+2 bludgeoning damage.
+***Greatclub.*** +5 (Stab 3 STR +2), reach 15ft_4.5m_3sq, one target. Hit: 3d8+2 bludgeoning damage.
 
-***Rock.*** +5 (Shoot 3 STR +2), range 60/240 ft., one target. Hit: 4d10+2 bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked prone.
+***Rock.*** +5 (Shoot 3 STR +2), range 60/240ft_72m_48sq, one target. Hit: 4d10+2 bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked prone.
 

@@ -14,7 +14,7 @@
 
 **Skills** Stab 3, Notice 3
 
-**Move** 30 ft., swim 30 ft.
+**Move** 30ft_9m_6sq, swim 30ft_9m_6sq
 
 **Morale** 9
 
@@ -22,5 +22,5 @@
 
 ***Multiattack.*** The hydra makes as many bite attacks as it has heads.
 
-***Bite.*** +5 (Stab 3 STR +2), reach 10 ft., one target. Hit: 1d10+2 piercing damage.
+***Bite.*** +5 (Stab 3 STR +2), reach 10ft_3m_2sq, one target. Hit: 1d10+2 piercing damage.
 

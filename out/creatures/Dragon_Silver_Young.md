@@ -14,7 +14,7 @@
 
 **Skills** Stab 4, Magic 2, Know 2, Notice 4, Sneak 2
 
-**Move** 40 ft., fly 80 ft.
+**Move** 40ft_12m_8sq, fly 80ft_24m_16sq
 
 **Morale** 10
 
@@ -22,13 +22,13 @@
 
 ***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
 
-***Bite.*** +6 (Stab 4 STR +2), reach 10 ft., one target. Hit: 2d10+2 piercing damage.
+***Bite.*** +6 (Stab 4 STR +2), reach 10ft_3m_2sq, one target. Hit: 2d10+2 piercing damage.
 
-***Claw.*** +6 (Stab 4 STR +2), reach 5 ft., one target. Hit: 2d6+2 slashing damage.
+***Claw.*** +6 (Stab 4 STR +2), reach 5ft_1.5m_1sq, one target. Hit: 2d6+2 slashing damage.
 
 ***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
 
-***Cold Breath..*** The dragon exhales an icy blast in a 30- foot cone. Each creature in that area must make a DC 17 Constitution saving throw, taking 54 (12d8) cold damage on a failed save, or half as much damage on a successful one.
+***Cold Breath..*** The dragon exhales an icy blast in a 30ft_9m_6sq cone. Each creature in that area must make a DC 17 Constitution saving throw, taking 54 (12d8) cold damage on a failed save, or half as much damage on a successful one.
 
-***Paralyzing Breath..*** The dragon exhales paralyzing gas in a 30-foot cone. Each creature in that area must succeed on a DC 17 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Paralyzing Breath..*** The dragon exhales paralyzing gas in a 30ft_9m_6sq cone. Each creature in that area must succeed on a DC 17 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 

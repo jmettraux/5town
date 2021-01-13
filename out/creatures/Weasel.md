@@ -14,11 +14,11 @@
 
 **Skills** Stab 2, Notice 1, Sneak 1
 
-**Move** 30 ft.
+**Move** 30ft_9m_6sq
 
 **Morale** 7
 
 ## Attacks
 
-***Bite.*** +3 (Stab 2 DEX +1), reach 5 ft., one target. Hit: 1 piercing damage.
+***Bite.*** +3 (Stab 2 DEX +1), reach 5ft_1.5m_1sq, one target. Hit: 1 piercing damage.
 

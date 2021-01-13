@@ -14,11 +14,11 @@
 
 **Skills** Stab 1
 
-**Move** 0 ft., swim 40 ft.
+**Move** 0ft, swim 40ft_12m_8sq
 
 **Morale** 6
 
 ## Attacks
 
-***Ram.*** +2 (Stab 1 DEX +1), reach 5 ft., one target. Hit: 1d6+1 bludgeoning damage.
+***Ram.*** +2 (Stab 1 DEX +1), reach 5ft_1.5m_1sq, one target. Hit: 1d6+1 bludgeoning damage.
 

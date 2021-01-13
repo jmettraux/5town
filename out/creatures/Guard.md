@@ -14,13 +14,13 @@
 
 **Skills** Shoot 2, Notice 1
 
-**Move** 30 ft.
+**Move** 30ft_9m_6sq
 
 **Morale** 8
 
 ## Attacks
 
-***Spear.*** Melee or Ranged Weapon Attack:+2 (Shoot 2 DEX +0), reach 5 ft. or range 20/60 ft., one target. Hit: 1d6 +0 piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
+***Spear.*** Melee or Ranged Weapon Attack:+2 (Shoot 2 DEX +0), reach 5ft_1.5m_1sq or range 20/60ft_18m_12sq, one target. Hit: 1d6 +0 piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
 
 ***Guards.*** include members of a city watch, sentries in a citadel or fortified town, and the bodyguards of merchants and nobles.
 

@@ -14,13 +14,13 @@
 
 **Skills** Stab 2, Magic 1, Connect 1, Notice 1, Sneak 1
 
-**Move** 30 ft.
+**Move** 30ft_9m_6sq
 
 **Morale** 12
 
 ## Attacks
 
-***Claws.*** +4 (Stab 2 STR +2), reach 5 ft., one target. Hit: 2d8+2 slashing damage.
+***Claws.*** +4 (Stab 2 STR +2), reach 5ft_1.5m_1sq, one target. Hit: 2d8+2 slashing damage.
 
 ***Illusory Appearance.*** The hag covers herself and anything she is wearing or carrying with a magical illusion that makes her look like another creature of her general size and humanoid shape. The illusion ends if the hag takes a bonus action to end it or if she dies.
 

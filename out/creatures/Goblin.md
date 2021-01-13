@@ -14,13 +14,13 @@
 
 **Skills** Stab 2, Shoot 2, Sneak 2
 
-**Move** 30 ft.
+**Move** 30ft_9m_6sq
 
 **Morale** 7 (9 with leader)
 
 ## Attacks
 
-***Scimitar.*** +3 (Stab 2 DEX +1), reach 5 ft., one target. Hit: 1d6+1 slashing damage.
+***Scimitar.*** +3 (Stab 2 DEX +1), reach 5ft_1.5m_1sq, one target. Hit: 1d6+1 slashing damage.
 
-***Shortbow.*** +3 (Shoot 2 DEX +1), range 80/320 ft., one target. Hit: 1d6+1 piercing damage.
+***Shortbow.*** +3 (Shoot 2 DEX +1), range 80/320ft_96m_64sq, one target. Hit: 1d6+1 piercing damage.
 

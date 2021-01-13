@@ -14,11 +14,11 @@
 
 **Skills** Stab 2
 
-**Move** 0 ft., fly 30 ft.
+**Move** 0ft, fly 30ft_9m_6sq
 
 **Morale** 8
 
 ## Attacks
 
-***Bites.*** +3 (Stab 2 DEX +1), reach 0 ft., one creature in the swarm's space. Hit: 2d4+1 piercing damage, or 2 (1d4) piercing damage if the swarm has half of its hit points or fewer.
+***Bites.*** +3 (Stab 2 DEX +1), reach 0ft, one creature in the swarm's space. Hit: 2d4+1 piercing damage, or 2 (1d4) piercing damage if the swarm has half of its hit points or fewer.
 

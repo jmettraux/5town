@@ -14,11 +14,11 @@
 
 **Skills** Stab 2, Connect 1, Notice 1, Convice 1
 
-**Move** 30 ft.
+**Move** 30ft_9m_6sq
 
 **Morale** 7
 
 ## Attacks
 
-***Rapier.*** +2 (Stab 2 DEX +0), reach 5 ft., one target. Hit: 1d8 +0 piercing damage.
+***Rapier.*** +2 (Stab 2 DEX +0), reach 5ft_1.5m_1sq, one target. Hit: 1d8 +0 piercing damage.
 

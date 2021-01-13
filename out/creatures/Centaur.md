@@ -14,7 +14,7 @@
 
 **Skills** Stab 2, Shoot 0, Exert (str) 1, Notice 1, Survive 1
 
-**Move** 50 ft.
+**Move** 50ft_15m_10sq
 
 **Morale** 8
 
@@ -22,9 +22,9 @@
 
 ***Multiattack.*** The centaur makes two attacks: one with its pike and one with its hooves or two with its longbow.
 
-***Pike.*** +4 (Stab 2 STR +2), reach 10 ft., one target. Hit: 1d10+2 piercing damage.
+***Pike.*** +4 (Stab 2 STR +2), reach 10ft_3m_2sq, one target. Hit: 1d10+2 piercing damage.
 
-***Hooves.*** +4 (Stab 2 STR +2), reach 5 ft., one target. Hit: 2d6+2 bludgeoning damage.
+***Hooves.*** +4 (Stab 2 STR +2), reach 5ft_1.5m_1sq, one target. Hit: 2d6+2 bludgeoning damage.
 
-***Longbow.*** +2 (Shoot 0 STR +2), range 150/600 ft., one target. Hit: 1d8+2 piercing damage.
+***Longbow.*** +2 (Shoot 0 STR +2), range 150/600ft_180m_120sq, one target. Hit: 1d8+2 piercing damage.
 

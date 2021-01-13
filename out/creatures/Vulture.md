@@ -14,11 +14,11 @@
 
 **Skills** Stab 2, Notice 1
 
-**Move** 10 ft., fly 50 ft.
+**Move** 10ft_3m_2sq, fly 50ft_15m_10sq
 
 **Morale** 6
 
 ## Attacks
 
-***Beak.*** +2 (Stab 2 DEX +0), reach 5 ft., one target. Hit: 1d4+0 piercing damage.
+***Beak.*** +2 (Stab 2 DEX +0), reach 5ft_1.5m_1sq, one target. Hit: 1d4+0 piercing damage.
 

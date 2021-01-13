@@ -14,13 +14,13 @@
 
 **Skills** Stab 2
 
-**Move** 30 ft.
+**Move** 30ft_9m_6sq
 
 **Morale** 6
 
 ## Attacks
 
-***Club.*** +2 (Stab 2 DEX +0), reach 5 ft., one target. Hit: 1d4+0 bludgeoning damage.
+***Club.*** +2 (Stab 2 DEX +0), reach 5ft_1.5m_1sq, one target. Hit: 1d4+0 bludgeoning damage.
 
 ***Commoners.*** include peasants, serfs, slaves, servants, pilgrims, merchants, artisans, and hermits.
 

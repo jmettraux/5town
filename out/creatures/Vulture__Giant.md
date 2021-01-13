@@ -14,7 +14,7 @@
 
 **Skills** Stab 2, Notice 1
 
-**Move** 10 ft., fly 60 ft.
+**Move** 10ft_3m_2sq, fly 60ft_18m_12sq
 
 **Morale** 6
 
@@ -22,7 +22,7 @@
 
 ***Multiattack.*** The vulture makes two attacks: one with its beak and one with its talons.
 
-***Beak.*** +3 (Stab 2 STR +1), reach 5 ft., one target. Hit: 2d4+1 piercing damage.
+***Beak.*** +3 (Stab 2 STR +1), reach 5ft_1.5m_1sq, one target. Hit: 2d4+1 piercing damage.
 
-***Talons.*** +3 (Stab 2 STR +1), reach 5 ft., one target. Hit: 2d6+1 slashing damage.
+***Talons.*** +3 (Stab 2 STR +1), reach 5ft_1.5m_1sq, one target. Hit: 2d6+1 slashing damage.
 

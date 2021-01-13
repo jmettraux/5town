@@ -14,11 +14,11 @@
 
 **Skills** Stab 0, Notice 1, Sneak 1
 
-**Move** 40 ft., climb 30 ft.
+**Move** 40ft_12m_8sq, climb 30ft_9m_6sq
 
 **Morale** 6
 
 ## Attacks
 
-***Claws.*** +1 (Stab 0 DEX +1), reach 5 ft., one target. Hit: 1 slashing damage.
+***Claws.*** +1 (Stab 0 DEX +1), reach 5ft_1.5m_1sq, one target. Hit: 1 slashing damage.
 

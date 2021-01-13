@@ -14,7 +14,7 @@
 
 **Skills** Stab 4, Notice 4, Sneak 2
 
-**Move** 40 ft., climb 40 ft., fly 80 ft.
+**Move** 40ft_12m_8sq, climb 40ft_12m_8sq, fly 80ft_24m_16sq
 
 **Morale** 10
 
@@ -22,9 +22,9 @@
 
 ***Multiattack..*** The dragon makes three attacks: one with its bite and two with its claws.
 
-***Bite.*** +6 (Stab 4 STR +2), reach 10 ft., one target. Hit: 2d10+2 piercing damage plus 3 (1d6) fire damage.
+***Bite.*** +6 (Stab 4 STR +2), reach 10ft_3m_2sq, one target. Hit: 2d10+2 piercing damage plus 3 (1d6) fire damage.
 
-***Claw.*** +6 (Stab 4 STR +2), reach 5 ft., one target. Hit: 2d6+2 slashing damage.
+***Claw.*** +6 (Stab 4 STR +2), reach 5ft_1.5m_1sq, one target. Hit: 2d6+2 slashing damage.
 
-***Fire Breath (Recharge 5-6).*** The dragon exhales fire in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 56 (16d6) fire damage on a failed save, or half as much damage on a successful one.
+***Fire Breath (Recharge 5-6).*** The dragon exhales fire in a 30ft_9m_6sq cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 56 (16d6) fire damage on a failed save, or half as much damage on a successful one.
 

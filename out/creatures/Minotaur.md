@@ -14,13 +14,13 @@
 
 **Skills** Stab 2, Notice 2
 
-**Move** 40 ft.
+**Move** 40ft_12m_8sq
 
 **Morale** 12
 
 ## Attacks
 
-***Greataxe.*** +4 (Stab 2 STR +2), reach 5 ft., one target. Hit: 2d12+2 slashing damage.
+***Greataxe.*** +4 (Stab 2 STR +2), reach 5ft_1.5m_1sq, one target. Hit: 2d12+2 slashing damage.
 
-***Gore.*** +4 (Stab 2 STR +2), reach 5 ft., one target. Hit: 2d8+2 piercing damage.
+***Gore.*** +4 (Stab 2 STR +2), reach 5ft_1.5m_1sq, one target. Hit: 2d8+2 piercing damage.
 

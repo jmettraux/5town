@@ -14,13 +14,13 @@
 
 **Skills** Stab 2
 
-**Move** 30 ft.
+**Move** 30ft_9m_6sq
 
 **Morale** 9
 
 ## Attacks
 
-***Bite.*** +1 (Stab 0 DEX +1), reach 5 ft., one creature. Hit: 2d6+1 piercing damage.
+***Bite.*** +1 (Stab 0 DEX +1), reach 5ft_1.5m_1sq, one creature. Hit: 2d6+1 piercing damage.
 
-***Claws.*** +3 (Stab 2 DEX +1), reach 5 ft., one target. Hit: 2d4+1 slashing damage. If the target is a creature other than an elf or undead, it must succeed on a DC 10 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Claws.*** +3 (Stab 2 DEX +1), reach 5ft_1.5m_1sq, one target. Hit: 2d4+1 slashing damage. If the target is a creature other than an elf or undead, it must succeed on a DC 10 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 

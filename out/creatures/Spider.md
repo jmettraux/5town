@@ -14,11 +14,11 @@
 
 **Skills** Stab 2, Sneak 1
 
-**Move** 20 ft., climb 20 ft.
+**Move** 20ft_6m_4sq, climb 20ft_6m_4sq
 
 **Morale** 6
 
 ## Attacks
 
-***Bite.*** +3 (Stab 2 DEX +1), reach 5 ft., one creature. Hit: 1 piercing damage, and the target must succeed on a DC 9 Constitution saving throw or take 2 (1d4) poison damage.
+***Bite.*** +3 (Stab 2 DEX +1), reach 5ft_1.5m_1sq, one creature. Hit: 1 piercing damage, and the target must succeed on a DC 9 Constitution saving throw or take 2 (1d4) poison damage.
 

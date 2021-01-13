@@ -14,7 +14,7 @@
 
 **Skills** Stab 2
 
-**Move** 20 ft., fly 40 ft.
+**Move** 20ft_6m_4sq, fly 40ft_12m_8sq
 
 **Morale** 7
 
@@ -22,9 +22,9 @@
 
 ***Multiattack.*** The harpy makes two attacks: one with its claws and one with its club.
 
-***Claws.*** +2 (Stab 2 DEX +0), reach 5 ft., one target. Hit: 2d4+0 slashing damage.
+***Claws.*** +2 (Stab 2 DEX +0), reach 5ft_1.5m_1sq, one target. Hit: 2d4+0 slashing damage.
 
-***Club.*** +2 (Stab 2 DEX +0), reach 5 ft., one target. Hit: 1d4+0 bludgeoning damage.
+***Club.*** +2 (Stab 2 DEX +0), reach 5ft_1.5m_1sq, one target. Hit: 1d4+0 bludgeoning damage.
 
-***Luring Song.*** The harpy sings a magical melody. Every humanoid and giant within 300 feet of the harpy that can hear the song must succeed on a DC 11 Wisdom saving throw or be charmed until the song ends. The harpy must take a bonus action on its subsequent turns to continue singing. It can stop singing at any time. The song ends if the harpy is incapacitated.
+***Luring Song.*** The harpy sings a magical melody. Every humanoid and giant within 300ft_90m_60sq of the harpy that can hear the song must succeed on a DC 11 Wisdom saving throw or be charmed until the song ends. The harpy must take a bonus action on its subsequent turns to continue singing. It can stop singing at any time. The song ends if the harpy is incapacitated.
 

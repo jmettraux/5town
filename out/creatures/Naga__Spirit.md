@@ -14,11 +14,11 @@
 
 **Skills** Stab 3
 
-**Move** 40 ft.
+**Move** 40ft_12m_8sq
 
 **Morale** 11
 
 ## Attacks
 
-***Bite.*** +5 (Stab 3 STR +2), reach 10 ft., one creature. Hit: 1d6+2 piercing damage, and the target must make a DC 13 Constitution saving throw, taking 31 (7d8) poison damage on a failed save, or half as much damage on a successful one.
+***Bite.*** +5 (Stab 3 STR +2), reach 10ft_3m_2sq, one creature. Hit: 1d6+2 piercing damage, and the target must make a DC 13 Constitution saving throw, taking 31 (7d8) poison damage on a failed save, or half as much damage on a successful one.
 

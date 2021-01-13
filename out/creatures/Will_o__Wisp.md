@@ -14,13 +14,13 @@
 
 **Skills** Stab 0
 
-**Move** 0 ft., fly 50 ft. (hover)
+**Move** 0ft, fly 50ft_15m_10sq (hover)
 
 **Morale** 12
 
 ## Attacks
 
-***Shock.*** Melee Spell Attack:+2 (Stab 0 DEX +2), reach 5 ft., one creature. Hit: 2d8+2 lightning damage.
+***Shock.*** Melee Spell Attack:+2 (Stab 0 DEX +2), reach 5ft_1.5m_1sq, one creature. Hit: 2d8+2 lightning damage.
 
 ***Invisibility.*** The will-o'-wisp and its light magically become invisible until it attacks or uses its Consume Life, or until its concentration ends (as if concentrating on a spell).
 

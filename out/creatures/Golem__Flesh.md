@@ -14,7 +14,7 @@
 
 **Skills** Stab 3
 
-**Move** 30 ft.
+**Move** 30ft_9m_6sq
 
 **Morale** 12
 
@@ -22,5 +22,5 @@
 
 ***Multiattack.*** The golem makes two slam attacks.
 
-***Slam.*** +5 (Stab 3 STR +2), reach 5 ft., one target. Hit: 2d8+2 bludgeoning damage.
+***Slam.*** +5 (Stab 3 STR +2), reach 5ft_1.5m_1sq, one target. Hit: 2d8+2 bludgeoning damage.
 

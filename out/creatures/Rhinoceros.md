@@ -14,11 +14,11 @@
 
 **Skills** Stab 2
 
-**Move** 40 ft.
+**Move** 40ft_12m_8sq
 
 **Morale** 6
 
 ## Attacks
 
-***Gore.*** +4 (Stab 2 STR +2), reach 5 ft., one target. Hit: 2d8+2 bludgeoning damage.
+***Gore.*** +4 (Stab 2 STR +2), reach 5ft_1.5m_1sq, one target. Hit: 2d8+2 bludgeoning damage.
 

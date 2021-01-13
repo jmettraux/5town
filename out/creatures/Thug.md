@@ -14,7 +14,7 @@
 
 **Skills** Stab 2, Shoot 0, Lead 1
 
-**Move** 30 ft.
+**Move** 30ft_9m_6sq
 
 **Morale** 7
 
@@ -22,9 +22,9 @@
 
 ***Multiattack.*** The thug makes two melee attacks.
 
-***Mace.*** +3 (Stab 2 STR +1), reach 5 ft., one creature. Hit: 1d6 +1 bludgeoning damage.
+***Mace.*** +3 (Stab 2 STR +1), reach 5ft_1.5m_1sq, one creature. Hit: 1d6 +1 bludgeoning damage.
 
-***Heavy Crossbow.*** +1 (Shoot 0 STR +1), range 100/400 ft., one target. Hit: 1d10+1 piercing damage.
+***Heavy Crossbow.*** +1 (Shoot 0 STR +1), range 100/400ft_120m_80sq, one target. Hit: 1d10+1 piercing damage.
 
 ***Thugs.*** are ruthless enforcers skilled at intimidation and violence. They work for money and have few scruples.
 

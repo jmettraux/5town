@@ -14,7 +14,7 @@
 
 **Skills** Stab 5, Shoot 5, Magic 2, Exert (str) 2, Know 2, Notice 2
 
-**Move** 50 ft., swim 50 ft.
+**Move** 50ft_15m_10sq, swim 50ft_15m_10sq
 
 **Morale** 10
 
@@ -22,9 +22,9 @@
 
 ***Multiattack.*** The giant makes two greatsword attacks.
 
-***Greatsword.*** +7 (Stab 5 STR +2), reach 10 ft., one target. Hit: 6d6+2 slashing damage.
+***Greatsword.*** +7 (Stab 5 STR +2), reach 10ft_3m_2sq, one target. Hit: 6d6+2 slashing damage.
 
-***Rock.*** +7 (Shoot 5 STR +2), range 60/240 ft., one target. Hit: 4d12+2 bludgeoning damage.
+***Rock.*** +7 (Shoot 5 STR +2), range 60/240ft_72m_48sq, one target. Hit: 4d12+2 bludgeoning damage.
 
-***Lightning Strike (Recharge 5-6).*** The giant hurls a magical lightning bolt at a point it can see within 500 feet of it. Each creature within 10 feet of that point must make a DC 17 Dexterity saving throw, taking 54 (12d8) lightning damage on a failed save, or half as much damage on a successful one.
+***Lightning Strike (Recharge 5-6).*** The giant hurls a magical lightning bolt at a point it can see within 500ft_150m_100sq of it. Each creature within 10ft_3m_2sq of that point must make a DC 17 Dexterity saving throw, taking 54 (12d8) lightning damage on a failed save, or half as much damage on a successful one.
 

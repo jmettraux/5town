@@ -14,7 +14,7 @@
 
 **Skills** Stab 3, Notice 1, Sneak 1
 
-**Move** 30 ft.
+**Move** 30ft_9m_6sq
 
 **Morale** 9
 
@@ -22,7 +22,7 @@
 
 ***Multiattack.*** The vampire makes two attacks, only one of which can be a bite attack.
 
-***Claws.*** +4 (Stab 3 DEX +1), reach 5 ft., one creature. Hit: 2d4+1 slashing damage. Instead of dealing damage, the vampire can grapple the target (escape DC 13).
+***Claws.*** +4 (Stab 3 DEX +1), reach 5ft_1.5m_1sq, one creature. Hit: 2d4+1 slashing damage. Instead of dealing damage, the vampire can grapple the target (escape DC 13).
 
-***Bite.*** +4 (Stab 3 DEX +1), reach 5 ft., one willing creature, or a creature that is grappled by the vampire, incapacitated, or restrained. Hit: 1d6+1 piercing damage plus 7 (2d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
+***Bite.*** +4 (Stab 3 DEX +1), reach 5ft_1.5m_1sq, one willing creature, or a creature that is grappled by the vampire, incapacitated, or restrained. Hit: 1d6+1 piercing damage plus 7 (2d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
 

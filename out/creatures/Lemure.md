@@ -14,11 +14,11 @@
 
 **Skills** Stab 3
 
-**Move** 15 ft.
+**Move** 15ft_4.5m_3sq
 
 **Morale** 5
 
 ## Attacks
 
-***Fist.*** +3 (Stab 3 STR +0), reach 5 ft., one target. Hit: 1d4+0 bludgeoning damage.
+***Fist.*** +3 (Stab 3 STR +0), reach 5ft_1.5m_1sq, one target. Hit: 1d4+0 bludgeoning damage.
 

@@ -14,13 +14,13 @@
 
 **Skills** Stab 2, Shoot 2
 
-**Move** 30 ft.
+**Move** 30ft_9m_6sq
 
 **Morale** 6 (8 with leader)
 
 ## Attacks
 
-***Dagger.*** +3 (Stab 2 DEX +1), reach 5 ft., one target. Hit: 1d4+1 piercing damage.
+***Dagger.*** +3 (Stab 2 DEX +1), reach 5ft_1.5m_1sq, one target. Hit: 1d4+1 piercing damage.
 
-***Sling.*** +3 (Shoot 2 DEX +1), range 30/120 ft., one target. Hit: 1d4+1 bludgeoning damage.
+***Sling.*** +3 (Shoot 2 DEX +1), range 30/120ft_36m_24sq, one target. Hit: 1d4+1 bludgeoning damage.
 

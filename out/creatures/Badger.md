@@ -14,11 +14,11 @@
 
 **Skills** Stab 2
 
-**Move** 20 ft., burrow 5 ft.
+**Move** 20ft_6m_4sq, burrow 5ft_1.5m_1sq
 
 **Morale** 6
 
 ## Attacks
 
-***Bite.*** +2 (Stab 2 DEX +0), reach 5 ft., one target. Hit: 1 piercing damage.
+***Bite.*** +2 (Stab 2 DEX +0), reach 5ft_1.5m_1sq, one target. Hit: 1 piercing damage.
 

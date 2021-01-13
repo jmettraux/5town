@@ -14,11 +14,11 @@
 
 **Skills** Stab 1, Sneak 1
 
-**Move** 30 ft., swim 30 ft.
+**Move** 30ft_9m_6sq, swim 30ft_9m_6sq
 
 **Morale** 7
 
 ## Attacks
 
-***Claw.*** +2 (Stab 1 DEX +1), reach 5 ft., one target. Hit: 1d6+1 bludgeoning damage, and the target is grappled (escape DC 11). The crab has two claws, each of which can grapple only one target.
+***Claw.*** +2 (Stab 1 DEX +1), reach 5ft_1.5m_1sq, one target. Hit: 1d6+1 bludgeoning damage, and the target is grappled (escape DC 11). The crab has two claws, each of which can grapple only one target.
 

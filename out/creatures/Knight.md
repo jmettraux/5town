@@ -14,7 +14,7 @@
 
 **Skills** Stab 2, Shoot 0
 
-**Move** 30 ft.
+**Move** 30ft_9m_6sq
 
 **Morale** 10
 
@@ -22,9 +22,9 @@
 
 ***Multiattack.*** The knight makes two melee attacks.
 
-***Greatsword.*** +3 (Stab 2 STR +1), reach 5 ft., one target. Hit: 2d6 +1 slashing damage.
+***Greatsword.*** +3 (Stab 2 STR +1), reach 5ft_1.5m_1sq, one target. Hit: 2d6 +1 slashing damage.
 
-***Heavy Crossbow.*** +1 (Shoot 0 STR +1), range 100/400 ft., one target. Hit: 1d10+1 piercing damage.
+***Heavy Crossbow.*** +1 (Shoot 0 STR +1), range 100/400ft_120m_80sq, one target. Hit: 1d10+1 piercing damage.
 
-***Leadership (Recharges after a Short or Long Rest).*** For 1 minute, the knight can utter a special command or warning whenever a nonhostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the knight. A creature can benefit from only one Leadership die at a time. This effect ends if the knight is incapacitated.
+***Leadership (Recharges after a Short or Long Rest).*** For 1 minute, the knight can utter a special command or warning whenever a nonhostile creature that it can see within 30ft_9m_6sq of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the knight. A creature can benefit from only one Leadership die at a time. This effect ends if the knight is incapacitated.
 

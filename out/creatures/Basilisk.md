@@ -14,11 +14,11 @@
 
 **Skills** Stab 2
 
-**Move** 20 ft.
+**Move** 20ft_6m_4sq
 
 **Morale** 9
 
 ## Attacks
 
-***Bite.*** +3 (Stab 2 STR +1), reach 5 ft., one target. Hit: 2d6+1 piercing damage plus 7 (2d6) poison damage.
+***Bite.*** +3 (Stab 2 STR +1), reach 5ft_1.5m_1sq, one target. Hit: 2d6+1 piercing damage plus 7 (2d6) poison damage.
 

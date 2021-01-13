@@ -14,7 +14,7 @@
 
 **Skills** Stab 4, Notice 4, Sneak 2
 
-**Move** 40 ft., burrow 20 ft., fly 80 ft.
+**Move** 40ft_12m_8sq, burrow 20ft_6m_4sq, fly 80ft_24m_16sq
 
 **Morale** 9
 
@@ -22,9 +22,9 @@
 
 ***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
 
-***Bite.*** +6 (Stab 4 STR +2), reach 10 ft., one target. Hit: 2d10+2 piercing damage plus 5 (1d10) lightning damage.
+***Bite.*** +6 (Stab 4 STR +2), reach 10ft_3m_2sq, one target. Hit: 2d10+2 piercing damage plus 5 (1d10) lightning damage.
 
-***Claw.*** +6 (Stab 4 STR +2), reach 5 ft., one target. Hit: 2d6+2 slashing damage.
+***Claw.*** +6 (Stab 4 STR +2), reach 5ft_1.5m_1sq, one target. Hit: 2d6+2 slashing damage.
 
-***Lightning Breath (Recharge 5-6).*** The dragon exhales lightning in an 60-foot line that is 5 feet wide. Each creature in that line must make a DC 16 Dexterity saving throw, taking 55 (10d10) lightning damage on a failed save, or half as much damage on a successful one.
+***Lightning Breath (Recharge 5-6).*** The dragon exhales lightning in an 60ft_18m_12sq line that is 5ft_1.5m_1sq wide. Each creature in that line must make a DC 16 Dexterity saving throw, taking 55 (10d10) lightning damage on a failed save, or half as much damage on a successful one.
 

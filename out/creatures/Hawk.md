@@ -14,11 +14,11 @@
 
 **Skills** Stab 2, Notice 1
 
-**Move** 10 ft., fly 60 ft.
+**Move** 10ft_3m_2sq, fly 60ft_18m_12sq
 
 **Morale** 7
 
 ## Attacks
 
-***Talons.*** +3 (Stab 2 DEX +1), reach 5 ft., one target. Hit: 1 slashing damage.
+***Talons.*** +3 (Stab 2 DEX +1), reach 5ft_1.5m_1sq, one target. Hit: 1 slashing damage.
 

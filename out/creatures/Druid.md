@@ -14,13 +14,13 @@
 
 **Skills** Stab 1, Heal 1, Survive 1, Notice 1
 
-**Move** 30 ft.
+**Move** 30ft_9m_6sq
 
 **Morale** 9
 
 ## Attacks
 
-***Quarterstaff.*** +1 (Stab 1 DEX +0) (+4 to hit with shillelagh), reach 5 ft., one target. Hit: 1d6+0 bludgeoning damage, 4 (1d8) bludgeoning damage if wielded with two hands, or 6 (1d8 + 2) bludgeoning damage with shillelagh.
+***Quarterstaff.*** +1 (Stab 1 DEX +0) (+4 to hit with shillelagh), reach 5ft_1.5m_1sq, one target. Hit: 1d6+0 bludgeoning damage, 4 (1d8) bludgeoning damage if wielded with two hands, or 6 (1d8 + 2) bludgeoning damage with shillelagh.
 
 ***Druids.*** dwell in forests and other secluded wilderness locations, where they protect the natural world from monsters and the encroachment of civilization. Some are **tribal shamans** who heal the sick, pray to animal spirits, and provide spiritual guidance.
 

@@ -1,4 +1,6 @@
 
+require 'stringio'
+
 require 'redcarpet'
 
 

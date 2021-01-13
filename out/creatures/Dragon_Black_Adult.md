@@ -14,7 +14,7 @@
 
 **Skills** Stab 5, Notice 5, Sneak 2
 
-**Move** 40 ft., fly 80 ft., swim 40 ft.
+**Move** 40ft_12m_8sq, fly 80ft_24m_16sq, swim 40ft_12m_8sq
 
 **Morale** 8
 
@@ -22,13 +22,13 @@
 
 ***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
-***Bite.*** +7 (Stab 5 STR +2), reach 10 ft., one target. Hit: 2d10+2 piercing damage plus 4 (1d8) acid damage.
+***Bite.*** +7 (Stab 5 STR +2), reach 10ft_3m_2sq, one target. Hit: 2d10+2 piercing damage plus 4 (1d8) acid damage.
 
-***Claw.*** +7 (Stab 5 STR +2), reach 5 ft., one target. Hit: 2d6+2 slashing damage.
+***Claw.*** +7 (Stab 5 STR +2), reach 5ft_1.5m_1sq, one target. Hit: 2d6+2 slashing damage.
 
-***Tail.*** +7 (Stab 5 STR +2), reach 15 ft., one target. Hit: 2d8+2 bludgeoning damage.
+***Tail.*** +7 (Stab 5 STR +2), reach 15ft_4.5m_3sq, one target. Hit: 2d8+2 bludgeoning damage.
 
-***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120ft_36m_24sq of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 
-***Acid Breath (Recharge 5-6).*** The dragon exhales acid in a 60-foot line that is 5 feet wide. Each creature in that line must make a DC 18 Dexterity saving throw, taking 54 (12d8) acid damage on a failed save, or half as much damage on a successful one.
+***Acid Breath (Recharge 5-6).*** The dragon exhales acid in a 60ft_18m_12sq line that is 5ft_1.5m_1sq wide. Each creature in that line must make a DC 18 Dexterity saving throw, taking 54 (12d8) acid damage on a failed save, or half as much damage on a successful one.
 

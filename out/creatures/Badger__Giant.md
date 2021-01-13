@@ -14,7 +14,7 @@
 
 **Skills** Stab 2
 
-**Move** 30 ft., burrow 10 ft.
+**Move** 30ft_9m_6sq, burrow 10ft_3m_2sq
 
 **Morale** 8
 
@@ -22,7 +22,7 @@
 
 ***Multiattack.*** The badger makes two attacks: one with its bite and one with its claws.
 
-***Bite.*** +2 (Stab 2 STR +0), reach 5 ft., one target. Hit: 1d6+0 piercing damage.
+***Bite.*** +2 (Stab 2 STR +0), reach 5ft_1.5m_1sq, one target. Hit: 1d6+0 piercing damage.
 
-***Claws.*** +2 (Stab 2 STR +0), reach 5 ft., one target. Hit: 2d4+0 slashing damage.
+***Claws.*** +2 (Stab 2 STR +0), reach 5ft_1.5m_1sq, one target. Hit: 2d4+0 slashing damage.
 

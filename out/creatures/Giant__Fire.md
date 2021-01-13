@@ -14,7 +14,7 @@
 
 **Skills** Stab 4, Shoot 4, Exert (str) 2, Notice 2
 
-**Move** 30 ft.
+**Move** 30ft_9m_6sq
 
 **Morale** 9
 
@@ -22,7 +22,7 @@
 
 ***Multiattack.*** The giant makes two greatsword attacks.
 
-***Greatsword.*** +6 (Stab 4 STR +2), reach 10 ft., one target. Hit: 6d6+2 slashing damage.
+***Greatsword.*** +6 (Stab 4 STR +2), reach 10ft_3m_2sq, one target. Hit: 6d6+2 slashing damage.
 
-***Rock.*** +6 (Shoot 4 STR +2), range 60/240 ft., one target. Hit: 4d10+2 bludgeoning damage.
+***Rock.*** +6 (Shoot 4 STR +2), range 60/240ft_72m_48sq, one target. Hit: 4d10+2 bludgeoning damage.
 

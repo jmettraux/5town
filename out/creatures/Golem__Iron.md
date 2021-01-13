@@ -14,7 +14,7 @@
 
 **Skills** Stab 6
 
-**Move** 30 ft.
+**Move** 30ft_9m_6sq
 
 **Morale** 12
 
@@ -22,9 +22,9 @@
 
 ***Multiattack.*** The golem makes two melee attacks.
 
-***Slam.*** +8 (Stab 6 STR +2), reach 5 ft., one target. Hit: 3d8+2 bludgeoning damage.
+***Slam.*** +8 (Stab 6 STR +2), reach 5ft_1.5m_1sq, one target. Hit: 3d8+2 bludgeoning damage.
 
-***Sword.*** +8 (Stab 6 STR +2), reach 10 ft., one target. Hit: 3d10+2 slashing damage.
+***Sword.*** +8 (Stab 6 STR +2), reach 10ft_3m_2sq, one target. Hit: 3d10+2 slashing damage.
 
-***Poison Breath (Recharge 6).*** The golem exhales poisonous gas in a 15-foot cone. Each creature in that area must make a DC 19 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.
+***Poison Breath (Recharge 6).*** The golem exhales poisonous gas in a 15ft_4.5m_3sq cone. Each creature in that area must make a DC 19 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.
 

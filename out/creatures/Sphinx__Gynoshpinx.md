@@ -14,7 +14,7 @@
 
 **Skills** Stab 4, Magic 4, Know 4, Notice 2, Pray 2
 
-**Move** 40 ft., fly 60 ft.
+**Move** 40ft_12m_8sq, fly 60ft_18m_12sq
 
 **Morale** 12
 
@@ -22,5 +22,5 @@
 
 ***Multiattack.*** The sphinx makes two claw attacks.
 
-***Claw.*** +6 (Stab 4 STR +2), reach 5 ft., one target. Hit: 2d8+2 slashing damage.
+***Claw.*** +6 (Stab 4 STR +2), reach 5ft_1.5m_1sq, one target. Hit: 2d8+2 slashing damage.
 

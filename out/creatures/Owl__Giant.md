@@ -14,13 +14,13 @@
 
 **Skills** Stab 1, Notice 2, Sneak 1
 
-**Move** 5 ft., fly 60 ft.
+**Move** 5ft_1.5m_1sq, fly 60ft_18m_12sq
 
 **Morale** 7
 
 ## Attacks
 
-***Talons.*** +2 (Stab 1 DEX +1), reach 5 ft., one target. Hit: 2d6+1 slashing damage.
+***Talons.*** +2 (Stab 1 DEX +1), reach 5ft_1.5m_1sq, one target. Hit: 2d6+1 slashing damage.
 
 ***Giant owls.*** often befriend fey and other sylvan creatures and are guardians of their woodland realms.
 

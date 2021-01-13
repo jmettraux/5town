@@ -1,4 +1,44 @@
 
+#
+# expand_ranges
+
+def expand_ranges(s)
+
+  s
+    .gsub(
+      %r{
+        (\d[.,]\d+|[.,]\d+|\d+)[- ]+
+        (foot|feet|ft\.)
+      }xi) { do_expand_range($1, $2) }
+end
+
+def do_expand_range(range, unit)
+
+  do_expand_ft_range(range)
+end
+
+def range_to_s(range)
+
+  case r = ("%.1f" % range)
+  when /\.[1-9]/ then r.to_f.to_s
+  when /\.0*/ then r.to_i.to_s
+  else r
+  end
+end
+
+def do_expand_ft_range(range)
+
+  ft = range.to_f; return '0ft' if ft == 0.0
+  m = ft * 0.3
+  sq = ft * 0.2
+
+  "#{range_to_s(ft)}ft_#{range_to_s(m)}m_#{range_to_s(sq)}sq"
+end
+
+
+#
+# Creature class
+
 class Creature
 
   attr_reader :abilities
@@ -317,6 +357,10 @@ class Creature
   end
 end
 
+
+#
+# the Redcarpet Markdown renderer
+
 class MdownToCreature < Redcarpet::Render::Base
 
   attr_reader :creature
@@ -327,7 +371,10 @@ class MdownToCreature < Redcarpet::Render::Base
     @creature = Creature.new
   end
 
-  def normal_text(text); text; end
+  def normal_text(text)
+
+    expand_ranges(text)
+  end
 
   def header(title, level)
 
@@ -392,13 +439,23 @@ def make_creature(pa)
   m
 end
 
+
+#
+# the make functions
+
 def make_creatures
 
   Dir[File.join(__dir__, '../sources/creatures/*.md')].each do |pa|
 
     fn = File.join('out/creatures', File.basename(pa))
 
-    md = make_creature(pa).to_md rescue nil
+    md =
+      begin
+        make_creature(pa).to_md
+      rescue => err
+        puts "   #{err.inspect}"
+        nil
+      end
 
     if md
       puts "...#{fn}"

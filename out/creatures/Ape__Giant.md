@@ -14,7 +14,7 @@
 
 **Skills** Stab 3, Shoot 3, Exert (str) 1, Notice 1
 
-**Move** 40 ft., climb 40 ft.
+**Move** 40ft_12m_8sq, climb 40ft_12m_8sq
 
 **Morale** 8
 
@@ -22,7 +22,7 @@
 
 ***Multiattack.*** The ape makes two fist attacks.
 
-***Fist.*** +5 (Stab 3 STR +2), reach 10 ft., one target. Hit: 3d10+2 bludgeoning damage.
+***Fist.*** +5 (Stab 3 STR +2), reach 10ft_3m_2sq, one target. Hit: 3d10+2 bludgeoning damage.
 
-***Rock.*** +5 (Shoot 3 STR +2), range 50/100 ft., one target. Hit: 7d6+2 bludgeoning damage.
+***Rock.*** +5 (Shoot 3 STR +2), range 50/100ft_30m_20sq, one target. Hit: 7d6+2 bludgeoning damage.
 

@@ -14,13 +14,13 @@
 
 **Skills** Stab 2, Notice 1, Sneak 1
 
-**Move** 15 ft., fly 60 ft.
+**Move** 15ft_4.5m_3sq, fly 60ft_18m_12sq
 
 **Morale** 11
 
 ## Attacks
 
-***Bite.*** +3 (Stab 2 DEX +1), reach 5 ft., one target. Hit: 1d4+1 piercing damage.
+***Bite.*** +3 (Stab 2 DEX +1), reach 5ft_1.5m_1sq, one target. Hit: 1d4+1 piercing damage.
 
-***Sting.*** +3 (Stab 2 DEX +1), reach 5 ft., one creature. Hit: 1d4+1 piercing damage, and the target must succeed on a DC 11 Constitution saving throw or become poisoned for 1 hour. If the saving throw fails by 5 or more, the target falls unconscious for the same duration, or until it takes damage or another creature uses an action to shake it awake.
+***Sting.*** +3 (Stab 2 DEX +1), reach 5ft_1.5m_1sq, one creature. Hit: 1d4+1 piercing damage, and the target must succeed on a DC 11 Constitution saving throw or become poisoned for 1 hour. If the saving throw fails by 5 or more, the target falls unconscious for the same duration, or until it takes damage or another creature uses an action to shake it awake.
 

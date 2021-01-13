@@ -14,11 +14,11 @@
 
 **Skills** Stab 2
 
-**Move** 20 ft., fly 40 ft.
+**Move** 20ft_6m_4sq, fly 40ft_12m_8sq
 
 **Morale** 12
 
 ## Attacks
 
-***Bite.*** +3 (Stab 2 DEX +1), reach 5 ft., one creature. Hit: 1 piercing damage, and the target must succeed on a DC 10 Constitution saving throw or be poisoned for 1 minute. If the saving throw fails by 5 or more, the target is instead poisoned for 5 (1d10) minutes and unconscious while poisoned in this way.
+***Bite.*** +3 (Stab 2 DEX +1), reach 5ft_1.5m_1sq, one creature. Hit: 1 piercing damage, and the target must succeed on a DC 10 Constitution saving throw or be poisoned for 1 minute. If the saving throw fails by 5 or more, the target is instead poisoned for 5 (1d10) minutes and unconscious while poisoned in this way.
 

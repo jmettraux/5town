@@ -14,13 +14,13 @@
 
 **Skills** Stab 2, Notice 1, Sneak 2
 
-**Move** 40 ft.
+**Move** 40ft_12m_8sq
 
 **Morale** 8
 
 ## Attacks
 
-***Bite.*** +4 (Stab 2 STR +2), reach 5 ft., one target. Hit: 1d10+2 piercing damage.
+***Bite.*** +4 (Stab 2 STR +2), reach 5ft_1.5m_1sq, one target. Hit: 1d10+2 piercing damage.
 
-***Claw.*** +4 (Stab 2 STR +2), reach 5 ft., one target. Hit: 2d6+2 slashing damage.
+***Claw.*** +4 (Stab 2 STR +2), reach 5ft_1.5m_1sq, one target. Hit: 2d6+2 slashing damage.
 

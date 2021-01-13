@@ -14,13 +14,13 @@
 
 **Skills** Stab 2, Notice 2, Sneak 1
 
-**Move** 30 ft., fly 60 ft., swim 30 ft.
+**Move** 30ft_9m_6sq, fly 60ft_18m_12sq, swim 30ft_9m_6sq
 
 **Morale** 9
 
 ## Attacks
 
-***Bite.*** +3 (Stab 2 STR +1), reach 5 ft., one target. Hit: 1d10+1 piercing damage plus 3 (1d6) poison damage.
+***Bite.*** +3 (Stab 2 STR +1), reach 5ft_1.5m_1sq, one target. Hit: 1d10+1 piercing damage plus 3 (1d6) poison damage.
 
-***Poison Breath (Recharge 5-6).*** The dragon exhales poisonous gas in a 15-foot cone. Each creature in that area must make a DC 11 Constitution saving throw, taking 21 (6d6) poison damage on a failed save, or half as much damage on a successful one.
+***Poison Breath (Recharge 5-6).*** The dragon exhales poisonous gas in a 15ft_4.5m_3sq cone. Each creature in that area must make a DC 11 Constitution saving throw, taking 21 (6d6) poison damage on a failed save, or half as much damage on a successful one.
 
