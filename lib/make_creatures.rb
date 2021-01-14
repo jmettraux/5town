@@ -7,8 +7,8 @@ def expand_ranges(s)
   s
     .gsub(
       %r{
-        (\d[.,]\d+|[.,]\d+|\d+)[- ]+
-        (foot|feet|ft\.)
+        (\d[.,]\d+|[.,]\d+|\d+)[- ]*
+        (foot|feet|ft\.?)
       }xi) { do_expand_range($1, $2) }
 end
 
@@ -31,8 +31,28 @@ def do_expand_ft_range(range)
   ft = range.to_f; return '0ft' if ft == 0.0
   m = ft * 0.3
   sq = ft * 0.2
+  st = to_sticks(ft)
 
-  "#{range_to_s(ft)}ft_#{range_to_s(m)}m_#{range_to_s(sq)}sq"
+  [ "#{range_to_s(ft)}ft", "#{range_to_s(m)}m", "#{range_to_s(sq)}sq", st ]
+    .compact
+    .join('_')
+end
+
+def to_sticks(ft)
+
+  if ft < 20
+    "+#{range_to_s(ft / 5.0)}"
+  elsif ft < 30
+    "t-#{range_to_s((30 - ft) / 5.0)}"
+  elsif ft == 30.0
+    't'
+  elsif ft < 40
+    "F-#{range_to_s((40 - ft) / 5.0)}"
+  elsif ft == 40.0
+    'F'
+  else
+    'F' + to_sticks(ft - 40)
+  end
 end
 
 
