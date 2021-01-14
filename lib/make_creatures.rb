@@ -39,21 +39,30 @@ def do_expand_ft_range(range)
     .join('_')
 end
 
-def to_sticks(ft)
+def to_sticks(ft, reduce=true)
 
-  if ft < 20
-    "+#{range_to_s(ft / 5.0)}"
-  elsif ft < 30
-    "t-#{range_to_s((30 - ft) / 5.0)}"
-  elsif ft == 30.0
-    't'
-  elsif ft < 40
-    "F-#{range_to_s((40 - ft) / 5.0)}"
-  elsif ft == 40.0
-    'F'
-  else
-    'F' + to_sticks(ft - 40)
-  end
+  s =
+    if ft == 150.0
+      'FFFt' # ;-)
+    elsif ft < 20
+      "+#{range_to_s(ft / 5.0)}"
+    elsif ft < 30
+      "t-#{range_to_s((30 - ft) / 5.0)}"
+    elsif ft % 40.0 == 0
+      'F' * (ft / 40.0).to_i
+    elsif ft % 30.0 == 0
+      't' * (ft / 30.0).to_i
+    elsif ft < 40
+      "F-#{range_to_s((40 - ft) / 5.0)}"
+    else
+      'F' + to_sticks(ft - 40, false)
+    end
+
+  return s unless reduce
+
+  s
+    .gsub(/F+/) { |fs| fs.length > 3 ? "#{fs.length}F" : fs }
+    .gsub(/t+/) { |ts| ts.length > 3 ? "#{ts.length}t" : ts }
 end
 
 
