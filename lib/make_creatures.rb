@@ -2,74 +2,6 @@
 #
 # expand_ranges
 
-def expand_ranges(s)
-
-  s
-    .gsub(
-      %r{
-        (\d+\/)?
-        (\d[.,]\d+|[.,]\d+|\d+)[- ]*
-        (foot|feet|ft\.?)
-      }xi) { do_expand_range($1, $2, $3) }
-end
-
-def do_expand_range(r0, r1, unit)
-
-  [
-    r0 ? do_expand_ft_range(r0) : nil,
-    do_expand_ft_range(r1)
-  ]
-    .compact.join(' / ')
-end
-
-def range_to_s(range)
-
-  case r = ("%.1f" % range)
-  when /\.[1-9]/ then r.to_f.to_s
-  when /\.0*/ then r.to_i.to_s
-  else r
-  end
-end
-
-def do_expand_ft_range(range)
-
-  ft = range.to_f; return '0ft' if ft == 0.0
-  m = ft * 0.3
-  sq = ft * 0.2
-
-  st = to_sticks(ft); st = nil if st.match?(/\A\+\d\z/)
-
-  [ "#{range_to_s(ft)}ft", "#{range_to_s(m)}m", "#{range_to_s(sq)}sq", st ]
-    .compact
-    .join('_')
-end
-
-def to_sticks(ft, reduce=true)
-
-  s =
-    if ft == 150.0
-      'FFFt' # ;-)
-    elsif ft < 20
-      "+#{range_to_s(ft / 5.0)}"
-    elsif ft < 30
-      "t-#{range_to_s((30 - ft) / 5.0)}"
-    elsif ft % 40.0 == 0
-      'F' * (ft / 40.0).to_i
-    elsif ft % 30.0 == 0
-      't' * (ft / 30.0).to_i
-    elsif ft < 40
-      "F-#{range_to_s((40 - ft) / 5.0)}"
-    else
-      'F' + to_sticks(ft - 40, false)
-    end
-
-  return s unless reduce
-
-  s
-    .gsub(/F+/) { |fs| fs.length > 3 ? "#{fs.length}F" : fs }
-    .gsub(/t+/) { |ts| ts.length > 3 ? "#{ts.length}t" : ts }
-end
-
 
 #
 # Creature class
@@ -408,7 +340,7 @@ class MdownToCreature < Redcarpet::Render::Base
 
   def normal_text(text)
 
-    expand_ranges(text)
+    FeetExpander.expand(text)
   end
 
   def header(title, level)
