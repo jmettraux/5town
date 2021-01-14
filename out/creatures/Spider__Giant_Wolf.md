@@ -14,7 +14,7 @@
 
 **Skills** Stab 0, Notice 1, Sneak 2
 
-**Move** 40ft_12m_8sq, climb 40ft_12m_8sq
+**Move** 40ft_12m_8sq_F, climb 40ft_12m_8sq_F
 
 **Morale** 8
 

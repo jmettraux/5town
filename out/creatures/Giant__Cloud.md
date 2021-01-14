@@ -14,7 +14,7 @@
 
 **Skills** Stab 4, Shoot 4, Notice 2, Notice 2
 
-**Move** 40ft_12m_8sq
+**Move** 40ft_12m_8sq_F
 
 **Morale** 10
 
@@ -24,5 +24,5 @@
 
 ***Morningstar.*** +6 (Stab 4 STR +2), reach 10ft_3m_2sq, one target. Hit: 3d8+2 piercing damage.
 
-***Rock.*** +6 (Shoot 4 STR +2), range 60/240ft_72m_48sq, one target. Hit: 4d10+2 bludgeoning damage.
+***Rock.*** +6 (Shoot 4 STR +2), range 60/240ft_72m_48sq_6F, one target. Hit: 4d10+2 bludgeoning damage.
 

@@ -14,7 +14,7 @@
 
 **Skills** Stab 2, Shoot 0, Exert (str) 1, Notice 1, Survive 1
 
-**Move** 50ft_15m_10sq
+**Move** 50ft_15m_10sq_F+2
 
 **Morale** 8
 
@@ -26,5 +26,5 @@
 
 ***Hooves.*** +4 (Stab 2 STR +2), reach 5ft_1.5m_1sq, one target. Hit: 2d6+2 bludgeoning damage.
 
-***Longbow.*** +2 (Shoot 0 STR +2), range 150/600ft_180m_120sq, one target. Hit: 1d8+2 piercing damage.
+***Longbow.*** +2 (Shoot 0 STR +2), range 150/600ft_180m_120sq_15F, one target. Hit: 1d8+2 piercing damage.
 

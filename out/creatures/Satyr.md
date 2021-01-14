@@ -14,7 +14,7 @@
 
 **Skills** Stab 2, Shoot 2, Notice 1, Perform 2, Sneak 1
 
-**Move** 40ft_12m_8sq
+**Move** 40ft_12m_8sq_F
 
 **Morale** 8
 
@@ -24,5 +24,5 @@
 
 ***Shortsword.*** +3 (Stab 2 DEX +1), reach 5ft_1.5m_1sq, one target. Hit: 1d6+1 piercing damage.
 
-***Shortbow.*** +3 (Shoot 2 DEX +1), range 80/320ft_96m_64sq, one target. Hit: 1d6+1 piercing damage.
+***Shortbow.*** +3 (Shoot 2 DEX +1), range 80/320ft_96m_64sq_8F, one target. Hit: 1d6+1 piercing damage.
 

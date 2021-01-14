@@ -14,7 +14,7 @@
 
 **Skills** Stab 2, Shoot 1, Notice 2, Sneak 1
 
-**Move** 30ft_9m_6sq (40ft_12m_8sq in tiger form)
+**Move** 30ft_9m_6sq_t (40ft_12m_8sq_F in tiger form)
 
 **Morale** 9
 
@@ -28,5 +28,5 @@
 
 ***Scimitar (Humanoid or Hybrid Form Only).*** +3 (Stab 2 STR +1), reach 5ft_1.5m_1sq, one target. Hit: 1d6+1 slashing damage.
 
-***Longbow (Humanoid or Hybrid Form Only).*** +2 (Shoot 1 STR +1), range 150/600ft_180m_120sq, one target. Hit: 1d8+1 piercing damage.
+***Longbow (Humanoid or Hybrid Form Only).*** +2 (Shoot 1 STR +1), range 150/600ft_180m_120sq_15F, one target. Hit: 1d8+1 piercing damage.
 

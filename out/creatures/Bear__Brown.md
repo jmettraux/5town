@@ -14,7 +14,7 @@
 
 **Skills** Stab 2, Notice 1
 
-**Move** 40ft_12m_8sq, climb 30ft_9m_6sq
+**Move** 40ft_12m_8sq_F, climb 30ft_9m_6sq_t
 
 **Morale** 7
 

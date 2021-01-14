@@ -14,7 +14,7 @@
 
 **Skills** Stab 6
 
-**Move** 20ft_6m_4sq, swim 40ft_12m_8sq
+**Move** 20ft_6m_4sq_t-2, swim 40ft_12m_8sq_F
 
 **Morale** 10
 
@@ -28,5 +28,5 @@
 
 ***Tail.*** +8 (Stab 6 STR +2), reach 15ft_4.5m_3sq, one target. Hit: 3d12+2 bludgeoning damage. If the target is a creature, it must succeed on a DC 20 Strength saving throw or be pushed up to 10ft_3m_2sq away from the dragon turtle and knocked prone.
 
-***Steam Breath (Recharge 5-6).*** The dragon turtle exhales scalding steam in a 60ft_18m_12sq cone. Each creature in that area must make a DC 18 Constitution saving throw, taking 52 (15d6) fire damage on a failed save, or half as much damage on a successful one. Being underwater doesn't grant resistance against this damage.
+***Steam Breath (Recharge 5-6).*** The dragon turtle exhales scalding steam in a 60ft_18m_12sq_tt cone. Each creature in that area must make a DC 18 Constitution saving throw, taking 52 (15d6) fire damage on a failed save, or half as much damage on a successful one. Being underwater doesn't grant resistance against this damage.
 

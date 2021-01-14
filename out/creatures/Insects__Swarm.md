@@ -14,7 +14,7 @@
 
 **Skills** Stab 2
 
-**Move** 20ft_6m_4sq, climb 20ft_6m_4sq
+**Move** 20ft_6m_4sq_t-2, climb 20ft_6m_4sq_t-2
 
 **Morale** 8
 
@@ -28,5 +28,5 @@
 
 ***Swarm of Spiders..*** A swarm of spiders has the following additional traits.
 
-***Swarm of Wasps..*** A swarm of wasps has a walking speed of 5ft_1.5m_1sq, a flying speed of 30ft_9m_6sq, and no climbing speed.
+***Swarm of Wasps..*** A swarm of wasps has a walking speed of 5ft_1.5m_1sq, a flying speed of 30ft_9m_6sq_t, and no climbing speed.
 

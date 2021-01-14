@@ -14,7 +14,7 @@
 
 **Skills** Stab 3, Notice 1, Notice 3, Sneak 1
 
-**Move** 40ft_12m_8sq, fly 80ft_24m_16sq, swim 40ft_12m_8sq
+**Move** 40ft_12m_8sq_F, fly 80ft_24m_16sq_FF, swim 40ft_12m_8sq_F
 
 **Morale** 9
 
@@ -28,7 +28,7 @@
 
 ***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
 
-***Lightning Breath..*** The dragon exhales lightning in a 60ft_18m_12sq line that is 5ft_1.5m_1sq wide. Each creature in that line must make a DC 15 Dexterity saving throw, taking 55 (10d10) lightning damage on a failed save, or half as much damage on a successful one.
+***Lightning Breath..*** The dragon exhales lightning in a 60ft_18m_12sq_tt line that is 5ft_1.5m_1sq wide. Each creature in that line must make a DC 15 Dexterity saving throw, taking 55 (10d10) lightning damage on a failed save, or half as much damage on a successful one.
 
-***Repulsion Breath..*** The dragon exhales repulsion energy in a 30ft_9m_6sq cone. Each creature in that area must succeed on a DC 15 Strength saving throw. On a failed save, the creature is pushed 40ft_12m_8sq away from the dragon.
+***Repulsion Breath..*** The dragon exhales repulsion energy in a 30ft_9m_6sq_t cone. Each creature in that area must succeed on a DC 15 Strength saving throw. On a failed save, the creature is pushed 40ft_12m_8sq_F away from the dragon.
 

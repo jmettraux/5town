@@ -14,7 +14,7 @@
 
 **Skills** Stab 9
 
-**Move** 40ft_12m_8sq
+**Move** 40ft_12m_8sq_F
 
 **Morale** 10
 
@@ -28,9 +28,9 @@
 
 ***Horns.*** +11 (Stab 9 STR +2), reach 10ft_3m_2sq, one target. Hit: 4d10+2 piercing damage.
 
-***Tail.*** +11 (Stab 9 STR +2), reach 20ft_6m_4sq, one target. Hit: 4d6+2 bludgeoning damage. If the target is a creature, it must succeed on a DC 20 Strength saving throw or be knocked prone.
+***Tail.*** +11 (Stab 9 STR +2), reach 20ft_6m_4sq_t-2, one target. Hit: 4d6+2 bludgeoning damage. If the target is a creature, it must succeed on a DC 20 Strength saving throw or be knocked prone.
 
-***Frightful Presence.*** Each creature of the tarrasque's choice within 120ft_36m_24sq of it and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, with disadvantage if the tarrasque is within line of sight, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the tarrasque's Frightful Presence for the next 24 hours.
+***Frightful Presence.*** Each creature of the tarrasque's choice within 120ft_36m_24sq_FFF of it and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, with disadvantage if the tarrasque is within line of sight, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the tarrasque's Frightful Presence for the next 24 hours.
 
 ***Swallow.*** The tarrasque makes one bite attack against a Large or smaller creature it is grappling. If the attack hits, the target takes the bite's damage, the target is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the tarrasque, and it takes 56 (16d6) acid damage at the start of each of the tarrasque's turns.
 

@@ -14,7 +14,7 @@
 
 **Skills** Stab 3, Magic 1, Connect 3, Notice 1
 
-**Move** 30ft_9m_6sq, fly 30ft_9m_6sq
+**Move** 30ft_9m_6sq_t, fly 30ft_9m_6sq_t
 
 **Morale** 11
 

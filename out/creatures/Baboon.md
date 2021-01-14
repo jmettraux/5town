@@ -14,7 +14,7 @@
 
 **Skills** Stab 0
 
-**Move** 30ft_9m_6sq, climb 30ft_9m_6sq
+**Move** 30ft_9m_6sq_t, climb 30ft_9m_6sq_t
 
 **Morale** 7
 

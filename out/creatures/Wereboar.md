@@ -14,7 +14,7 @@
 
 **Skills** Stab 2, Notice 1
 
-**Move** 30ft_9m_6sq (40ft_12m_8sq in boar form)
+**Move** 30ft_9m_6sq_t (40ft_12m_8sq_F in boar form)
 
 **Morale** 9
 

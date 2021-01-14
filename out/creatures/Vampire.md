@@ -14,7 +14,7 @@
 
 **Skills** Stab 5, Notice 2, Sneak 2
 
-**Move** 30ft_9m_6sq
+**Move** 30ft_9m_6sq_t
 
 **Morale** 11
 
@@ -26,7 +26,7 @@
 
 ***Bite (Bat or Vampire Form Only).*** +7 (Stab 5 DEX +2), reach 5ft_1.5m_1sq, one willing creature, or a creature that is grappled by the vampire, incapacitated, or restrained. Hit: 1d6+2 piercing damage plus 10 (3d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0. A humanoid slain in this way and then buried in the ground rises the following night as a vampire spawn under the vampire's control.
 
-***Charm.*** The vampire targets one humanoid it can see within 30ft_9m_6sq of it. If the target can see the vampire, the target must succeed on a DC 17 Wisdom saving throw against this magic or be charmed by the vampire. The charmed target regards the vampire as a trusted friend to be heeded and protected. Although the target isn't under the vampire's control, it takes the vampire's requests or actions in the most favorable way it can, and it is a willing target for the vampire's bite attack.
+***Charm.*** The vampire targets one humanoid it can see within 30ft_9m_6sq_t of it. If the target can see the vampire, the target must succeed on a DC 17 Wisdom saving throw against this magic or be charmed by the vampire. The charmed target regards the vampire as a trusted friend to be heeded and protected. Although the target isn't under the vampire's control, it takes the vampire's requests or actions in the most favorable way it can, and it is a willing target for the vampire's bite attack.
 
 ***Children of the Night (1/Day).*** The vampire magically calls 2d4 swarms of bats or rats, provided that the sun isn't up. While outdoors, the vampire can call 3d6 wolves instead. The called creatures arrive in 1d4 rounds, acting as allies of the vampire and obeying its spoken commands. The beasts remain for 1 hour, until the vampire dies, or until the vampire dismisses them as a bonus action.
 

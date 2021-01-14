@@ -14,7 +14,7 @@
 
 **Skills** Stab 2, Connect 1, Notice 1, Convice 1
 
-**Move** 30ft_9m_6sq
+**Move** 30ft_9m_6sq_t
 
 **Morale** 7
 

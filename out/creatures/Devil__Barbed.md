@@ -14,7 +14,7 @@
 
 **Skills** Stab 3, Shoot 2, Connect 1, Notice 1, Notice 3
 
-**Move** 30ft_9m_6sq
+**Move** 30ft_9m_6sq_t
 
 **Morale** 10
 
@@ -26,5 +26,5 @@
 
 ***Tail.*** +4 (Stab 3 DEX +1), reach 5ft_1.5m_1sq, one target. Hit: 2d6+1 piercing damage.
 
-***Hurl Flame.*** Ranged Spell Attack:+3 (Shoot 2 DEX +1), range 150ft_45m_30sq, one target. Hit: 3d6+1 fire damage. If the target is a flammable object that isn't being worn or carried, it also catches fire.
+***Hurl Flame.*** Ranged Spell Attack:+3 (Shoot 2 DEX +1), range 150ft_45m_30sq_FFFt, one target. Hit: 3d6+1 fire damage. If the target is a flammable object that isn't being worn or carried, it also catches fire.
 

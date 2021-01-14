@@ -14,7 +14,7 @@
 
 **Skills** Stab 2
 
-**Move** 20ft_6m_4sq, fly 40ft_12m_8sq
+**Move** 20ft_6m_4sq_t-2, fly 40ft_12m_8sq_F
 
 **Morale** 7
 

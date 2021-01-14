@@ -14,7 +14,7 @@
 
 **Skills** Stab 2, Notice 3, Sneak 3
 
-**Move** 50ft_15m_10sq, fly 50ft_15m_10sq (hover)
+**Move** 50ft_15m_10sq_F+2, fly 50ft_15m_10sq_F+2 (hover)
 
 **Morale** 12
 

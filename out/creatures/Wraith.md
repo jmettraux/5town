@@ -14,7 +14,7 @@
 
 **Skills** Stab 3
 
-**Move** 0ft, fly 60ft_18m_12sq (hover)
+**Move** 0ft, fly 60ft_18m_12sq_tt (hover)
 
 **Morale** 12
 

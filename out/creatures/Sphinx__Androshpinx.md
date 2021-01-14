@@ -14,7 +14,7 @@
 
 **Skills** Stab 6, Magic 3, Notice 3, Pray 6
 
-**Move** 40ft_12m_8sq, fly 60ft_18m_12sq
+**Move** 40ft_12m_8sq_F, fly 60ft_18m_12sq_tt
 
 **Morale** 12
 
@@ -24,7 +24,7 @@
 
 ***Claw.*** +8 (Stab 6 STR +2), reach 5ft_1.5m_1sq, one target. Hit: 2d10+2 slashing damage.
 
-***Roar (3/Day).*** The sphinx emits a magical roar. Each time it roars before finishing a long rest, the roar is louder and the effect is different, as detailed below. Each creature within 500ft_150m_100sq of the sphinx and able to hear the roar must make a saving throw.
+***Roar (3/Day).*** The sphinx emits a magical roar. Each time it roars before finishing a long rest, the roar is louder and the effect is different, as detailed below. Each creature within 500ft_150m_100sq_FF14t of the sphinx and able to hear the roar must make a saving throw.
 
 ***First Roar..*** Each creature that fails a DC 18 Wisdom saving throw is frightened for 1 minute. A frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 

@@ -14,7 +14,7 @@
 
 **Skills** Stab 4, Notice 2
 
-**Move** 20ft_6m_4sq, fly 120ft_36m_24sq
+**Move** 20ft_6m_4sq_t-2, fly 120ft_36m_24sq_FFF
 
 **Morale** 10 (12 in lair)
 

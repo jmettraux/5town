@@ -14,7 +14,7 @@
 
 **Skills** Stab 4, Shoot 1
 
-**Move** 40ft_12m_8sq, fly 60ft_18m_12sq
+**Move** 40ft_12m_8sq_F, fly 60ft_18m_12sq_tt
 
 **Morale** 12
 
@@ -24,5 +24,5 @@
 
 ***Scimitar.*** +6 (Stab 4 STR +2), reach 5ft_1.5m_1sq, one target. Hit: 2d6+2 slashing damage plus 7 (2d6) fire damage.
 
-***Hurl Flame.*** Ranged Spell Attack:+3 (Shoot 1 STR +2), range 120ft_36m_24sq, one target. Hit: 5d6+2 fire damage.
+***Hurl Flame.*** Ranged Spell Attack:+3 (Shoot 1 STR +2), range 120ft_36m_24sq_FFF, one target. Hit: 5d6+2 fire damage.
 

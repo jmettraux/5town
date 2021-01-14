@@ -14,7 +14,7 @@
 
 **Skills** Stab 2, Notice 1
 
-**Move** 50ft_15m_10sq
+**Move** 50ft_15m_10sq_F+2
 
 **Morale** 8
 

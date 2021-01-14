@@ -14,7 +14,7 @@
 
 **Skills** Stab 2, Shoot 2, Connect 1, Notice 1, Sneak 1
 
-**Move** 20ft_6m_4sq
+**Move** 20ft_6m_4sq_t-2
 
 **Morale** 8 (10 with leader)
 
@@ -22,5 +22,5 @@
 
 ***War Pick.*** +3 (Stab 2 DEX +1), reach 5ft_1.5m_1sq, one target. Hit: 1d8+1 piercing damage.
 
-***Poisoned Dart.*** +3 (Shoot 2 DEX +1), range 30/120ft_36m_24sq, one creature. Hit: 1d4+1 piercing damage, and the target must succeed on a DC 12 Constitution saving throw or be poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Poisoned Dart.*** +3 (Shoot 2 DEX +1), range 30/120ft_36m_24sq_FFF, one creature. Hit: 1d4+1 piercing damage, and the target must succeed on a DC 12 Constitution saving throw or be poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 

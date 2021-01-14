@@ -14,7 +14,7 @@
 
 **Skills** Stab 2
 
-**Move** 20ft_6m_4sq, swim 40ft_12m_8sq
+**Move** 20ft_6m_4sq_t-2, swim 40ft_12m_8sq_F
 
 **Morale** 6
 

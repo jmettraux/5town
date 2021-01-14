@@ -14,7 +14,7 @@
 
 **Skills** Stab 2, Notice 1
 
-**Move** 10ft_3m_2sq, fly 50ft_15m_10sq
+**Move** 10ft_3m_2sq, fly 50ft_15m_10sq_F+2
 
 **Morale** 6
 

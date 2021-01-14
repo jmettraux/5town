@@ -14,7 +14,7 @@
 
 **Skills** Stab 6
 
-**Move** 30ft_9m_6sq
+**Move** 30ft_9m_6sq_t
 
 **Morale** 12
 

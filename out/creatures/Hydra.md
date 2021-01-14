@@ -14,7 +14,7 @@
 
 **Skills** Stab 3, Notice 3
 
-**Move** 30ft_9m_6sq, swim 30ft_9m_6sq
+**Move** 30ft_9m_6sq_t, swim 30ft_9m_6sq_t
 
 **Morale** 9
 

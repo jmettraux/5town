@@ -14,7 +14,7 @@
 
 **Skills** Stab 2, Connect 1, Notice 1, Convice 1, Sneak 1
 
-**Move** 20ft_6m_4sq, fly 40ft_12m_8sq
+**Move** 20ft_6m_4sq_t-2, fly 40ft_12m_8sq_F
 
 **Morale** 7
 

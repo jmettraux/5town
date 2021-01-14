@@ -14,7 +14,7 @@
 
 **Skills** Stab 3, Shoot 3, Connect 1, Notice 1, Notice 1, Sneak 1
 
-**Move** 30ft_9m_6sq
+**Move** 30ft_9m_6sq_t
 
 **Morale** 8
 
@@ -26,5 +26,5 @@
 
 ***Shortsword.*** +4 (Stab 3 DEX +1), reach 5ft_1.5m_1sq, one target. Hit: 1d6+1 piercing damage.
 
-***Longbow.*** +4 (Shoot 3 DEX +1), range 150/600ft_180m_120sq, one target. Hit: 1d8+1 piercing damage plus 7 (2d6) poison damage.
+***Longbow.*** +4 (Shoot 3 DEX +1), range 150/600ft_180m_120sq_15F, one target. Hit: 1d8+1 piercing damage plus 7 (2d6) poison damage.
 

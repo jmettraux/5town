@@ -14,7 +14,7 @@
 
 **Skills** Stab 3
 
-**Move** 30ft_9m_6sq, swim 50ft_15m_10sq
+**Move** 30ft_9m_6sq_t, swim 50ft_15m_10sq_F+2
 
 **Morale** 9
 

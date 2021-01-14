@@ -14,7 +14,7 @@
 
 **Skills** Stab 1, Heal 1, Survive 1, Notice 1
 
-**Move** 30ft_9m_6sq
+**Move** 30ft_9m_6sq_t
 
 **Morale** 9
 

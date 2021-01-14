@@ -14,7 +14,7 @@
 
 **Skills** Stab 2, Notice 2, Sneak 1
 
-**Move** 30ft_9m_6sq, fly 60ft_18m_12sq, swim 30ft_9m_6sq
+**Move** 30ft_9m_6sq_t, fly 60ft_18m_12sq_tt, swim 30ft_9m_6sq_t
 
 **Morale** 9
 

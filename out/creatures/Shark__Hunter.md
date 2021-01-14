@@ -14,7 +14,7 @@
 
 **Skills** Stab 2, Notice 1
 
-**Move** 0ft, swim 40ft_12m_8sq
+**Move** 0ft, swim 40ft_12m_8sq_F
 
 **Morale** 7
 

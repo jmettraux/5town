@@ -14,7 +14,7 @@
 
 **Skills** Stab 2, Shoot 2
 
-**Move** 25ft_7.5m_5sq
+**Move** 25ft_7.5m_5sq_t-1
 
 **Morale** 8 (10 with leader)
 
@@ -24,7 +24,7 @@
 
 ***War Pick.*** +3 (Stab 2 STR +1), reach 5ft_1.5m_1sq, one target. Hit: 1d8+1 piercing damage, or 11 (2d8+2) piercing damage while enlarged.
 
-***Javelin.*** Melee or Ranged Weapon Attack:+3 (Shoot 2 STR +1), reach 5ft_1.5m_1sq or range 30/120ft_36m_24sq, one target. Hit: 1d6+1 piercing damage, or 9 (2d6+2) piercing damage while enlarged.
+***Javelin.*** Melee or Ranged Weapon Attack:+3 (Shoot 2 STR +1), reach 5ft_1.5m_1sq or range 30/120ft_36m_24sq_FFF, one target. Hit: 1d6+1 piercing damage, or 9 (2d6+2) piercing damage while enlarged.
 
 ***Invisibility (Recharges after a Short or Long Rest).*** The duergar magically turns invisible until it attacks, casts a spell, or uses its Enlarge, or until its concentration is broken, up to 1 hour (as if concentrating on a spell). Any equipment the duergar wears or carries is invisible with it.
 

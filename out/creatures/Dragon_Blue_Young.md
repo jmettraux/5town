@@ -14,7 +14,7 @@
 
 **Skills** Stab 4, Notice 4, Sneak 2
 
-**Move** 40ft_12m_8sq, burrow 20ft_6m_4sq, fly 80ft_24m_16sq
+**Move** 40ft_12m_8sq_F, burrow 20ft_6m_4sq_t-2, fly 80ft_24m_16sq_FF
 
 **Morale** 9
 
@@ -26,5 +26,5 @@
 
 ***Claw.*** +6 (Stab 4 STR +2), reach 5ft_1.5m_1sq, one target. Hit: 2d6+2 slashing damage.
 
-***Lightning Breath (Recharge 5-6).*** The dragon exhales lightning in an 60ft_18m_12sq line that is 5ft_1.5m_1sq wide. Each creature in that line must make a DC 16 Dexterity saving throw, taking 55 (10d10) lightning damage on a failed save, or half as much damage on a successful one.
+***Lightning Breath (Recharge 5-6).*** The dragon exhales lightning in an 60ft_18m_12sq_tt line that is 5ft_1.5m_1sq wide. Each creature in that line must make a DC 16 Dexterity saving throw, taking 55 (10d10) lightning damage on a failed save, or half as much damage on a successful one.
 

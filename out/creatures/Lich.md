@@ -14,7 +14,7 @@
 
 **Skills** Stab 9, Magic 7, Know 3, Notice 3, Notice 3
 
-**Move** 30ft_9m_6sq
+**Move** 30ft_9m_6sq_t
 
 **Morale** 12
 

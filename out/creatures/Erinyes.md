@@ -14,7 +14,7 @@
 
 **Skills** Stab 4, Shoot 3
 
-**Move** 30ft_9m_6sq, fly 60ft_18m_12sq
+**Move** 30ft_9m_6sq_t, fly 60ft_18m_12sq_tt
 
 **Morale** 10
 
@@ -24,5 +24,5 @@
 
 ***Longsword.*** +6 (Stab 4 STR +2), reach 5ft_1.5m_1sq, one target. Hit: 1d8+2 slashing damage, or 9 (1d10+4) slashing damage if used with two hands, plus 13 (3d8) poison damage.
 
-***Longbow.*** +5 (Shoot 3 STR +2), range 150/600ft_180m_120sq, one target. Hit: 1d8+2 piercing damage plus 13 (3d8) poison damage, and the target must succeed on a DC 14 Constitution saving throw or be poisoned. The poison lasts until it is removed by the lesser restoration spell or similar magic.
+***Longbow.*** +5 (Shoot 3 STR +2), range 150/600ft_180m_120sq_15F, one target. Hit: 1d8+2 piercing damage plus 13 (3d8) poison damage, and the target must succeed on a DC 14 Constitution saving throw or be poisoned. The poison lasts until it is removed by the lesser restoration spell or similar magic.
 

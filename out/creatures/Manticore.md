@@ -14,7 +14,7 @@
 
 **Skills** Stab 2, Shoot 2
 
-**Move** 30ft_9m_6sq, fly 50ft_15m_10sq
+**Move** 30ft_9m_6sq_t, fly 50ft_15m_10sq_F+2
 
 **Morale** 9
 
@@ -26,5 +26,5 @@
 
 ***Claw.*** +3 (Stab 2 DEX +1), reach 5ft_1.5m_1sq, one target. Hit: 1d6+1 slashing damage.
 
-***Tail Spike.*** +3 (Shoot 2 DEX +1), range 100/200ft_60m_40sq, one target. Hit: 1d8+1 piercing damage.
+***Tail Spike.*** +3 (Shoot 2 DEX +1), range 100/200ft_60m_40sq_5F, one target. Hit: 1d8+1 piercing damage.
 

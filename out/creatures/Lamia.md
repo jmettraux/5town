@@ -14,7 +14,7 @@
 
 **Skills** Stab 2, Connect 2, Notice 1, Sneak 1
 
-**Move** 30ft_9m_6sq
+**Move** 30ft_9m_6sq_t
 
 **Morale** 12
 

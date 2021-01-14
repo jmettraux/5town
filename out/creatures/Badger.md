@@ -14,7 +14,7 @@
 
 **Skills** Stab 2
 
-**Move** 20ft_6m_4sq, burrow 5ft_1.5m_1sq
+**Move** 20ft_6m_4sq_t-2, burrow 5ft_1.5m_1sq
 
 **Morale** 6
 

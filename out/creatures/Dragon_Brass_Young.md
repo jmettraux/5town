@@ -14,7 +14,7 @@
 
 **Skills** Stab 3, Notice 3, Convice 1, Sneak 1
 
-**Move** 40ft_12m_8sq, burrow 20ft_6m_4sq, fly 80ft_24m_16sq
+**Move** 40ft_12m_8sq_F, burrow 20ft_6m_4sq_t-2, fly 80ft_24m_16sq_FF
 
 **Morale** 9
 
@@ -28,7 +28,7 @@
 
 ***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
 
-***Fire Breath..*** The dragon exhales fire in a 40ft_12m_8sq line that is 5ft_1.5m_1sq wide. Each creature in that line must make a DC 14 Dexterity saving throw, taking 42 (12d6) fire damage on a failed save, or half as much damage on a successful one.
+***Fire Breath..*** The dragon exhales fire in a 40ft_12m_8sq_F line that is 5ft_1.5m_1sq wide. Each creature in that line must make a DC 14 Dexterity saving throw, taking 42 (12d6) fire damage on a failed save, or half as much damage on a successful one.
 
-***Sleep Breath..*** The dragon exhales sleep gas in a 30ft_9m_6sq cone. Each creature in that area must succeed on a DC 14 Constitution saving throw or fall unconscious for 5 minutes. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.
+***Sleep Breath..*** The dragon exhales sleep gas in a 30ft_9m_6sq_t cone. Each creature in that area must succeed on a DC 14 Constitution saving throw or fall unconscious for 5 minutes. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.
 

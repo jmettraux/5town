@@ -14,7 +14,7 @@
 
 **Skills** Stab 2, Shoot 2, Notice 1, Sneak 1
 
-**Move** 30ft_9m_6sq
+**Move** 30ft_9m_6sq_t
 
 **Morale** 8
 
@@ -26,5 +26,5 @@
 
 ***Shortsword (Humanoid or Hybrid Form Only).*** +3 (Stab 2 DEX +1), reach 5ft_1.5m_1sq, one target. Hit: 1d6+1 piercing damage.
 
-***Hand Crossbow (Humanoid or Hybrid Form Only).*** +3 (Shoot 2 DEX +1), range 30/120ft_36m_24sq, one target. Hit: 1d6+1 piercing damage.
+***Hand Crossbow (Humanoid or Hybrid Form Only).*** +3 (Shoot 2 DEX +1), range 30/120ft_36m_24sq_FFF, one target. Hit: 1d6+1 piercing damage.
 

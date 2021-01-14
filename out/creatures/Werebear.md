@@ -14,7 +14,7 @@
 
 **Skills** Stab 3, Notice 3
 
-**Move** 30ft_9m_6sq (40ft_12m_8sq, climb 30ft_9m_6sq in bear or hybrid form)
+**Move** 30ft_9m_6sq_t (40ft_12m_8sq_F, climb 30ft_9m_6sq_t in bear or hybrid form)
 
 **Morale** 10
 
