@@ -47,17 +47,16 @@ module FeetExpander
         .join('_')
     end
 
-    #def len(s); s.each_char.inject(0) { |r, c| r + (c == 'F' ? 40 : 30) }; end
+    def rework_tail(s)
 
-    def sort(s)
+      m = s.match(/^([^+]*)(t)\+(\d+)$/); return nil unless m
+      b, t, n = m[1], m[2], m[3].to_i
 
-      cs = s.each_char
-      fs = cs.count { |c| c == 'F' }
-      ts = cs.count { |c| c == 't' }
-#p [ cs, fs, ts ]
-      rem = s.match(/(\+.+)?$/)[1]
+      return "#{b}F-1" if n == 1
+      return nil if n < 2
 
-      "#{'F' * fs}#{'t' * ts}#{rem}"
+      n = n - 2
+      "F#{b}#{n > 0 ? "+#{n}" : ''}"
     end
 
     def tost(ft)
@@ -68,9 +67,10 @@ module FeetExpander
       t1 = ft / 30
       t1r = ft % 30
 
-      "#{'t' * t1}#{tost(t1r)}"
-        .gsub(/t\+4/, 'F+2').yield_self { |s| sort(s) }
-        .gsub(/t\+2/, 'F').yield_self { |s| sort(s) }
+      s = "#{'t' * t1}#{tost(t1r)}"
+      while rs = rework_tail(s); s = rs; end
+
+      s
         .gsub(/tttt/, 'FFF')
         .gsub(/F+/) { |s| s.length > 3 ? "#{s.length}F" : s }
     end
