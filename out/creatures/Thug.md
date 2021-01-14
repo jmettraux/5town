@@ -24,7 +24,7 @@
 
 ***Mace.*** +3 (Stab 2 STR +1), reach 5ft_1.5m_1sq, one creature. Hit: 1d6 +1 bludgeoning damage.
 
-***Heavy Crossbow.*** +1 (Shoot 0 STR +1), range 100/400ft_120m_80sq_10F, one target. Hit: 1d10+1 piercing damage.
+***Heavy Crossbow.*** +1 (Shoot 0 STR +1), range 100ft_30m_20sq_Ftt / 400ft_120m_80sq_10F, one target. Hit: 1d10+1 piercing damage.
 
 ***Thugs.*** are ruthless enforcers skilled at intimidation and violence. They work for money and have few scruples.
 

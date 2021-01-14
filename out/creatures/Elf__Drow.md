@@ -22,5 +22,5 @@
 
 ***Shortsword.*** +3 (Stab 2 DEX +1), reach 5ft_1.5m_1sq, one target. Hit: 1d6+1 piercing damage.
 
-***Hand Crossbow.*** +3 (Shoot 2 DEX +1), range 30/120ft_36m_24sq_FFF, one target. Hit: 1d6+1 piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned for 1 hour. If the saving throw fails by 5 or more, the target is also unconscious while poisoned in this way. The target wakes up if it takes damage or if another creature takes an action to shake it awake.
+***Hand Crossbow.*** +3 (Shoot 2 DEX +1), range 30ft_9m_6sq_t / 120ft_36m_24sq_FFF, one target. Hit: 1d6+1 piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned for 1 hour. If the saving throw fails by 5 or more, the target is also unconscious while poisoned in this way. The target wakes up if it takes damage or if another creature takes an action to shake it awake.
 

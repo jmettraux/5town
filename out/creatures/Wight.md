@@ -26,5 +26,5 @@
 
 ***Longsword.*** +3 (Stab 2 DEX +1), reach 5ft_1.5m_1sq, one target. Hit: 1d8+1 slashing damage, or 7 (1d10+2) slashing damage if used with two hands.
 
-***Longbow.*** +3 (Shoot 2 DEX +1), range 150/600ft_180m_120sq_15F, one target. Hit: 1d8+1 piercing damage.
+***Longbow.*** +3 (Shoot 2 DEX +1), range 150ft_45m_30sq_FFFt / 600ft_180m_120sq_15F, one target. Hit: 1d8+1 piercing damage.
 

@@ -26,7 +26,7 @@
 
 ***Shortsword.*** +3 (Stab 2 STR +1), reach 5ft_1.5m_1sq, one target. Hit: 1d6 +1 piercing damage.
 
-***Heavy Crossbow.*** +1 (Shoot 0 STR +1), range 100/400ft_120m_80sq_10F, one target. Hit: 1d10 +1 piercing damage.
+***Heavy Crossbow.*** +1 (Shoot 0 STR +1), range 100ft_30m_20sq_Ftt / 400ft_120m_80sq_10F, one target. Hit: 1d10 +1 piercing damage.
 
 ***Veterans.*** are professional fighters that take up arms for pay or to protect something they believe in or value. Their ranks include soldiers retired from long service and warriors who never served anyone but themselves
 

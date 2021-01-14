@@ -24,5 +24,5 @@
 
 ***Greatclub.*** +5 (Stab 3 STR +2), reach 10ft_3m_2sq, one target. Hit: 3d8+2 bludgeoning damage.
 
-***Rock.*** +5 (Shoot 3 STR +2), range 60/240ft_72m_48sq_6F, one target. Hit: 3d10+2 bludgeoning damage.
+***Rock.*** +5 (Shoot 3 STR +2), range 60ft_18m_12sq_tt / 240ft_72m_48sq_6F, one target. Hit: 3d10+2 bludgeoning damage.
 

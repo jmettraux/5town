@@ -24,5 +24,5 @@
 
 ***Greatsword.*** +6 (Stab 4 STR +2), reach 10ft_3m_2sq, one target. Hit: 6d6+2 slashing damage.
 
-***Rock.*** +6 (Shoot 4 STR +2), range 60/240ft_72m_48sq_6F, one target. Hit: 4d10+2 bludgeoning damage.
+***Rock.*** +6 (Shoot 4 STR +2), range 60ft_18m_12sq_tt / 240ft_72m_48sq_6F, one target. Hit: 4d10+2 bludgeoning damage.
 

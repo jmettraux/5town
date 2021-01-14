@@ -26,5 +26,5 @@
 
 ***Hooves.*** +4 (Stab 2 STR +2), reach 5ft_1.5m_1sq, one target. Hit: 2d6+2 bludgeoning damage.
 
-***Longbow.*** +2 (Shoot 0 STR +2), range 150/600ft_180m_120sq_15F, one target. Hit: 1d8+2 piercing damage.
+***Longbow.*** +2 (Shoot 0 STR +2), range 150ft_45m_30sq_FFFt / 600ft_180m_120sq_15F, one target. Hit: 1d8+2 piercing damage.
 

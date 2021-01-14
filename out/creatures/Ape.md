@@ -24,5 +24,5 @@
 
 ***Fist.*** +3 (Stab 2 STR +1), reach 5ft_1.5m_1sq, one target. Hit: 1d6+1 bludgeoning damage.
 
-***Rock.*** +3 (Shoot 2 STR +1), range 25/50ft_15m_10sq_F+2, one target. Hit: 1d6+1 bludgeoning damage.
+***Rock.*** +3 (Shoot 2 STR +1), range 25ft_7.5m_5sq_t-1 / 50ft_15m_10sq_F+2, one target. Hit: 1d6+1 bludgeoning damage.
 

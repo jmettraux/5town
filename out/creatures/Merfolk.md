@@ -20,5 +20,5 @@
 
 ## Attacks
 
-***Spear.*** Melee or Ranged Weapon Attack:+1 (Shoot 1 DEX +0), reach 5ft_1.5m_1sq or range 20/60ft_18m_12sq_tt, one target. Hit: 1d6+0 piercing damage, or 4 (1d8) piercing damage if used with two hands to make a melee attack.
+***Spear.*** Melee or Ranged Weapon Attack:+1 (Shoot 1 DEX +0), reach 5ft_1.5m_1sq or range 20ft_6m_4sq_t-2 / 60ft_18m_12sq_tt, one target. Hit: 1d6+0 piercing damage, or 4 (1d8) piercing damage if used with two hands to make a melee attack.
 

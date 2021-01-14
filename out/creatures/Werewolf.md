@@ -26,5 +26,5 @@
 
 ***Claws (Hybrid Form Only).*** +3 (Stab 2 STR +1), reach 5ft_1.5m_1sq, one creature. Hit: 2d4+1 slashing damage.
 
-***Spear (Humanoid Form Only).*** Melee or Ranged Weapon Attack:+3 (Shoot 2 STR +1), reach 5ft_1.5m_1sq or range 20/60ft_18m_12sq_tt, one creature. Hit: 1d6+1 piercing damage, or 6 (1d8+2) piercing damage if used with two hands to make a melee attack.
+***Spear (Humanoid Form Only).*** Melee or Ranged Weapon Attack:+3 (Shoot 2 STR +1), reach 5ft_1.5m_1sq or range 20ft_6m_4sq_t-2 / 60ft_18m_12sq_tt, one creature. Hit: 1d6+1 piercing damage, or 6 (1d8+2) piercing damage if used with two hands to make a melee attack.
 

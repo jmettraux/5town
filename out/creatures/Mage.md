@@ -20,7 +20,7 @@
 
 ## Attacks
 
-***Dagger.*** Melee or Ranged Weapon Attack:+4 (Shoot 3 DEX +1), reach 5ft_1.5m_1sq or range 20/60ft_18m_12sq_tt, one target. Hit: 1d4 +1 piercing damage.
+***Dagger.*** Melee or Ranged Weapon Attack:+4 (Shoot 3 DEX +1), reach 5ft_1.5m_1sq or range 20ft_6m_4sq_t-2 / 60ft_18m_12sq_tt, one target. Hit: 1d4 +1 piercing damage.
 
 ***Mages.*** spend their lives in the study and practice of magic. Good-aligned mages offer counsel to nobles and others in power, while evil mages dwell in isolated sites to perform unspeakable experiments without interference.
 

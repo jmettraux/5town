@@ -26,5 +26,5 @@
 
 ***Claw.*** +3 (Stab 2 DEX +1), reach 5ft_1.5m_1sq, one target. Hit: 1d6+1 slashing damage.
 
-***Tail Spike.*** +3 (Shoot 2 DEX +1), range 100/200ft_60m_40sq_5F, one target. Hit: 1d8+1 piercing damage.
+***Tail Spike.*** +3 (Shoot 2 DEX +1), range 100ft_30m_20sq_Ftt / 200ft_60m_40sq_5F, one target. Hit: 1d8+1 piercing damage.
 

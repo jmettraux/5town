@@ -22,5 +22,5 @@
 
 ***Morningstar.*** +3 (Stab 2 DEX +1), reach 5ft_1.5m_1sq, one target. Hit: 2d8+1 piercing damage.
 
-***Javelin.*** Melee or Ranged Weapon Attack:+3 (Shoot 2 DEX +1), reach 5ft_1.5m_1sq or range 30/120ft_36m_24sq_FFF, one target. Hit: 2d6+1 piercing damage in melee or 5 (1d6+2) piercing damage at range.
+***Javelin.*** Melee or Ranged Weapon Attack:+3 (Shoot 2 DEX +1), reach 5ft_1.5m_1sq or range 30ft_9m_6sq_t / 120ft_36m_24sq_FFF, one target. Hit: 2d6+1 piercing damage in melee or 5 (1d6+2) piercing damage at range.
 

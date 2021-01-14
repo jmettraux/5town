@@ -33,6 +33,15 @@ describe 'expand_ranges' do
     "**Move** 0 ft., fly 60 ft. (hover)" =>
       "**Move** 0ft, fly 60ft_18m_12sq_tt (hover)",
 
+    "+4 to hit, range 80/320 ft., one" =>
+      "+4 to hit, range 80ft_24m_16sq_FF / 320ft_96m_64sq_8F, one",
+
+    "reach 5 ft. or range 20 ft./60 ft., one" =>
+      "reach 5ft_1.5m_1sq or range 20ft_6m_4sq_t-2/60ft_18m_12sq_tt, one",
+      #"reach 5ft_1.5m_1sq or range 20ft_6m_4sq_t-2 / 60ft_18m_12sq_tt, one",
+        #
+        # FIXME
+
     '5ft' => '5ft_1.5m_1sq',
     '10ft' => '10ft_3m_2sq',
     '15ft' => '15ft_4.5m_3sq',

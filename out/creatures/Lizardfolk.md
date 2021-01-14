@@ -26,7 +26,7 @@
 
 ***Heavy Club.*** +3 (Stab 2 STR +1), reach 5ft_1.5m_1sq, one target. Hit: 1d6+1 bludgeoning damage.
 
-***Javelin.*** Melee or Ranged Weapon Attack:+3 (Shoot 2 STR +1), reach 5ft_1.5m_1sq or range 30/120ft_36m_24sq_FFF, one target. Hit: 1d6+1 piercing damage.
+***Javelin.*** Melee or Ranged Weapon Attack:+3 (Shoot 2 STR +1), reach 5ft_1.5m_1sq or range 30ft_9m_6sq_t / 120ft_36m_24sq_FFF, one target. Hit: 1d6+1 piercing damage.
 
 ***Spiked Shield.*** +3 (Stab 2 STR +1), reach 5ft_1.5m_1sq, one target. Hit: 1d6+1 piercing damage.
 

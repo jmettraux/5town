@@ -7,14 +7,19 @@ def expand_ranges(s)
   s
     .gsub(
       %r{
+        (\d+\/)?
         (\d[.,]\d+|[.,]\d+|\d+)[- ]*
         (foot|feet|ft\.?)
-      }xi) { do_expand_range($1, $2) }
+      }xi) { do_expand_range($1, $2, $3) }
 end
 
-def do_expand_range(range, unit)
+def do_expand_range(r0, r1, unit)
 
-  do_expand_ft_range(range)
+  [
+    r0 ? do_expand_ft_range(r0) : nil,
+    do_expand_ft_range(r1)
+  ]
+    .compact.join(' / ')
 end
 
 def range_to_s(range)
