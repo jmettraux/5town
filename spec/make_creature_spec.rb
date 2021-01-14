@@ -25,7 +25,7 @@ describe 'expand_ranges' do
   {
 
     "reach 5 ft., " =>
-      "reach 5ft_1.5m_1sq_+1, ",
+      "reach 5ft_1.5m_1sq, ",
 
     "**Speed** 40 ft." =>
       "**Speed** 40ft_12m_8sq_F",
@@ -33,8 +33,8 @@ describe 'expand_ranges' do
     "**Move** 0 ft., fly 60 ft. (hover)" =>
       "**Move** 0ft, fly 60ft_18m_12sq_Ft-2 (hover)",
 
-    '5ft' => '5ft_1.5m_1sq_+1',
-    '10ft' => '10ft_3m_2sq_+2',
+    '5ft' => '5ft_1.5m_1sq',
+    '10ft' => '10ft_3m_2sq',
     '20ft' => '20ft_6m_4sq_t-2',
     '25ft' => '25ft_7.5m_5sq_t-1',
     '30ft' => '30ft_9m_6sq_t',

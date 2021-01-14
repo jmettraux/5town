@@ -31,7 +31,8 @@ def do_expand_ft_range(range)
   ft = range.to_f; return '0ft' if ft == 0.0
   m = ft * 0.3
   sq = ft * 0.2
-  st = to_sticks(ft)
+
+  st = to_sticks(ft); st = nil if st.match?(/\A\+\d\z/)
 
   [ "#{range_to_s(ft)}ft", "#{range_to_s(m)}m", "#{range_to_s(sq)}sq", st ]
     .compact
