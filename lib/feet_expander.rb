@@ -33,41 +33,43 @@ module FeetExpander
 
     def do_expand_feet(range)
 
-      ft = range.to_f; return '0ft' if ft == 0.0
+      ft = range.to_i; return '0ft' if ft == 0
       m = ft * 0.3
       sq = ft * 0.2
 
-      st = to_sticks(ft); st = nil if st.match?(/\A\+\d\z/)
+      st = tost(ft)#; st = nil if st.match?(/\A\+\d\z/)
 
       [ "#{rtos(ft)}ft", "#{rtos(m)}m", "#{rtos(sq)}sq", st ]
         .compact
         .join('_')
     end
 
-    def to_sticks(ft, reduce=true)
+    #def len(s); s.each_char.inject(0) { |r, c| r + (c == 'F' ? 40 : 30) }; end
 
-      s =
-        if ft == 150.0
-          'FFFt' # ;-)
-        elsif ft < 20
-          "+#{rtos(ft / 5.0)}"
-        elsif ft < 30
-          "t-#{rtos((30 - ft) / 5.0)}"
-        elsif ft % 40.0 == 0
-          'F' * (ft / 40.0).to_i
-        elsif ft % 30.0 == 0
-          't' * (ft / 30.0).to_i
-        elsif ft < 40
-          "F-#{rtos((40 - ft) / 5.0)}"
-        else
-          'F' + to_sticks(ft - 40, false)
-        end
+    def sort(s)
 
-      return s unless reduce
+      cs = s.each_char
+      fs = cs.count { |c| c == 'F' }
+      ts = cs.count { |c| c == 't' }
+#p [ cs, fs, ts ]
+      rem = s.match(/(\+.+)?$/)[1]
 
-      s
-        .gsub(/F+/) { |fs| fs.length > 3 ? "#{fs.length}F" : fs }
-        .gsub(/t+/) { |ts| ts.length > 3 ? "#{ts.length}t" : ts }
+      "#{'F' * fs}#{'t' * ts}#{rem}"
+    end
+
+    def tost(ft)
+
+      return '' if ft == 0
+      return "+#{rtos(ft / 5.0)}" if ft < 30
+
+      t1 = ft / 30
+      t1r = ft % 30
+
+      "#{'t' * t1}#{tost(t1r)}"
+        .gsub(/t\+4/, 'F+2').yield_self { |s| sort(s) }
+        .gsub(/t\+2/, 'F').yield_self { |s| sort(s) }
+        .gsub(/tttt/, 'FFF')
+        .gsub(/F+/) { |s| s.length > 3 ? "#{s.length}F" : s }
     end
   end
 end
