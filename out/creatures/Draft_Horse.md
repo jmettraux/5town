@@ -14,11 +14,11 @@
 
 **Skills** Stab 2
 
-**Move** 40ft_12m_8sq_F
+**Move** 40ft\_12m\_8sq\_F
 
 **Morale** 6
 
 ## Attacks
 
-***Hooves.*** +4 (Stab 2 STR +2), reach 5ft_1.5m_1sq, one target. Hit: 2d4+2 bludgeoning damage.
+***Hooves.*** +4 (Stab 2 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 2d4+2 bludgeoning damage.
 

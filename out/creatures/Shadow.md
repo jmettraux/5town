@@ -14,11 +14,11 @@
 
 **Skills** Stab 2, Sneak 1
 
-**Move** 40ft_12m_8sq_F
+**Move** 40ft\_12m\_8sq\_F
 
 **Morale** 12
 
 ## Attacks
 
-***Strength Drain.*** +3 (Stab 2 DEX +1), reach 5ft_1.5m_1sq, one creature. Hit: 2d6+1 necrotic damage, and the target's Strength score is reduced by 1d4. The target dies if this reduces its Strength to 0. Otherwise, the reduction lasts until the target finishes a short or long rest.
+***Strength Drain.*** +3 (Stab 2 DEX +1), reach 5ft\_1.5m\_1sq, one creature. Hit: 2d6+1 necrotic damage, and the target's Strength score is reduced by 1d4. The target dies if this reduces its Strength to 0. Otherwise, the reduction lasts until the target finishes a short or long rest.
 

@@ -14,13 +14,13 @@
 
 **Skills** Stab 2
 
-**Move** 50ft_15m_10sq_F+2
+**Move** 50ft\_15m\_10sq\_F+2
 
 **Morale** 7
 
 ## Attacks
 
-***Ram.*** +3 (Stab 2 STR +1), reach 5ft_1.5m_1sq, one target. Hit: 1d6+1 bludgeoning damage.
+***Ram.*** +3 (Stab 2 STR +1), reach 5ft\_1.5m\_1sq, one target. Hit: 1d6+1 bludgeoning damage.
 
-***Hooves.*** +3 (Stab 2 STR +1), reach 5ft_1.5m_1sq, one prone creature. Hit: 2d4+1 bludgeoning damage.
+***Hooves.*** +3 (Stab 2 STR +1), reach 5ft\_1.5m\_1sq, one prone creature. Hit: 2d4+1 bludgeoning damage.
 

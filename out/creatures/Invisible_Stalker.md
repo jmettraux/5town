@@ -2,7 +2,7 @@
 
 *Medium elemental, neutral*
 
-**Hit Dice** 16 (328 16d8+16)
+**Hit Dice** 16 (88 16d8+16)
 
 **Armor Class** 14
 
@@ -14,7 +14,7 @@
 
 **Skills** Stab 2, Notice 3, Sneak 3
 
-**Move** 50ft_15m_10sq_F+2, fly 50ft_15m_10sq_F+2 (hover)
+**Move** 50ft\_15m\_10sq\_F+2, fly 50ft\_15m\_10sq\_F+2 (hover)
 
 **Morale** 12
 
@@ -22,5 +22,5 @@
 
 ***Multiattack.*** The stalker makes two slam attacks.
 
-***Slam.*** +4 (Stab 2 DEX +2), reach 5ft_1.5m_1sq, one target. Hit: 2d6+2 bludgeoning damage.
+***Slam.*** +4 (Stab 2 DEX +2), reach 5ft\_1.5m\_1sq, one target. Hit: 2d6+2 bludgeoning damage.
 

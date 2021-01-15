@@ -2,7 +2,7 @@
 
 *Medium elemental, chaotic evil*
 
-**Hit Dice** 7 (80 7d8+7)
+**Hit Dice** 7 (38 7d8+7)
 
 **Armor Class** 15 (natural armor)
 
@@ -14,7 +14,7 @@
 
 **Skills** Stab 2
 
-**Move** 30ft_9m_6sq_t, fly 60ft_18m_12sq_tt
+**Move** 30ft\_9m\_6sq\_t, fly 60ft\_18m\_12sq\_tt
 
 **Morale** 11
 
@@ -22,7 +22,7 @@
 
 ***Multiattack.*** The gargoyle makes two attacks: one with its bite and one with its claws.
 
-***Bite.*** +3 (Stab 2 STR +1), reach 5ft_1.5m_1sq, one target. Hit: 1d6+1 piercing damage.
+***Bite.*** +3 (Stab 2 STR +1), reach 5ft\_1.5m\_1sq, one target. Hit: 1d6+1 piercing damage.
 
-***Claws.*** +3 (Stab 2 STR +1), reach 5ft_1.5m_1sq, one target. Hit: 1d6+1 slashing damage.
+***Claws.*** +3 (Stab 2 STR +1), reach 5ft\_1.5m\_1sq, one target. Hit: 1d6+1 slashing damage.
 

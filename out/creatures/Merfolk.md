@@ -14,11 +14,11 @@
 
 **Skills** Shoot 1, Notice 1
 
-**Move** 10ft_3m_2sq, swim 40ft_12m_8sq_F
+**Move** 10ft\_3m\_2sq, swim 40ft\_12m\_8sq\_F
 
 **Morale** 8
 
 ## Attacks
 
-***Spear.*** Melee or Ranged Weapon Attack:+1 (Shoot 1 DEX +0), reach 5ft_1.5m_1sq or range 20ft_6m_4sq_t-2 / 60ft_18m_12sq_tt, one target. Hit: 1d6+0 piercing damage, or 4 (1d8) piercing damage if used with two hands to make a melee attack.
+***Spear.*** Melee or Ranged Weapon Attack:+1 (Shoot 1 DEX +0), reach 5ft\_1.5m\_1sq or range 20ft\_6m\_4sq\_t-2 / 60ft\_18m\_12sq\_tt, one target. Hit: 1d6+0 piercing damage, or 4 (1d8) piercing damage if used with two hands to make a melee attack.
 

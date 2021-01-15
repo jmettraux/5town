@@ -2,7 +2,7 @@
 
 *Huge giant, chaotic good*
 
-**Hit Dice** 20 (890 20d8+40)
+**Hit Dice** 20 (130 20d8+40)
 
 **Armor Class** 16 (scale mail)
 
@@ -12,9 +12,9 @@
 
 **Saves** Physical 13, Evasion 14, Mental 13, Luck 15
 
-**Skills** Stab 5, Shoot 5, Magic 2, Exert (str) 2, Know 2, Notice 2
+**Skills** Stab 5, Shoot 12, Magic 2, Exert (str) 2, Know 2, Notice 2
 
-**Move** 50ft_15m_10sq_F+2, swim 50ft_15m_10sq_F+2
+**Move** 50ft\_15m\_10sq\_F+2, swim 50ft\_15m\_10sq\_F+2
 
 **Morale** 10
 
@@ -22,9 +22,9 @@
 
 ***Multiattack.*** The giant makes two greatsword attacks.
 
-***Greatsword.*** +7 (Stab 5 STR +2), reach 10ft_3m_2sq, one target. Hit: 6d6+2 slashing damage.
+***Greatsword.*** +7 (Stab 5 STR +2), reach 10ft\_3m\_2sq, one target. Hit: 6d6+2 slashing damage.
 
-***Rock.*** +7 (Shoot 5 STR +2), range 60ft_18m_12sq_tt / 240ft_72m_48sq_6F, one target. Hit: 4d12+2 bludgeoning damage.
+***Rock.*** +13 (Shoot 12 DEX +1), range 60ft\_18m\_12sq\_tt / 240ft\_72m\_48sq\_6F, one target. Hit: 4d12+1 bludgeoning damage.
 
-***Lightning Strike (Recharge 5-6).*** The giant hurls a magical lightning bolt at a point it can see within 500ft_150m_100sq_FF14t of it. Each creature within 10ft_3m_2sq of that point must make a DC 17 Dexterity saving throw, taking 54 (12d8) lightning damage on a failed save, or half as much damage on a successful one.
+***Lightning Strike (Recharge 5-6).*** The giant hurls a magical lightning bolt at a point it can see within 500ft\_150m\_100sq\_11Ftt of it. Each creature within 10ft\_3m\_2sq of that point must make a DC 17 Dexterity saving throw, taking 54 (12d8) lightning damage on a failed save, or half as much damage on a successful one.
 

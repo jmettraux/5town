@@ -14,7 +14,7 @@
 
 **Skills** Stab 2, Shoot 2, Survive 2, Notice 2, Sneak 2, Survive 2
 
-**Move** 30ft_9m_6sq_t
+**Move** 30ft\_9m\_6sq\_t
 
 **Morale** 6
 
@@ -22,9 +22,9 @@
 
 ***Multiattack.*** The scout makes two melee attacks or two ranged attacks.
 
-***Shortsword.*** +3 (Stab 2 DEX +1), reach 5ft_1.5m_1sq, one target. Hit: 1d6 +1 piercing damage.
+***Shortsword.*** +3 (Stab 2 DEX +1), reach 5ft\_1.5m\_1sq, one target. Hit: 1d6 +1 piercing damage.
 
-***Longbow.*** +3 (Shoot 2 DEX +1), ranged 150ft_45m_30sq_FFFt / 600ft_180m_120sq_15F, one target. Hit: 1d8 +1 piercing damage.
+***Longbow.*** +3 (Shoot 2 DEX +1), ranged 150ft\_45m\_30sq\_FFFt / 600ft\_180m\_120sq\_15F, one target. Hit: 1d8 +1 piercing damage.
 
 ***Scouts.*** are skilled hunters and trackers who offer their services for a fee. Most hunt wild game, but a few work as bounty hunters, serve as guides, or provide military reconnaissance.
 

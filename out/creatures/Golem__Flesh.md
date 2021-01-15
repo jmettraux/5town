@@ -2,7 +2,7 @@
 
 *Medium construct, neutral*
 
-**Hit Dice** 11 (291 11d8+22)
+**Hit Dice** 11 (71 11d8+22)
 
 **Armor Class** 9
 
@@ -14,7 +14,7 @@
 
 **Skills** Stab 3
 
-**Move** 30ft_9m_6sq_t
+**Move** 30ft\_9m\_6sq\_t
 
 **Morale** 12
 
@@ -22,5 +22,5 @@
 
 ***Multiattack.*** The golem makes two slam attacks.
 
-***Slam.*** +5 (Stab 3 STR +2), reach 5ft_1.5m_1sq, one target. Hit: 2d8+2 bludgeoning damage.
+***Slam.*** +5 (Stab 3 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 2d8+2 bludgeoning damage.
 

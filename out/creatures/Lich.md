@@ -2,7 +2,7 @@
 
 *Medium undead, any evil alignment*
 
-**Hit Dice** 18 (405 18d8+18)
+**Hit Dice** 18 (99 18d8+18)
 
 **Armor Class** 17 (natural armor)
 
@@ -14,11 +14,11 @@
 
 **Skills** Stab 9, Magic 7, Know 3, Notice 3, Notice 3
 
-**Move** 30ft_9m_6sq_t
+**Move** 30ft\_9m\_6sq\_t
 
 **Morale** 12
 
 ## Attacks
 
-***Paralyzing Touch.*** Melee Spell Attack:+10 (Stab 9 DEX +1), reach 5ft_1.5m_1sq, one creature. Hit: 3d6+1 cold damage. The target must succeed on a DC 18 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Paralyzing Touch.*** Melee Spell Attack:+10 (Stab 9 DEX +1), reach 5ft\_1.5m\_1sq, one creature. Hit: 3d6+1 cold damage. The target must succeed on a DC 18 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 

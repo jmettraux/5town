@@ -2,7 +2,7 @@
 
 *Large dragon, unaligned*
 
-**Hit Dice** 13 (227 13d8+13)
+**Hit Dice** 13 (71 13d8+13)
 
 **Armor Class** 13 (natural armor)
 
@@ -14,7 +14,7 @@
 
 **Skills** Stab 3, Notice 1
 
-**Move** 20ft_6m_4sq_t-2, fly 80ft_24m_16sq_FF
+**Move** 20ft\_6m\_4sq\_t-2, fly 80ft\_24m\_16sq\_FF
 
 **Morale** 9
 
@@ -22,9 +22,9 @@
 
 ***Multiattack.*** The wyvern makes two attacks: one with its bite and one with its stinger. While flying, it can use its claws in place of one other attack.
 
-***Bite.*** +5 (Stab 3 STR +2), reach 10ft_3m_2sq, one creature. Hit: 2d6+2 piercing damage.
+***Bite.*** +5 (Stab 3 STR +2), reach 10ft\_3m\_2sq, one creature. Hit: 2d6+2 piercing damage.
 
-***Claws.*** +5 (Stab 3 STR +2), reach 5ft_1.5m_1sq, one target. Hit: 2d8+2 slashing damage.
+***Claws.*** +5 (Stab 3 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 2d8+2 slashing damage.
 
-***Stinger.*** +5 (Stab 3 STR +2), reach 10ft_3m_2sq, one creature. Hit: 2d6+2 piercing damage. The target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.
+***Stinger.*** +5 (Stab 3 STR +2), reach 10ft\_3m\_2sq, one creature. Hit: 2d6+2 piercing damage. The target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.
 

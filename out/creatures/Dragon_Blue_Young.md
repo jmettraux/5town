@@ -2,7 +2,7 @@
 
 *Large dragon, lawful evil*
 
-**Hit Dice** 16 (584 16d8+32)
+**Hit Dice** 16 (104 16d8+32)
 
 **Armor Class** 18 (natural armor)
 
@@ -14,7 +14,7 @@
 
 **Skills** Stab 4, Notice 4, Sneak 2
 
-**Move** 40ft_12m_8sq_F, burrow 20ft_6m_4sq_t-2, fly 80ft_24m_16sq_FF
+**Move** 40ft\_12m\_8sq\_F, burrow 20ft\_6m\_4sq\_t-2, fly 80ft\_24m\_16sq\_FF
 
 **Morale** 9
 
@@ -22,9 +22,9 @@
 
 ***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
 
-***Bite.*** +6 (Stab 4 STR +2), reach 10ft_3m_2sq, one target. Hit: 2d10+2 piercing damage plus 5 (1d10) lightning damage.
+***Bite.*** +6 (Stab 4 STR +2), reach 10ft\_3m\_2sq, one target. Hit: 2d10+2 piercing damage plus 5 (1d10) lightning damage.
 
-***Claw.*** +6 (Stab 4 STR +2), reach 5ft_1.5m_1sq, one target. Hit: 2d6+2 slashing damage.
+***Claw.*** +6 (Stab 4 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 2d6+2 slashing damage.
 
-***Lightning Breath (Recharge 5-6).*** The dragon exhales lightning in an 60ft_18m_12sq_tt line that is 5ft_1.5m_1sq wide. Each creature in that line must make a DC 16 Dexterity saving throw, taking 55 (10d10) lightning damage on a failed save, or half as much damage on a successful one.
+***Lightning Breath (Recharge 5-6).*** The dragon exhales lightning in an 60ft\_18m\_12sq\_tt line that is 5ft\_1.5m\_1sq wide. Each creature in that line must make a DC 16 Dexterity saving throw, taking 55 (10d10) lightning damage on a failed save, or half as much damage on a successful one.
 

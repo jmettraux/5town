@@ -2,7 +2,7 @@
 
 *Medium monstrosity, unaligned*
 
-**Hit Dice** 8 (100 8d8+8)
+**Hit Dice** 8 (44 8d8+8)
 
 **Armor Class** 15 (natural armor)
 
@@ -14,11 +14,11 @@
 
 **Skills** Stab 2
 
-**Move** 20ft_6m_4sq_t-2
+**Move** 20ft\_6m\_4sq\_t-2
 
 **Morale** 9
 
 ## Attacks
 
-***Bite.*** +3 (Stab 2 STR +1), reach 5ft_1.5m_1sq, one target. Hit: 2d6+1 piercing damage plus 7 (2d6) poison damage.
+***Bite.*** +3 (Stab 2 STR +1), reach 5ft\_1.5m\_1sq, one target. Hit: 2d6+1 piercing damage plus 7 (2d6) poison damage.
 

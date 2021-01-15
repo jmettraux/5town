@@ -2,7 +2,7 @@
 
 *Large giant, chaotic evil*
 
-**Hit Dice** 10 (145 10d8+10)
+**Hit Dice** 10 (55 10d8+10)
 
 **Armor Class** 12 (natural armor)
 
@@ -14,7 +14,7 @@
 
 **Skills** Stab 2, Notice 2
 
-**Move** 40ft_12m_8sq_F
+**Move** 40ft\_12m\_8sq\_F
 
 **Morale** 11
 
@@ -22,7 +22,7 @@
 
 ***Multiattack.*** The ettin makes two attacks: one with its battleaxe and one with its morningstar.
 
-***Battleaxe.*** +4 (Stab 2 STR +2), reach 5ft_1.5m_1sq, one target. Hit: 2d8+2 slashing damage.
+***Battleaxe.*** +4 (Stab 2 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 2d8+2 slashing damage.
 
-***Morningstar.*** +4 (Stab 2 STR +2), reach 5ft_1.5m_1sq, one target. Hit: 2d8+2 piercing damage.
+***Morningstar.*** +4 (Stab 2 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 2d8+2 piercing damage.
 

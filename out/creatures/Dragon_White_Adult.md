@@ -2,7 +2,7 @@
 
 *Huge dragon, chaotic evil*
 
-**Hit Dice** 16 (584 16d8+32)
+**Hit Dice** 16 (104 16d8+32)
 
 **Armor Class** 18 (natural armor)
 
@@ -14,7 +14,7 @@
 
 **Skills** Stab 5, Notice 5, Sneak 2
 
-**Move** 40ft_12m_8sq_F, burrow 30ft_9m_6sq_t, fly 80ft_24m_16sq_FF, swim 40ft_12m_8sq_F
+**Move** 40ft\_12m\_8sq\_F, burrow 30ft\_9m\_6sq\_t, fly 80ft\_24m\_16sq\_FF, swim 40ft\_12m\_8sq\_F
 
 **Morale** 8
 
@@ -22,13 +22,13 @@
 
 ***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
-***Bite.*** +7 (Stab 5 STR +2), reach 10ft_3m_2sq, one target. Hit: 2d10+2 piercing damage plus 4 (1d8) cold damage.
+***Bite.*** +7 (Stab 5 STR +2), reach 10ft\_3m\_2sq, one target. Hit: 2d10+2 piercing damage plus 4 (1d8) cold damage.
 
-***Claw.*** +7 (Stab 5 STR +2), reach 5ft_1.5m_1sq, one target. Hit: 2d6+2 slashing damage.
+***Claw.*** +7 (Stab 5 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 2d6+2 slashing damage.
 
-***Tail.*** +7 (Stab 5 STR +2), reach 15ft_4.5m_3sq, one target. Hit: 2d8+2 bludgeoning damage.
+***Tail.*** +7 (Stab 5 STR +2), reach 15ft\_4.5m\_3sq, one target. Hit: 2d8+2 bludgeoning damage.
 
-***Frightful Presence.*** Each creature of the dragon's choice that is within 120ft_36m_24sq_FFF of the dragon and aware of it must succeed on a DC 14 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120ft\_36m\_24sq\_FFF of the dragon and aware of it must succeed on a DC 14 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 
-***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast in a 60ft_18m_12sq_tt cone. Each creature in that area must make a DC 19 Constitution saving throw, taking 54 (12d8) cold damage on a failed save, or half as much damage on a successful one.
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast in a 60ft\_18m\_12sq\_tt cone. Each creature in that area must make a DC 19 Constitution saving throw, taking 54 (12d8) cold damage on a failed save, or half as much damage on a successful one.
 

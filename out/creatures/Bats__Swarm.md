@@ -14,7 +14,7 @@
 
 **Skills** Stab 2
 
-**Move** 0ft, fly 30ft_9m_6sq_t
+**Move** 0ft, fly 30ft\_9m\_6sq\_t
 
 **Morale** 8
 

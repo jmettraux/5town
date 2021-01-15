@@ -14,11 +14,11 @@
 
 **Skills** Stab 2
 
-**Move** 0ft, swim 40ft_12m_8sq_F
+**Move** 0ft, swim 40ft\_12m\_8sq\_F
 
 **Morale** 8
 
 ## Attacks
 
-***Bite.*** +3 (Stab 2 DEX +1), reach 5ft_1.5m_1sq, one target. Hit: 1 piercing damage.
+***Bite.*** +3 (Stab 2 DEX +1), reach 5ft\_1.5m\_1sq, one target. Hit: 1 piercing damage.
 

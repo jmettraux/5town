@@ -2,7 +2,7 @@
 
 *Huge giant, neutral*
 
-**Hit Dice** 11 (291 11d8+22)
+**Hit Dice** 11 (71 11d8+22)
 
 **Armor Class** 17 (natural armor)
 
@@ -12,9 +12,9 @@
 
 **Saves** Physical 13, Evasion 14, Mental 15, Luck 15
 
-**Skills** Stab 3, Shoot 3, Exert (str) 3, Notice 1
+**Skills** Stab 3, Shoot 7, Exert (str) 3, Notice 1
 
-**Move** 40ft_12m_8sq_F
+**Move** 40ft\_12m\_8sq\_F
 
 **Morale** 9
 
@@ -22,7 +22,7 @@
 
 ***Multiattack.*** The giant makes two greatclub attacks.
 
-***Greatclub.*** +5 (Stab 3 STR +2), reach 15ft_4.5m_3sq, one target. Hit: 3d8+2 bludgeoning damage.
+***Greatclub.*** +5 (Stab 3 STR +2), reach 15ft\_4.5m\_3sq, one target. Hit: 3d8+2 bludgeoning damage.
 
-***Rock.*** +5 (Shoot 3 STR +2), range 60ft_18m_12sq_tt / 240ft_72m_48sq_6F, one target. Hit: 4d10+2 bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked prone.
+***Rock.*** +8 (Shoot 7 DEX +1), range 60ft\_18m\_12sq\_tt / 240ft\_72m\_48sq\_6F, one target. Hit: 4d10+1 bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked prone.
 

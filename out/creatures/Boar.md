@@ -14,11 +14,11 @@
 
 **Skills** Stab 2
 
-**Move** 40ft_12m_8sq_F
+**Move** 40ft\_12m\_8sq\_F
 
 **Morale** 9
 
 ## Attacks
 
-***Tusk.*** +2 (Stab 2 STR +0), reach 5ft_1.5m_1sq, one target. Hit: 1d6+0 slashing damage.
+***Tusk.*** +2 (Stab 2 STR +0), reach 5ft\_1.5m\_1sq, one target. Hit: 1d6+0 slashing damage.
 

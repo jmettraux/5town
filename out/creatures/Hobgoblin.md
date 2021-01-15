@@ -14,13 +14,13 @@
 
 **Skills** Stab 2, Shoot 2
 
-**Move** 30ft_9m_6sq_t
+**Move** 30ft\_9m\_6sq\_t
 
 **Morale** 8 (10 with leader)
 
 ## Attacks
 
-***Longsword.*** +2 (Stab 2 DEX +0), reach 5ft_1.5m_1sq, one target. Hit: 1d8+0 slashing damage, or 6 (1d10+1) slashing damage if used with two hands.
+***Longsword.*** +2 (Stab 2 DEX +0), reach 5ft\_1.5m\_1sq, one target. Hit: 1d8+0 slashing damage, or 6 (1d10+1) slashing damage if used with two hands.
 
-***Longbow.*** +2 (Shoot 2 DEX +0), range 150ft_45m_30sq_FFFt / 600ft_180m_120sq_15F, one target. Hit: 1d8+0 piercing damage.
+***Longbow.*** +2 (Shoot 2 DEX +0), range 150ft\_45m\_30sq\_FFFt / 600ft\_180m\_120sq\_15F, one target. Hit: 1d8+0 piercing damage.
 

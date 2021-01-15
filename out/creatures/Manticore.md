@@ -2,7 +2,7 @@
 
 *Large monstrosity, lawful evil*
 
-**Hit Dice** 8 (100 8d8+8)
+**Hit Dice** 8 (44 8d8+8)
 
 **Armor Class** 14 (natural armor)
 
@@ -14,7 +14,7 @@
 
 **Skills** Stab 2, Shoot 2
 
-**Move** 30ft_9m_6sq_t, fly 50ft_15m_10sq_F+2
+**Move** 30ft\_9m\_6sq\_t, fly 50ft\_15m\_10sq\_F+2
 
 **Morale** 9
 
@@ -22,9 +22,9 @@
 
 ***Multiattack.*** The manticore makes three attacks: one with its bite and two with its claws or three with its tail spikes.
 
-***Bite.*** +3 (Stab 2 DEX +1), reach 5ft_1.5m_1sq, one target. Hit: 1d8+1 piercing damage.
+***Bite.*** +3 (Stab 2 DEX +1), reach 5ft\_1.5m\_1sq, one target. Hit: 1d8+1 piercing damage.
 
-***Claw.*** +3 (Stab 2 DEX +1), reach 5ft_1.5m_1sq, one target. Hit: 1d6+1 slashing damage.
+***Claw.*** +3 (Stab 2 DEX +1), reach 5ft\_1.5m\_1sq, one target. Hit: 1d6+1 slashing damage.
 
-***Tail Spike.*** +3 (Shoot 2 DEX +1), range 100ft_30m_20sq_Ftt / 200ft_60m_40sq_5F, one target. Hit: 1d8+1 piercing damage.
+***Tail Spike.*** +3 (Shoot 2 DEX +1), range 100ft\_30m\_20sq\_Ftt / 200ft\_60m\_40sq\_5F, one target. Hit: 1d8+1 piercing damage.
 

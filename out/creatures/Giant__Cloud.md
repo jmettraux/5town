@@ -2,7 +2,7 @@
 
 *Huge giant, neutral good (50%) or neutral evil (50%)*
 
-**Hit Dice** 16 (584 16d8+32)
+**Hit Dice** 16 (104 16d8+32)
 
 **Armor Class** 14 (natural armor)
 
@@ -12,9 +12,9 @@
 
 **Saves** Physical 13, Evasion 15, Mental 14, Luck 15
 
-**Skills** Stab 4, Shoot 4, Notice 2, Notice 2
+**Skills** Stab 4, Shoot 12, Notice 2, Notice 2
 
-**Move** 40ft_12m_8sq_F
+**Move** 40ft\_12m\_8sq\_F
 
 **Morale** 10
 
@@ -22,7 +22,7 @@
 
 ***Multiattack.*** The giant makes two morningstar attacks.
 
-***Morningstar.*** +6 (Stab 4 STR +2), reach 10ft_3m_2sq, one target. Hit: 3d8+2 piercing damage.
+***Morningstar.*** +6 (Stab 4 STR +2), reach 10ft\_3m\_2sq, one target. Hit: 3d8+2 piercing damage.
 
-***Rock.*** +6 (Shoot 4 STR +2), range 60ft_18m_12sq_tt / 240ft_72m_48sq_6F, one target. Hit: 4d10+2 bludgeoning damage.
+***Rock.*** +12 (Shoot 12 DEX +0), range 60ft\_18m\_12sq\_tt / 240ft\_72m\_48sq\_6F, one target. Hit: 4d10+0 bludgeoning damage.
 

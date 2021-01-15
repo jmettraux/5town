@@ -14,11 +14,11 @@
 
 **Skills** Stab 2, Notice 1, Sneak 1
 
-**Move** 40ft_12m_8sq_F
+**Move** 40ft\_12m\_8sq\_F
 
 **Morale** 6 (8 in pack)
 
 ## Attacks
 
-***Bite.*** +3 (Stab 2 DEX +1), reach 5ft_1.5m_1sq, one target. Hit: 2d4+1 piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.
+***Bite.*** +3 (Stab 2 DEX +1), reach 5ft\_1.5m\_1sq, one target. Hit: 2d4+1 piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.
 

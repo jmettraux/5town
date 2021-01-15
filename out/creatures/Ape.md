@@ -2,7 +2,7 @@
 
 *Medium beast, unaligned*
 
-**Hit Dice** 3 (22 3d8+3)
+**Hit Dice** 3 (16 3d8+3)
 
 **Armor Class** 12
 
@@ -12,9 +12,9 @@
 
 **Saves** Physical 14, Evasion 14, Mental 15, Luck 15
 
-**Skills** Stab 2, Shoot 2, Exert (str) 1, Notice 1
+**Skills** Stab 2, Shoot 3, Exert (str) 1, Notice 1
 
-**Move** 30ft_9m_6sq_t, climb 30ft_9m_6sq_t
+**Move** 30ft\_9m\_6sq\_t, climb 30ft\_9m\_6sq\_t
 
 **Morale** 7
 
@@ -22,7 +22,7 @@
 
 ***Multiattack.*** The ape makes two fist attacks.
 
-***Fist.*** +3 (Stab 2 STR +1), reach 5ft_1.5m_1sq, one target. Hit: 1d6+1 bludgeoning damage.
+***Fist.*** +3 (Stab 2 STR +1), reach 5ft\_1.5m\_1sq, one target. Hit: 1d6+1 bludgeoning damage.
 
-***Rock.*** +3 (Shoot 2 STR +1), range 25ft_7.5m_5sq_t-1 / 50ft_15m_10sq_F+2, one target. Hit: 1d6+1 bludgeoning damage.
+***Rock.*** +4 (Shoot 3 DEX +1), range 25ft\_7.5m\_5sq\_t-1 / 50ft\_15m\_10sq\_F+2, one target. Hit: 1d6+1 bludgeoning damage.
 

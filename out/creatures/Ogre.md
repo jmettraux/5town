@@ -2,7 +2,7 @@
 
 *Large giant, chaotic evil*
 
-**Hit Dice** 7 (80 7d8+7)
+**Hit Dice** 7 (38 7d8+7)
 
 **Armor Class** 11 (hide armor)
 
@@ -12,15 +12,15 @@
 
 **Saves** Physical 13, Evasion 15, Mental 16, Luck 15
 
-**Skills** Stab 2, Shoot 2
+**Skills** Stab 2, Shoot 7
 
-**Move** 40ft_12m_8sq_F
+**Move** 40ft\_12m\_8sq\_F
 
 **Morale** 10
 
 ## Attacks
 
-***Greatclub.*** +4 (Stab 2 STR +2), reach 5ft_1.5m_1sq, one target. Hit: 2d8+2 bludgeoning damage.
+***Greatclub.*** +4 (Stab 2 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 2d8+2 bludgeoning damage.
 
-***Javelin.*** Melee or Ranged Weapon Attack:+4 (Shoot 2 STR +2), reach 5ft_1.5m_1sq or range 30ft_9m_6sq_t / 120ft_36m_24sq_FFF, one target. Hit: 2d6+2 piercing damage.
+***Javelin.*** Melee or Ranged Weapon Attack:+7 (Shoot 7 DEX +0), reach 5ft\_1.5m\_1sq or range 30ft\_9m\_6sq\_t / 120ft\_36m\_24sq\_FFF, one target. Hit: 2d6+0 piercing damage.
 

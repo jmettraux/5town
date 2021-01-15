@@ -2,7 +2,7 @@
 
 *Large beast, unaligned*
 
-**Hit Dice** 5 (47 5d8+5)
+**Hit Dice** 5 (27 5d8+5)
 
 **Armor Class** 14 (natural armor)
 
@@ -14,11 +14,11 @@
 
 **Skills** Stab 2, Notice 1, Sneak 1
 
-**Move** 50ft_15m_10sq_F+2
+**Move** 50ft\_15m\_10sq\_F+2
 
 **Morale** 8
 
 ## Attacks
 
-***Bite.*** +3 (Stab 2 STR +1), reach 5ft_1.5m_1sq, one target. Hit: 2d6+1 piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
+***Bite.*** +3 (Stab 2 STR +1), reach 5ft\_1.5m\_1sq, one target. Hit: 2d6+1 piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
 

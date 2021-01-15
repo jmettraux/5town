@@ -2,7 +2,7 @@
 
 *Large monstrosity, unaligned*
 
-**Hit Dice** 7 (80 7d8+7)
+**Hit Dice** 7 (38 7d8+7)
 
 **Armor Class** 12
 
@@ -14,7 +14,7 @@
 
 **Skills** Stab 2, Notice 2
 
-**Move** 30ft_9m_6sq_t, fly 80ft_24m_16sq_FF
+**Move** 30ft\_9m\_6sq\_t, fly 80ft\_24m\_16sq\_FF
 
 **Morale** 8
 
@@ -22,7 +22,7 @@
 
 ***Multiattack.*** The griffon makes two attacks: one with its beak and one with its claws.
 
-***Beak.*** +4 (Stab 2 STR +2), reach 5ft_1.5m_1sq, one target. Hit: 1d8+2 piercing damage.
+***Beak.*** +4 (Stab 2 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 1d8+2 piercing damage.
 
-***Claws.*** +4 (Stab 2 STR +2), reach 5ft_1.5m_1sq, one target. Hit: 2d6+2 slashing damage.
+***Claws.*** +4 (Stab 2 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 2d6+2 slashing damage.
 

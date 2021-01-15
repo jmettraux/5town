@@ -2,7 +2,7 @@
 
 *Large elemental, lawful evil*
 
-**Hit Dice** 16 (584 16d8+32)
+**Hit Dice** 16 (104 16d8+32)
 
 **Armor Class** 17 (natural armor)
 
@@ -12,9 +12,9 @@
 
 **Saves** Physical 13, Evasion 14, Mental 14, Luck 15
 
-**Skills** Stab 4, Shoot 1
+**Skills** Stab 4, Shoot 6
 
-**Move** 40ft_12m_8sq_F, fly 60ft_18m_12sq_tt
+**Move** 40ft\_12m\_8sq\_F, fly 60ft\_18m\_12sq\_tt
 
 **Morale** 12
 
@@ -22,7 +22,7 @@
 
 ***Multiattack.*** The efreeti makes two scimitar attacks or uses its Hurl Flame twice.
 
-***Scimitar.*** +6 (Stab 4 STR +2), reach 5ft_1.5m_1sq, one target. Hit: 2d6+2 slashing damage plus 7 (2d6) fire damage.
+***Scimitar.*** +6 (Stab 4 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 2d6+2 slashing damage plus 7 (2d6) fire damage.
 
-***Hurl Flame.*** Ranged Spell Attack:+3 (Shoot 1 STR +2), range 120ft_36m_24sq_FFF, one target. Hit: 5d6+2 fire damage.
+***Hurl Flame.*** Ranged Spell Attack:+6 (Shoot 6 DEX +0), range 120ft\_36m\_24sq\_FFF, one target. Hit: 5d6+0 fire damage.
 

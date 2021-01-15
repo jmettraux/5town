@@ -2,7 +2,7 @@
 
 *Large beast, unaligned*
 
-**Hit Dice** 6 (63 6d8+6)
+**Hit Dice** 6 (33 6d8+6)
 
 **Armor Class** 11 (natural armor)
 
@@ -14,11 +14,11 @@
 
 **Skills** Stab 2
 
-**Move** 40ft_12m_8sq_F
+**Move** 40ft\_12m\_8sq\_F
 
 **Morale** 6
 
 ## Attacks
 
-***Gore.*** +4 (Stab 2 STR +2), reach 5ft_1.5m_1sq, one target. Hit: 2d8+2 bludgeoning damage.
+***Gore.*** +4 (Stab 2 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 2d8+2 bludgeoning damage.
 

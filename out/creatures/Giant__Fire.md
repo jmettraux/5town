@@ -2,7 +2,7 @@
 
 *Huge giant, lawful evil*
 
-**Hit Dice** 13 (396 13d8+26)
+**Hit Dice** 13 (84 13d8+26)
 
 **Armor Class** 18 (plate)
 
@@ -12,9 +12,9 @@
 
 **Saves** Physical 13, Evasion 15, Mental 14, Luck 15
 
-**Skills** Stab 4, Shoot 4, Exert (str) 2, Notice 2
+**Skills** Stab 4, Shoot 12, Exert (str) 2, Notice 2
 
-**Move** 30ft_9m_6sq_t
+**Move** 30ft\_9m\_6sq\_t
 
 **Morale** 9
 
@@ -22,7 +22,7 @@
 
 ***Multiattack.*** The giant makes two greatsword attacks.
 
-***Greatsword.*** +6 (Stab 4 STR +2), reach 10ft_3m_2sq, one target. Hit: 6d6+2 slashing damage.
+***Greatsword.*** +6 (Stab 4 STR +2), reach 10ft\_3m\_2sq, one target. Hit: 6d6+2 slashing damage.
 
-***Rock.*** +6 (Shoot 4 STR +2), range 60ft_18m_12sq_tt / 240ft_72m_48sq_6F, one target. Hit: 4d10+2 bludgeoning damage.
+***Rock.*** +12 (Shoot 12 DEX +0), range 60ft\_18m\_12sq\_tt / 240ft\_72m\_48sq\_6F, one target. Hit: 4d10+0 bludgeoning damage.
 

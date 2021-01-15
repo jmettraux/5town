@@ -2,7 +2,7 @@
 
 *Medium monstrosity, lawful evil*
 
-**Hit Dice** 17 (365 17d8+17)
+**Hit Dice** 17 (93 17d8+17)
 
 **Armor Class** 15 (natural armor)
 
@@ -14,7 +14,7 @@
 
 **Skills** Stab 3, Shoot 3, Connect 1, Notice 1, Notice 1, Sneak 1
 
-**Move** 30ft_9m_6sq_t
+**Move** 30ft\_9m\_6sq\_t
 
 **Morale** 8
 
@@ -22,9 +22,9 @@
 
 ***Multiattack.*** The medusa makes either three melee attacks-one with its snake hair and two with its shortsword-or two ranged attacks with its longbow.
 
-***Snake Hair.*** +4 (Stab 3 DEX +1), reach 5ft_1.5m_1sq, one creature. Hit: 1d4+1 piercing damage plus 14 (4d6) poison damage.
+***Snake Hair.*** +4 (Stab 3 DEX +1), reach 5ft\_1.5m\_1sq, one creature. Hit: 1d4+1 piercing damage plus 14 (4d6) poison damage.
 
-***Shortsword.*** +4 (Stab 3 DEX +1), reach 5ft_1.5m_1sq, one target. Hit: 1d6+1 piercing damage.
+***Shortsword.*** +4 (Stab 3 DEX +1), reach 5ft\_1.5m\_1sq, one target. Hit: 1d6+1 piercing damage.
 
-***Longbow.*** +4 (Shoot 3 DEX +1), range 150ft_45m_30sq_FFFt / 600ft_180m_120sq_15F, one target. Hit: 1d8+1 piercing damage plus 7 (2d6) poison damage.
+***Longbow.*** +4 (Shoot 3 DEX +1), range 150ft\_45m\_30sq\_FFFt / 600ft\_180m\_120sq\_15F, one target. Hit: 1d8+1 piercing damage plus 7 (2d6) poison damage.
 

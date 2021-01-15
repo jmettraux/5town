@@ -2,7 +2,7 @@
 
 *Large beast, unaligned*
 
-**Hit Dice** 5 (47 5d8+5)
+**Hit Dice** 5 (27 5d8+5)
 
 **Armor Class** 12 (natural armor)
 
@@ -14,11 +14,11 @@
 
 **Skills** Stab 2
 
-**Move** 40ft_12m_8sq_F
+**Move** 40ft\_12m\_8sq\_F
 
 **Morale** 8
 
 ## Attacks
 
-***Tusk.*** +3 (Stab 2 STR +1), reach 5ft_1.5m_1sq, one target. Hit: 2d6+1 slashing damage.
+***Tusk.*** +3 (Stab 2 STR +1), reach 5ft\_1.5m\_1sq, one target. Hit: 2d6+1 slashing damage.
 

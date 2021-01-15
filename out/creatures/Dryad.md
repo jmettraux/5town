@@ -14,13 +14,13 @@
 
 **Skills** Stab 1, Notice 1, Sneak 2
 
-**Move** 30ft_9m_6sq_t
+**Move** 30ft\_9m\_6sq\_t
 
 **Morale** 6
 
 ## Attacks
 
-***Club.*** +1 (Stab 1 DEX +0) (+6 to hit with shillelagh), reach 5ft_1.5m_1sq, one target. Hit: 1d4+0 bludgeoning damage, or 8 (1d8+4) bludgeoning damage with shillelagh.
+***Club.*** +1 (Stab 1 DEX +0) (+6 to hit with shillelagh), reach 5ft\_1.5m\_1sq, one target. Hit: 1d4+0 bludgeoning damage, or 8 (1d8+4) bludgeoning damage with shillelagh.
 
-***Fey Charm.*** The dryad targets one humanoid or beast that she can see within 30ft_9m_6sq_t of her. If the target can see the dryad, it must succeed on a DC 14 Wisdom saving throw or be magically charmed. The charmed creature regards the dryad as a trusted friend to be heeded and protected. Although the target isn't under the dryad's control, it takes the dryad's requests or actions in the most favorable way it can.
+***Fey Charm.*** The dryad targets one humanoid or beast that she can see within 30ft\_9m\_6sq\_t of her. If the target can see the dryad, it must succeed on a DC 14 Wisdom saving throw or be magically charmed. The charmed creature regards the dryad as a trusted friend to be heeded and protected. Although the target isn't under the dryad's control, it takes the dryad's requests or actions in the most favorable way it can.
 

@@ -2,7 +2,7 @@
 
 *Large plant, unaligned*
 
-**Hit Dice** 16 (328 16d8+16)
+**Hit Dice** 16 (88 16d8+16)
 
 **Armor Class** 15 (natural armor)
 
@@ -14,7 +14,7 @@
 
 **Skills** Stab 3, Sneak 1
 
-**Move** 20ft_6m_4sq_t-2, swim 20ft_6m_4sq_t-2
+**Move** 20ft\_6m\_4sq\_t-2, swim 20ft\_6m\_4sq\_t-2
 
 **Morale** 9
 
@@ -22,7 +22,7 @@
 
 ***Multiattack.*** The shambling mound makes two slam attacks. If both attacks hit a Medium or smaller target, the target is grappled (escape DC 14), and the shambling mound uses its Engulf on it.
 
-***Slam.*** +5 (Stab 3 STR +2), reach 5ft_1.5m_1sq, one target. Hit: 2d8+2 bludgeoning damage.
+***Slam.*** +5 (Stab 3 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 2d8+2 bludgeoning damage.
 
 ***Engulf.*** The shambling mound engulfs a Medium or smaller creature grappled by it. The engulfed target is blinded, restrained, and unable to breathe, and it must succeed on a DC 14 Constitution saving throw at the start of each of the mound's turns or take 13 (2d8+4) bludgeoning damage. If the mound moves, the engulfed target moves with it. The mound can have only one creature engulfed at a time.
 

@@ -14,11 +14,11 @@
 
 **Skills** Stab 2
 
-**Move** 40ft_12m_8sq_F
+**Move** 40ft\_12m\_8sq\_F
 
 **Morale** 7
 
 ## Attacks
 
-***Ram.*** +3 (Stab 2 STR +1), reach 5ft_1.5m_1sq, one target. Hit: 2d4+1 bludgeoning damage.
+***Ram.*** +3 (Stab 2 STR +1), reach 5ft\_1.5m\_1sq, one target. Hit: 2d4+1 bludgeoning damage.
 

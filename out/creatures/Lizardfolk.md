@@ -12,9 +12,9 @@
 
 **Saves** Physical 14, Evasion 15, Mental 15, Luck 15
 
-**Skills** Stab 2, Shoot 2, Notice 1, Sneak 2, Survive 2
+**Skills** Stab 2, Shoot 4, Notice 1, Sneak 2, Survive 2
 
-**Move** 30ft_9m_6sq_t, swim 30ft_9m_6sq_t
+**Move** 30ft\_9m\_6sq\_t, swim 30ft\_9m\_6sq\_t
 
 **Morale** 12
 
@@ -22,11 +22,11 @@
 
 ***Multiattack.*** The lizardfolk makes two melee attacks, each one with a different weapon.
 
-***Bite.*** +3 (Stab 2 STR +1), reach 5ft_1.5m_1sq, one target. Hit: 1d6+1 piercing damage.
+***Bite.*** +3 (Stab 2 STR +1), reach 5ft\_1.5m\_1sq, one target. Hit: 1d6+1 piercing damage.
 
-***Heavy Club.*** +3 (Stab 2 STR +1), reach 5ft_1.5m_1sq, one target. Hit: 1d6+1 bludgeoning damage.
+***Heavy Club.*** +3 (Stab 2 STR +1), reach 5ft\_1.5m\_1sq, one target. Hit: 1d6+1 bludgeoning damage.
 
-***Javelin.*** Melee or Ranged Weapon Attack:+3 (Shoot 2 STR +1), reach 5ft_1.5m_1sq or range 30ft_9m_6sq_t / 120ft_36m_24sq_FFF, one target. Hit: 1d6+1 piercing damage.
+***Javelin.*** Melee or Ranged Weapon Attack:+4 (Shoot 4 DEX +0), reach 5ft\_1.5m\_1sq or range 30ft\_9m\_6sq\_t / 120ft\_36m\_24sq\_FFF, one target. Hit: 1d6+0 piercing damage.
 
-***Spiked Shield.*** +3 (Stab 2 STR +1), reach 5ft_1.5m_1sq, one target. Hit: 1d6+1 piercing damage.
+***Spiked Shield.*** +3 (Stab 2 STR +1), reach 5ft\_1.5m\_1sq, one target. Hit: 1d6+1 piercing damage.
 

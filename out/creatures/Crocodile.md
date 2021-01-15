@@ -14,11 +14,11 @@
 
 **Skills** Stab 2, Sneak 1
 
-**Move** 20ft_6m_4sq_t-2, swim 30ft_9m_6sq_t
+**Move** 20ft\_6m\_4sq\_t-2, swim 30ft\_9m\_6sq\_t
 
 **Morale** 7
 
 ## Attacks
 
-***Bite.*** +3 (Stab 2 STR +1), reach 5ft_1.5m_1sq, one creature. Hit: 1d10+1 piercing damage, and the target is grappled (escape DC 12). Until this grapple ends, the target is restrained, and the crocodile can't bite another target.
+***Bite.*** +3 (Stab 2 STR +1), reach 5ft\_1.5m\_1sq, one creature. Hit: 1d10+1 piercing damage, and the target is grappled (escape DC 12). Until this grapple ends, the target is restrained, and the crocodile can't bite another target.
 

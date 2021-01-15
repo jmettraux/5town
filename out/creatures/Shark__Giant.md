@@ -2,7 +2,7 @@
 
 *Huge beast, unaligned*
 
-**Hit Dice** 11 (291 11d8+22)
+**Hit Dice** 11 (71 11d8+22)
 
 **Armor Class** 13 (natural armor)
 
@@ -14,11 +14,11 @@
 
 **Skills** Stab 3, Notice 1
 
-**Move** 0ft, swim 50ft_15m_10sq_F+2
+**Move** 0ft, swim 50ft\_15m\_10sq\_F+2
 
 **Morale** 7
 
 ## Attacks
 
-***Bite.*** +5 (Stab 3 STR +2), reach 5ft_1.5m_1sq, one target. Hit: 3d10+2 piercing damage.
+***Bite.*** +5 (Stab 3 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 3d10+2 piercing damage.
 

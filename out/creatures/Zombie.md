@@ -2,7 +2,7 @@
 
 *Medium undead, neutral evil*
 
-**Hit Dice** 3 (22 3d8+3)
+**Hit Dice** 3 (16 3d8+3)
 
 **Armor Class** 8
 
@@ -14,11 +14,11 @@
 
 **Skills** Stab 2
 
-**Move** 20ft_6m_4sq_t-2
+**Move** 20ft\_6m\_4sq\_t-2
 
 **Morale** 12
 
 ## Attacks
 
-***Slam.*** +2 (Stab 2 STR +0), reach 5ft_1.5m_1sq, one target. Hit: 1d6+0 bludgeoning damage.
+***Slam.*** +2 (Stab 2 STR +0), reach 5ft\_1.5m\_1sq, one target. Hit: 1d6+0 bludgeoning damage.
 

@@ -2,7 +2,7 @@
 
 *Huge monstrosity, unaligned*
 
-**Hit Dice** 15 (517 15d8+30)
+**Hit Dice** 15 (97 15d8+30)
 
 **Armor Class** 15 (natural armor)
 
@@ -14,7 +14,7 @@
 
 **Skills** Stab 3, Notice 3
 
-**Move** 30ft_9m_6sq_t, swim 30ft_9m_6sq_t
+**Move** 30ft\_9m\_6sq\_t, swim 30ft\_9m\_6sq\_t
 
 **Morale** 9
 
@@ -22,5 +22,5 @@
 
 ***Multiattack.*** The hydra makes as many bite attacks as it has heads.
 
-***Bite.*** +5 (Stab 3 STR +2), reach 10ft_3m_2sq, one target. Hit: 1d10+2 piercing damage.
+***Bite.*** +5 (Stab 3 STR +2), reach 10ft\_3m\_2sq, one target. Hit: 1d10+2 piercing damage.
 

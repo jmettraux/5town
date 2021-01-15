@@ -2,7 +2,7 @@
 
 *Huge beast, unaligned*
 
-**Hit Dice** 8 (100 8d8+8)
+**Hit Dice** 8 (44 8d8+8)
 
 **Armor Class** 12 (natural armor)
 
@@ -14,13 +14,13 @@
 
 **Skills** Stab 2
 
-**Move** 40ft_12m_8sq_F
+**Move** 40ft\_12m\_8sq\_F
 
 **Morale** 8
 
 ## Attacks
 
-***Gore.*** +4 (Stab 2 STR +2), reach 5ft_1.5m_1sq, one target. Hit: 3d8+2 piercing damage.
+***Gore.*** +4 (Stab 2 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 3d8+2 piercing damage.
 
-***Stomp.*** +4 (Stab 2 STR +2), reach 5ft_1.5m_1sq, one prone creature. Hit: 3d10+2 bludgeoning damage.
+***Stomp.*** +4 (Stab 2 STR +2), reach 5ft\_1.5m\_1sq, one prone creature. Hit: 3d10+2 bludgeoning damage.
 

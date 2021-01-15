@@ -14,13 +14,13 @@
 
 **Skills** Stab 2
 
-**Move** 30ft_9m_6sq_t, swim 30ft_9m_6sq_t
+**Move** 30ft\_9m\_6sq\_t, swim 30ft\_9m\_6sq\_t
 
 **Morale** 9
 
 ## Attacks
 
-***Bite.*** +3 (Stab 2 DEX +1), reach 5ft_1.5m_1sq, one creature. Hit: 1d6+1 piercing damage.
+***Bite.*** +3 (Stab 2 DEX +1), reach 5ft\_1.5m\_1sq, one creature. Hit: 1d6+1 piercing damage.
 
-***Constrict.*** +3 (Stab 2 DEX +1), reach 5ft_1.5m_1sq, one creature. Hit: 1d8+1 bludgeoning damage, and the target is grappled (escape DC 14). Until this grapple ends, the creature is restrained, and the snake can't constrict another target.
+***Constrict.*** +3 (Stab 2 DEX +1), reach 5ft\_1.5m\_1sq, one creature. Hit: 1d8+1 bludgeoning damage, and the target is grappled (escape DC 14). Until this grapple ends, the creature is restrained, and the snake can't constrict another target.
 

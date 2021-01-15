@@ -14,7 +14,7 @@
 
 **Skills** Stab 2
 
-**Move** 25ft_7.5m_5sq_t-1
+**Move** 25ft\_7.5m\_5sq\_t-1
 
 **Morale** 12
 
@@ -22,5 +22,5 @@
 
 ***Multiattack.*** The armor makes two melee attacks.
 
-***Slam.*** +3 (Stab 2 STR +1), reach 5ft_1.5m_1sq, one target. Hit: 1d6+1 bludgeoning damage.
+***Slam.*** +3 (Stab 2 STR +1), reach 5ft\_1.5m\_1sq, one target. Hit: 1d6+1 bludgeoning damage.
 

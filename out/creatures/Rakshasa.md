@@ -2,7 +2,7 @@
 
 *Medium fiend, lawful evil*
 
-**Hit Dice** 13 (396 13d8+26)
+**Hit Dice** 13 (84 13d8+26)
 
 **Armor Class** 16 (natural armor)
 
@@ -14,7 +14,7 @@
 
 **Skills** Stab 4, Connect 2, Notice 2
 
-**Move** 40ft_12m_8sq_F
+**Move** 40ft\_12m\_8sq\_F
 
 **Morale** 11
 
@@ -22,5 +22,5 @@
 
 ***Multiattack.*** The rakshasa makes two claw attacks.
 
-***Claw.*** +5 (Stab 4 DEX +1), reach 5ft_1.5m_1sq, one target. Hit: 2d6+1 slashing damage, and the target is cursed if it is a creature. The magical curse takes effect whenever the target takes a short or long rest, filling the target's thoughts with horrible images and dreams. The cursed target gains no benefit from finishing a short or long rest. The curse lasts until it is lifted by a remove curse spell or similar magic.
+***Claw.*** +5 (Stab 4 DEX +1), reach 5ft\_1.5m\_1sq, one target. Hit: 2d6+1 slashing damage, and the target is cursed if it is a creature. The magical curse takes effect whenever the target takes a short or long rest, filling the target's thoughts with horrible images and dreams. The cursed target gains no benefit from finishing a short or long rest. The curse lasts until it is lifted by a remove curse spell or similar magic.
 

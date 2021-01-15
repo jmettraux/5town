@@ -14,11 +14,11 @@
 
 **Skills** Stab 2, Notice 1
 
-**Move** 0ft, swim 60ft_18m_12sq_tt
+**Move** 0ft, swim 60ft\_18m\_12sq\_tt
 
 **Morale** 10
 
 ## Attacks
 
-***Bite.*** +4 (Stab 2 STR +2), reach 5ft_1.5m_1sq, one target. Hit: 5d6+2 piercing damage.
+***Bite.*** +4 (Stab 2 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 5d6+2 piercing damage.
 
