@@ -340,7 +340,8 @@ class MdownToCreature < Redcarpet::Render::Base
 
   def normal_text(text)
 
-    FeetExpander.expand(text)
+    #FeetExpander.expand(text)
+    text
   end
 
   def header(title, level)
