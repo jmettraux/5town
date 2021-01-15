@@ -346,8 +346,7 @@ class MdownToCreature < Redcarpet::Render::Base
 
   def normal_text(text)
 
-    #FeetExpander.expand(text)
-    text
+    FeetExpander.expand(text) { |s| s.gsub('_', '\_') }
   end
 
   def header(title, level)
