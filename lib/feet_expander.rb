@@ -12,8 +12,8 @@ module FeetExpander
             (\d[.,]\d+|[.,]\d+|\d+)[- ]*
             (foot|feet|ft\.?)
           }xi) {
-            s = expand_feet($1, $2, $3)
-            block ? block.call(s) : s
+            r = expand_feet($1, $2, $3)
+            block ? block.call(r) : r
           }
     end
 
@@ -40,7 +40,15 @@ module FeetExpander
       m = ft * 0.3
       sq = ft * 0.2
 
-      st = tost(ft)#; st = nil if st.match?(/\A\+\d\z/)
+      st =
+        tost(ft)
+      st =
+        case st
+        when '+5' then 't-1'
+        when '+4' then 't-2'
+        when /^\+/ then nil
+        else st
+        end
 
       [ "#{rtos(ft)}ft", "#{rtos(m)}m", "#{rtos(sq)}sq", st ]
         .compact
