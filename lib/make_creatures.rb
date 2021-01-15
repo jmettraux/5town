@@ -35,7 +35,9 @@ class Creature
 
     @options = opts
 
+    @entries['Actions'].each { |a| translate_action(a) }
     attacks = @entries['Actions'].collect { |a| translate_action(a) }
+      # 1st pass, then second pass...
       # which sets Stab and Shoot
 
     o = StringIO.new
@@ -69,7 +71,7 @@ class Creature
     hdd = "#{hd}d8"
     hdd = hdd + ((con < 0) ? "-#{con}" : (con > 0) ? "+#{con}" : '')
 
-    hps = (hd * 4.5).to_i + hd * con
+    hps = (hd * 4.5).to_i + con
 
     "#{hd} (#{hps} #{hdd})"
   end
@@ -233,14 +235,18 @@ class Creature
     att = d5s < d5d ? :str : :dex
     rem = [ d5s, d5d ].min
 
+    att, rem = [ :dex, d5d ] if type == 'Shoot'
+
     m = modifier(att)
 
     rem = 0 if rem < 0
 
     if type == 'Shoot'
-      @shoot = [ rem, att ]
+      @shoot = (@shoot && @shoot[0] > rem) ? @shoot : [ rem, att ]
+      rem, att = @shoot
     else
-      @stab = [ rem, att ]
+      @stab = (@stab && @stab[0] > rem) ? @stab : [ rem, att ]
+      rem, att = @stab
     end
 
     "#{tb(rem + m)} (#{type} #{rem} #{att.to_s.upcase} #{tb(m)})"
