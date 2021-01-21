@@ -215,7 +215,7 @@ class Creature
 
 #p desc
     desc1 = desc
-      .gsub(/^(Melee|Ranged) Weapon Attack:/,
+      .gsub(/^(Melee|Ranged|Melee or Ranged) Weapon Attack:/,
         '')
       .gsub(/ ([-+]\d+) to hit/) { |m|
         translate_attack_bonus(type, $1.to_i) }
