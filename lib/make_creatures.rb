@@ -36,7 +36,7 @@ class Creature
     @options = opts
 
     @entries['Actions'].each { |a| translate_action(a) }
-    attacks = @entries['Actions'].collect { |a| translate_action(a) }
+    attacks = @entries['Actions'].collect { |a| translate_action(a) }.flatten
       # 1st pass, then second pass...
       # which sets Stab and Shoot
 
@@ -211,9 +211,16 @@ class Creature
 
     name, desc = a
 
-    type = desc.match?(/anged/) ? 'Shoot' : 'Stab'
+    [ do_translate_action('Stab', name, desc),
+      do_translate_action('Shoot', name, desc)
+        ].compact
+  end
 
-#p desc
+  def do_translate_action(type, name, desc)
+
+    return nil if type == 'Stab' && ! desc.match?(/melee .+ attack:/i)
+    return nil if type == 'Shoot' && ! desc.match?(/ranged .+ attack:/i)
+
     desc1 = desc
       .gsub(/^(Melee|Ranged|Melee or Ranged) Weapon Attack:/,
         '')
@@ -221,6 +228,10 @@ class Creature
         translate_attack_bonus(type, $1.to_i) }
       .gsub(/ Hit: \d+ \(([^)]+)\) /) { |m|
         translate_attack_damage(type, $1) }
+
+    desc1 = type == 'Stab' ?
+      desc1.gsub(/ (or )?range [^,$]+/, '') :
+      desc1.gsub(/reach (?:(?!, |or ).)+(, |or )/, '')
 
     "***#{name}.*** #{desc1}"
   end
