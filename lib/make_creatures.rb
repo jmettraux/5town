@@ -23,7 +23,9 @@ class Creature
 
   def <<(kv)
 
-    (@entries[@phase] ||= []) << kv
+    k, v = kv
+
+    (@entries[@phase] ||= []) << [ k.gsub('.', ''), v ]
   end
 
   def to_h
@@ -216,9 +218,12 @@ class Creature
 
     name, desc = a
 
-    [ do_translate_action('Stab', name, desc),
+    r = [
+      do_translate_action('Stab', name, desc),
       do_translate_action('Shoot', name, desc)
         ].compact
+
+    r.any? ? r : [ "***#{name}.*** #{desc}" ]
   end
 
   def do_translate_action(type, name, desc)

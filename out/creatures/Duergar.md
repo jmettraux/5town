@@ -24,7 +24,9 @@
 
 ***War Pick.*** +3 (Stab 2 STR +1), reach 5ft\_1.5m\_1sq, one target. Hit: 1d8+1 piercing damage, or 11 (2d8+2) piercing damage while enlarged.
 
-***Javelin.*** Melee or Ranged Weapon Attack:+4 (Shoot 4 DEX +0), reach 5ft\_1.5m\_1sq or range 30ft\_9m\_6sq\_t / 120ft\_36m\_24sq\_FFF, one target. Hit: 1d6+0 piercing damage, or 9 (2d6+2) piercing damage while enlarged.
+***Javelin.*** +3 (Stab 2 STR +1), reach 5ft\_1.5m\_1sq, one target. Hit: 1d6+1 piercing damage, or 9 (2d6+2) piercing damage while enlarged.
+
+***Javelin.*** +4 (Shoot 4 DEX +0), range 30ft\_9m\_6sq\_t / 120ft\_36m\_24sq\_FFF, one target. Hit: 1d6+0 piercing damage, or 9 (2d6+2) piercing damage while enlarged.
 
 ***Invisibility (Recharges after a Short or Long Rest).*** The duergar magically turns invisible until it attacks, casts a spell, or uses its Enlarge, or until its concentration is broken, up to 1 hour (as if concentrating on a spell). Any equipment the duergar wears or carries is invisible with it.
 

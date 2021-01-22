@@ -20,7 +20,7 @@
 
 ## Attacks
 
-***Multiattack..*** The dragon makes three attacks: one with its bite and two with its claws.
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
 
 ***Bite.*** +6 (Stab 4 STR +2), reach 10ft\_3m\_2sq, one target. Hit: 2d10+2 piercing damage plus 3 (1d6) fire damage.
 

@@ -28,7 +28,7 @@
 
 ***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
 
-***Lightning Breath..*** The dragon exhales lightning in a 60ft\_18m\_12sq\_tt line that is 5ft\_1.5m\_1sq wide. Each creature in that line must make a DC 15 Dexterity saving throw, taking 55 (10d10) lightning damage on a failed save, or half as much damage on a successful one.
+***Lightning Breath.*** The dragon exhales lightning in a 60ft\_18m\_12sq\_tt line that is 5ft\_1.5m\_1sq wide. Each creature in that line must make a DC 15 Dexterity saving throw, taking 55 (10d10) lightning damage on a failed save, or half as much damage on a successful one.
 
-***Repulsion Breath..*** The dragon exhales repulsion energy in a 30ft\_9m\_6sq\_t cone. Each creature in that area must succeed on a DC 15 Strength saving throw. On a failed save, the creature is pushed 40ft\_12m\_8sq\_F away from the dragon.
+***Repulsion Breath.*** The dragon exhales repulsion energy in a 30ft\_9m\_6sq\_t cone. Each creature in that area must succeed on a DC 15 Strength saving throw. On a failed save, the creature is pushed 40ft\_12m\_8sq\_F away from the dragon.
 

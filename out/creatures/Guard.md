@@ -12,7 +12,7 @@
 
 **Saves** Physical 15, Evasion 15, Mental 15, Luck 15
 
-**Skills** Shoot 2, Notice 1
+**Skills** Stab 2, Shoot 2, Notice 1
 
 **Move** 30ft\_9m\_6sq\_t
 
@@ -20,7 +20,9 @@
 
 ## Attacks
 
-***Spear.*** Melee or Ranged Weapon Attack:+2 (Shoot 2 DEX +0), reach 5ft\_1.5m\_1sq or range 20ft\_6m\_4sq\_t-2 / 60ft\_18m\_12sq\_tt, one target. Hit: 1d6 +0 piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
+***Spear.*** +2 (Stab 2 DEX +0), reach 5ft\_1.5m\_1sq, one target. Hit: 1d6 +0 piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
+
+***Spear.*** +2 (Shoot 2 DEX +0), range 20ft\_6m\_4sq\_t-2 / 60ft\_18m\_12sq\_tt, one target. Hit: 1d6 +0 piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
 
 ***Guards.*** include members of a city watch, sentries in a citadel or fortified town, and the bodyguards of merchants and nobles.
 

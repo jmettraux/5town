@@ -24,7 +24,7 @@
 
 ***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
 
-***Fire Breath..*** The dragon exhales fire in an 20ft\_6m\_4sq\_t-2 line that is 5ft\_1.5m\_1sq wide. Each creature in that line must make a DC 11 Dexterity saving throw, taking 14 (4d6) fire damage on a failed save, or half as much damage on a successful one.
+***Fire Breath.*** The dragon exhales fire in an 20ft\_6m\_4sq\_t-2 line that is 5ft\_1.5m\_1sq wide. Each creature in that line must make a DC 11 Dexterity saving throw, taking 14 (4d6) fire damage on a failed save, or half as much damage on a successful one.
 
-***Sleep Breath..*** The dragon exhales sleep gas in a 15ft\_4.5m\_3sq cone. Each creature in that area must succeed on a DC 11 Constitution saving throw or fall unconscious for 1 minute. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.
+***Sleep Breath.*** The dragon exhales sleep gas in a 15ft\_4.5m\_3sq cone. Each creature in that area must succeed on a DC 11 Constitution saving throw or fall unconscious for 1 minute. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.
 

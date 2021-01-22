@@ -32,9 +32,9 @@
 
 ***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
 
-***Lightning Breath..*** The dragon exhales lightning in a 90ft\_27m\_18sq\_ttt line that is 5ft\_1.5m\_1sq wide. Each creature in that line must make a DC 19 Dexterity saving throw, taking 66 (12d10) lightning damage on a failed save, or half as much damage on a successful one.
+***Lightning Breath.*** The dragon exhales lightning in a 90ft\_27m\_18sq\_ttt line that is 5ft\_1.5m\_1sq wide. Each creature in that line must make a DC 19 Dexterity saving throw, taking 66 (12d10) lightning damage on a failed save, or half as much damage on a successful one.
 
-***Repulsion Breath..*** The dragon exhales repulsion energy in a 30ft\_9m\_6sq\_t cone. Each creature in that area must succeed on a DC 19 Strength saving throw. On a failed save, the creature is pushed 60ft\_18m\_12sq\_tt away from the dragon.
+***Repulsion Breath.*** The dragon exhales repulsion energy in a 30ft\_9m\_6sq\_t cone. Each creature in that area must succeed on a DC 19 Strength saving throw. On a failed save, the creature is pushed 60ft\_18m\_12sq\_tt away from the dragon.
 
 ***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
 

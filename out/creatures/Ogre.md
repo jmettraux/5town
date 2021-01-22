@@ -22,5 +22,7 @@
 
 ***Greatclub.*** +4 (Stab 2 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 2d8+2 bludgeoning damage.
 
-***Javelin.*** Melee or Ranged Weapon Attack:+7 (Shoot 7 DEX +0), reach 5ft\_1.5m\_1sq or range 30ft\_9m\_6sq\_t / 120ft\_36m\_24sq\_FFF, one target. Hit: 2d6+0 piercing damage.
+***Javelin.*** +4 (Stab 2 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 2d6+2 piercing damage.
+
+***Javelin.*** +7 (Shoot 7 DEX +0), range 30ft\_9m\_6sq\_t / 120ft\_36m\_24sq\_FFF, one target. Hit: 2d6+0 piercing damage.
 

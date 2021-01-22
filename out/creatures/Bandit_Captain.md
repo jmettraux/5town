@@ -24,5 +24,7 @@
 
 ***Scimitar.*** +3 (Stab 2 DEX +1), reach 5ft\_1.5m\_1sq, one target. Hit: 1d6 +1 slashing damage.
 
-***Dagger.*** Melee or Ranged Weapon Attack:+3 (Shoot 2 DEX +1), reach 5ft\_1.5m\_1sq or range 20ft\_6m\_4sq\_t-2 / 60ft\_18m\_12sq\_tt, one target. Hit: 1d4 +1 piercing damage.
+***Dagger.*** +3 (Stab 2 DEX +1), reach 5ft\_1.5m\_1sq, one target. Hit: 1d4 +1 piercing damage.
+
+***Dagger.*** +3 (Shoot 2 DEX +1), range 20ft\_6m\_4sq\_t-2 / 60ft\_18m\_12sq\_tt, one target. Hit: 1d4 +1 piercing damage.
 
