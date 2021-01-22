@@ -20,7 +20,7 @@
 
 ## Attacks
 
-***Bite.*** +3 (Stab 2 DEX +1), reach 5ft\_1.5m\_1sq, one target. Hit: 1d6+1 piercing damage.
+***Bite*** +3 (Stab 2 DEX +1), reach 5ft\_1.5m\_1sq, one target. Hit: 1d6+1 piercing damage.
 
-***Claw.*** +3 (Stab 2 DEX +1), reach 5ft\_1.5m\_1sq, one target. Hit: 1d4+1 slashing damage.
+***Claw*** +3 (Stab 2 DEX +1), reach 5ft\_1.5m\_1sq, one target. Hit: 1d4+1 slashing damage.
 

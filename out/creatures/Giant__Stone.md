@@ -20,9 +20,9 @@
 
 ## Attacks
 
-***Multiattack.*** The giant makes two greatclub attacks.
+***Multiattack*** The giant makes two greatclub attacks.
 
-***Greatclub.*** +5 (Stab 3 STR +2), reach 15ft\_4.5m\_3sq, one target. Hit: 3d8+2 bludgeoning damage.
+***Greatclub*** +5 (Stab 3 STR +2), reach 15ft\_4.5m\_3sq, one target. Hit: 3d8+2 bludgeoning damage.
 
-***Rock.*** +8 (Shoot 7 DEX +1), range 60ft\_18m\_12sq\_tt / 240ft\_72m\_48sq\_6F, one target. Hit: 4d10+1 bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked prone.
+***Rock*** +8 (Shoot 7 DEX +1), range 60ft\_18m\_12sq\_tt / 240ft\_72m\_48sq\_6F, one target. Hit: 4d10+1 bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked prone.
 

@@ -223,7 +223,7 @@ class Creature
       do_translate_action('Shoot', name, desc)
         ].compact
 
-    r.any? ? r : [ "***#{name}.*** #{desc}" ]
+    r.any? ? r : [ "***#{name}*** #{desc}" ]
   end
 
   def do_translate_action(type, name, desc)
@@ -243,7 +243,7 @@ class Creature
       desc1.gsub(/ (or )?range [^,$]+/, '') :
       desc1.gsub(/reach (?:(?!, |or ).)+(, |or )/, '')
 
-    "***#{name}.*** #{desc1}"
+    "***#{name}*** #{desc1}"
   end
 
   # Warning: sets @stab or @shoot

@@ -20,9 +20,9 @@
 
 ## Attacks
 
-***Multiattack.*** The giant makes two morningstar attacks.
+***Multiattack*** The giant makes two morningstar attacks.
 
-***Morningstar.*** +6 (Stab 4 STR +2), reach 10ft\_3m\_2sq, one target. Hit: 3d8+2 piercing damage.
+***Morningstar*** +6 (Stab 4 STR +2), reach 10ft\_3m\_2sq, one target. Hit: 3d8+2 piercing damage.
 
-***Rock.*** +12 (Shoot 12 DEX +0), range 60ft\_18m\_12sq\_tt / 240ft\_72m\_48sq\_6F, one target. Hit: 4d10+0 bludgeoning damage.
+***Rock*** +12 (Shoot 12 DEX +0), range 60ft\_18m\_12sq\_tt / 240ft\_72m\_48sq\_6F, one target. Hit: 4d10+0 bludgeoning damage.
 

@@ -20,7 +20,7 @@
 
 ## Attacks
 
-***Bite.*** +4 (Stab 2 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 1d10+2 piercing damage.
+***Bite*** +4 (Stab 2 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 1d10+2 piercing damage.
 
-***Claw.*** +4 (Stab 2 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 2d6+2 slashing damage.
+***Claw*** +4 (Stab 2 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 2d6+2 slashing damage.
 

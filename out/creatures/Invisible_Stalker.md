@@ -20,7 +20,7 @@
 
 ## Attacks
 
-***Multiattack.*** The stalker makes two slam attacks.
+***Multiattack*** The stalker makes two slam attacks.
 
-***Slam.*** +4 (Stab 2 DEX +2), reach 5ft\_1.5m\_1sq, one target. Hit: 2d6+2 bludgeoning damage.
+***Slam*** +4 (Stab 2 DEX +2), reach 5ft\_1.5m\_1sq, one target. Hit: 2d6+2 bludgeoning damage.
 

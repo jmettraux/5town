@@ -20,5 +20,5 @@
 
 ## Attacks
 
-***Talons.*** +3 (Stab 2 DEX +1), reach 5ft\_1.5m\_1sq, one target. Hit: 1 slashing damage.
+***Talons*** +3 (Stab 2 DEX +1), reach 5ft\_1.5m\_1sq, one target. Hit: 1 slashing damage.
 

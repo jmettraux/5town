@@ -20,11 +20,11 @@
 
 ## Attacks
 
-***Multiattack.*** In bear form, the werebear makes two claw attacks. In humanoid form, it makes two greataxe attacks. In hybrid form, it can attack like a bear or a humanoid.
+***Multiattack*** In bear form, the werebear makes two claw attacks. In humanoid form, it makes two greataxe attacks. In hybrid form, it can attack like a bear or a humanoid.
 
-***Bite (Bear or Hybrid Form Only).*** +5 (Stab 3 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 2d10+2 piercing damage. If the target is a humanoid, it must succeed on a DC 14 Constitution saving throw or be cursed with werebear lycanthropy.
+***Bite (Bear or Hybrid Form Only)*** +5 (Stab 3 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 2d10+2 piercing damage. If the target is a humanoid, it must succeed on a DC 14 Constitution saving throw or be cursed with werebear lycanthropy.
 
-***Claw (Bear or Hybrid Form Only).*** +5 (Stab 3 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 2d8+2 slashing damage.
+***Claw (Bear or Hybrid Form Only)*** +5 (Stab 3 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 2d8+2 slashing damage.
 
-***Greataxe (Humanoid or Hybrid Form Only).*** +5 (Stab 3 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 1d12+2 slashing damage.
+***Greataxe (Humanoid or Hybrid Form Only)*** +5 (Stab 3 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 1d12+2 slashing damage.
 

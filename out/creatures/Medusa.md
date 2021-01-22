@@ -20,11 +20,11 @@
 
 ## Attacks
 
-***Multiattack.*** The medusa makes either three melee attacks-one with its snake hair and two with its shortsword-or two ranged attacks with its longbow.
+***Multiattack*** The medusa makes either three melee attacks-one with its snake hair and two with its shortsword-or two ranged attacks with its longbow.
 
-***Snake Hair.*** +4 (Stab 3 DEX +1), reach 5ft\_1.5m\_1sq, one creature. Hit: 1d4+1 piercing damage plus 14 (4d6) poison damage.
+***Snake Hair*** +4 (Stab 3 DEX +1), reach 5ft\_1.5m\_1sq, one creature. Hit: 1d4+1 piercing damage plus 14 (4d6) poison damage.
 
-***Shortsword.*** +4 (Stab 3 DEX +1), reach 5ft\_1.5m\_1sq, one target. Hit: 1d6+1 piercing damage.
+***Shortsword*** +4 (Stab 3 DEX +1), reach 5ft\_1.5m\_1sq, one target. Hit: 1d6+1 piercing damage.
 
-***Longbow.*** +4 (Shoot 3 DEX +1), range 150ft\_45m\_30sq\_FFFt / 600ft\_180m\_120sq\_15F, one target. Hit: 1d8+1 piercing damage plus 7 (2d6) poison damage.
+***Longbow*** +4 (Shoot 3 DEX +1), range 150ft\_45m\_30sq\_FFFt / 600ft\_180m\_120sq\_15F, one target. Hit: 1d8+1 piercing damage plus 7 (2d6) poison damage.
 

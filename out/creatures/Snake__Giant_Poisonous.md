@@ -20,5 +20,5 @@
 
 ## Attacks
 
-***Bite.*** +4 (Stab 2 DEX +2), reach 10ft\_3m\_2sq, one target. Hit: 1d4+2 piercing damage, and the target must make a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.
+***Bite*** +4 (Stab 2 DEX +2), reach 10ft\_3m\_2sq, one target. Hit: 1d4+2 piercing damage, and the target must make a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.
 

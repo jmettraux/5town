@@ -20,7 +20,7 @@
 
 ## Attacks
 
-***Bite.*** +3 (Stab 2 STR +1), reach 5ft\_1.5m\_1sq, one target. Hit: 1d10+1 piercing damage plus 3 (1d6) poison damage.
+***Bite*** +3 (Stab 2 STR +1), reach 5ft\_1.5m\_1sq, one target. Hit: 1d10+1 piercing damage plus 3 (1d6) poison damage.
 
-***Poison Breath (Recharge 5-6).*** The dragon exhales poisonous gas in a 15ft\_4.5m\_3sq cone. Each creature in that area must make a DC 11 Constitution saving throw, taking 21 (6d6) poison damage on a failed save, or half as much damage on a successful one.
+***Poison Breath (Recharge 5-6)*** The dragon exhales poisonous gas in a 15ft\_4.5m\_3sq cone. Each creature in that area must make a DC 11 Constitution saving throw, taking 21 (6d6) poison damage on a failed save, or half as much damage on a successful one.
 

@@ -20,9 +20,9 @@
 
 ## Attacks
 
-***Multiattack.*** The giant makes two greataxe attacks.
+***Multiattack*** The giant makes two greataxe attacks.
 
-***Greataxe.*** +5 (Stab 3 STR +2), reach 10ft\_3m\_2sq, one target. Hit: 3d12+2 slashing damage.
+***Greataxe*** +5 (Stab 3 STR +2), reach 10ft\_3m\_2sq, one target. Hit: 3d12+2 slashing damage.
 
-***Rock.*** +10 (Shoot 10 DEX +0), range 60ft\_18m\_12sq\_tt / 240ft\_72m\_48sq\_6F, one target. Hit: 4d10+0 bludgeoning damage.
+***Rock*** +10 (Shoot 10 DEX +0), range 60ft\_18m\_12sq\_tt / 240ft\_72m\_48sq\_6F, one target. Hit: 4d10+0 bludgeoning damage.
 

@@ -20,9 +20,9 @@
 
 ## Attacks
 
-***Multiattack.*** The ape makes two fist attacks.
+***Multiattack*** The ape makes two fist attacks.
 
-***Fist.*** +3 (Stab 2 STR +1), reach 5ft\_1.5m\_1sq, one target. Hit: 1d6+1 bludgeoning damage.
+***Fist*** +3 (Stab 2 STR +1), reach 5ft\_1.5m\_1sq, one target. Hit: 1d6+1 bludgeoning damage.
 
-***Rock.*** +4 (Shoot 3 DEX +1), range 25ft\_7.5m\_5sq\_t-1 / 50ft\_15m\_10sq\_F+2, one target. Hit: 1d6+1 bludgeoning damage.
+***Rock*** +4 (Shoot 3 DEX +1), range 25ft\_7.5m\_5sq\_t-1 / 50ft\_15m\_10sq\_F+2, one target. Hit: 1d6+1 bludgeoning damage.
 

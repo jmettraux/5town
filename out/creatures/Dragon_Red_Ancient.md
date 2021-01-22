@@ -20,15 +20,15 @@
 
 ## Attacks
 
-***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+***Multiattack*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
-***Bite.*** +9 (Stab 7 STR +2), reach 15ft\_4.5m\_3sq, one target. Hit: 2d10+2 piercing damage plus 14 (4d6) fire damage.
+***Bite*** +9 (Stab 7 STR +2), reach 15ft\_4.5m\_3sq, one target. Hit: 2d10+2 piercing damage plus 14 (4d6) fire damage.
 
-***Claw.*** +9 (Stab 7 STR +2), reach 10ft\_3m\_2sq, one target. Hit: 2d6+2 slashing damage.
+***Claw*** +9 (Stab 7 STR +2), reach 10ft\_3m\_2sq, one target. Hit: 2d6+2 slashing damage.
 
-***Tail.*** +9 (Stab 7 STR +2), reach 20ft\_6m\_4sq\_t-2, one target. Hit: 2d8+2 bludgeoning damage.
+***Tail*** +9 (Stab 7 STR +2), reach 20ft\_6m\_4sq\_t-2, one target. Hit: 2d8+2 bludgeoning damage.
 
-***Frightful Presence.*** Each creature of the dragon's choice that is within 120ft\_36m\_24sq\_FFF of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+***Frightful Presence*** Each creature of the dragon's choice that is within 120ft\_36m\_24sq\_FFF of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 
-***Fire Breath (Recharge 5-6).*** The dragon exhales fire in a 90ft\_27m\_18sq\_ttt cone. Each creature in that area must make a DC 24 Dexterity saving throw, taking 91 (26d6) fire damage on a failed save, or half as much damage on a successful one.
+***Fire Breath (Recharge 5-6)*** The dragon exhales fire in a 90ft\_27m\_18sq\_ttt cone. Each creature in that area must make a DC 24 Dexterity saving throw, taking 91 (26d6) fire damage on a failed save, or half as much damage on a successful one.
 

@@ -20,9 +20,9 @@
 
 ## Attacks
 
-***Multiattack (Humanoid or Hybrid Form Only).*** The wereboar makes two attacks, only one of which can be with its tusks.
+***Multiattack (Humanoid or Hybrid Form Only)*** The wereboar makes two attacks, only one of which can be with its tusks.
 
-***Maul (Humanoid or Hybrid Form Only).*** +3 (Stab 2 STR +1), reach 5ft\_1.5m\_1sq, one target. Hit: 2d6+1 bludgeoning damage.
+***Maul (Humanoid or Hybrid Form Only)*** +3 (Stab 2 STR +1), reach 5ft\_1.5m\_1sq, one target. Hit: 2d6+1 bludgeoning damage.
 
-***Tusks (Boar or Hybrid Form Only).*** +3 (Stab 2 STR +1), reach 5ft\_1.5m\_1sq, one target. Hit: 2d6+1 slashing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with wereboar lycanthropy.
+***Tusks (Boar or Hybrid Form Only)*** +3 (Stab 2 STR +1), reach 5ft\_1.5m\_1sq, one target. Hit: 2d6+1 slashing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with wereboar lycanthropy.
 

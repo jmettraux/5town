@@ -20,9 +20,9 @@
 
 ## Attacks
 
-***Multiattack.*** The eagle makes two attacks: one with its beak and one with its talons.
+***Multiattack*** The eagle makes two attacks: one with its beak and one with its talons.
 
-***Beak.*** +3 (Stab 2 DEX +1), reach 5ft\_1.5m\_1sq, one target. Hit: 1d6+1 piercing damage.
+***Beak*** +3 (Stab 2 DEX +1), reach 5ft\_1.5m\_1sq, one target. Hit: 1d6+1 piercing damage.
 
-***Talons.*** +3 (Stab 2 DEX +1), reach 5ft\_1.5m\_1sq, one target. Hit: 2d6+1 slashing damage.
+***Talons*** +3 (Stab 2 DEX +1), reach 5ft\_1.5m\_1sq, one target. Hit: 2d6+1 slashing damage.
 

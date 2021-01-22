@@ -20,5 +20,5 @@
 
 ## Attacks
 
-***Claws.*** +1 (Stab 0 DEX +1), reach 5ft\_1.5m\_1sq, one target. Hit: 1 slashing damage.
+***Claws*** +1 (Stab 0 DEX +1), reach 5ft\_1.5m\_1sq, one target. Hit: 1 slashing damage.
 

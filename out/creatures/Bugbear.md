@@ -20,9 +20,9 @@
 
 ## Attacks
 
-***Morningstar.*** +3 (Stab 2 DEX +1), reach 5ft\_1.5m\_1sq, one target. Hit: 2d8+1 piercing damage.
+***Morningstar*** +3 (Stab 2 DEX +1), reach 5ft\_1.5m\_1sq, one target. Hit: 2d8+1 piercing damage.
 
-***Javelin.*** +3 (Stab 2 DEX +1), reach 5ft\_1.5m\_1sq, one target. Hit: 2d6+1 piercing damage in melee or 5 (1d6+2) piercing damage at range.
+***Javelin*** +3 (Stab 2 DEX +1), reach 5ft\_1.5m\_1sq, one target. Hit: 2d6+1 piercing damage in melee or 5 (1d6+2) piercing damage at range.
 
-***Javelin.*** +3 (Shoot 2 DEX +1), range 30ft\_9m\_6sq\_t / 120ft\_36m\_24sq\_FFF, one target. Hit: 2d6+1 piercing damage in melee or 5 (1d6+2) piercing damage at range.
+***Javelin*** +3 (Shoot 2 DEX +1), range 30ft\_9m\_6sq\_t / 120ft\_36m\_24sq\_FFF, one target. Hit: 2d6+1 piercing damage in melee or 5 (1d6+2) piercing damage at range.
 

@@ -20,5 +20,5 @@
 
 ## Attacks
 
-***Bite.*** +5 (Stab 3 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 3d10+2 piercing damage.
+***Bite*** +5 (Stab 3 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 3d10+2 piercing damage.
 

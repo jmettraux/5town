@@ -20,9 +20,9 @@
 
 ## Attacks
 
-***Multiattack.*** The troll makes three attacks: one with its bite and two with its claws.
+***Multiattack*** The troll makes three attacks: one with its bite and two with its claws.
 
-***Bite.*** +5 (Stab 3 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 1d6+2 piercing damage.
+***Bite*** +5 (Stab 3 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 1d6+2 piercing damage.
 
-***Claw.*** +5 (Stab 3 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 2d6+2 slashing damage.
+***Claw*** +5 (Stab 3 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 2d6+2 slashing damage.
 

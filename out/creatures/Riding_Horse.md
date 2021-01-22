@@ -20,5 +20,5 @@
 
 ## Attacks
 
-***Hooves.*** +3 (Stab 2 STR +1), reach 5ft\_1.5m\_1sq, one target. Hit: 2d4+1 bludgeoning damage.
+***Hooves*** +3 (Stab 2 STR +1), reach 5ft\_1.5m\_1sq, one target. Hit: 2d4+1 bludgeoning damage.
 

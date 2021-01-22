@@ -20,15 +20,15 @@
 
 ## Attacks
 
-***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+***Multiattack*** The dragon makes three attacks: one with its bite and two with its claws.
 
-***Bite.*** +5 (Stab 3 STR +2), reach 10ft\_3m\_2sq, one target. Hit: 2d10+2 piercing damage.
+***Bite*** +5 (Stab 3 STR +2), reach 10ft\_3m\_2sq, one target. Hit: 2d10+2 piercing damage.
 
-***Claw.*** +5 (Stab 3 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 2d6+2 slashing damage.
+***Claw*** +5 (Stab 3 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 2d6+2 slashing damage.
 
-***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+***Breath Weapons (Recharge 5-6)*** The dragon uses one of the following breath weapons.
 
-***Acid Breath.*** The dragon exhales acid in an 40ft\_12m\_8sq\_F line that is 5ft\_1.5m\_1sq wide. Each creature in that line must make a DC 14 Dexterity saving throw, taking 40 (9d8) acid damage on a failed save, or half as much damage on a successful one.
+***Acid Breath*** The dragon exhales acid in an 40ft\_12m\_8sq\_F line that is 5ft\_1.5m\_1sq wide. Each creature in that line must make a DC 14 Dexterity saving throw, taking 40 (9d8) acid damage on a failed save, or half as much damage on a successful one.
 
-***Slowing Breath.*** The dragon exhales gas in a 30ft\_9m\_6sq\_t cone. Each creature in that area must succeed on a DC 14 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
+***Slowing Breath*** The dragon exhales gas in a 30ft\_9m\_6sq\_t cone. Each creature in that area must succeed on a DC 14 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
 

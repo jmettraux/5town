@@ -20,7 +20,7 @@
 
 ## Attacks
 
-***Multiattack.*** The armor makes two melee attacks.
+***Multiattack*** The armor makes two melee attacks.
 
-***Slam.*** +3 (Stab 2 STR +1), reach 5ft\_1.5m\_1sq, one target. Hit: 1d6+1 bludgeoning damage.
+***Slam*** +3 (Stab 2 STR +1), reach 5ft\_1.5m\_1sq, one target. Hit: 1d6+1 bludgeoning damage.
 

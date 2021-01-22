@@ -20,9 +20,9 @@
 
 ## Attacks
 
-***Bite.*** +5 (Stab 3 DEX +2), reach 5ft\_1.5m\_1sq, one creature. Hit: 1d6+2 piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned for 24 hours. Until this poison ends, the target is unconscious. Another creature can use an action to shake the target awake.
+***Bite*** +5 (Stab 3 DEX +2), reach 5ft\_1.5m\_1sq, one creature. Hit: 1d6+2 piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned for 24 hours. Until this poison ends, the target is unconscious. Another creature can use an action to shake the target awake.
 
-***Constrict.*** +5 (Stab 3 DEX +2), reach 10ft\_3m\_2sq, one Medium or smaller creature. Hit: 2d6+2 bludgeoning damage, and the target is grappled (escape DC 15). Until this grapple ends, the target is restrained, and the couatl can't constrict another target.
+***Constrict*** +5 (Stab 3 DEX +2), reach 10ft\_3m\_2sq, one Medium or smaller creature. Hit: 2d6+2 bludgeoning damage, and the target is grappled (escape DC 15). Until this grapple ends, the target is restrained, and the couatl can't constrict another target.
 
-***Change Shape.*** The couatl magically polymorphs into a humanoid or beast that has a challenge rating equal to or less than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the couatl's choice).
+***Change Shape*** The couatl magically polymorphs into a humanoid or beast that has a challenge rating equal to or less than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the couatl's choice).
 

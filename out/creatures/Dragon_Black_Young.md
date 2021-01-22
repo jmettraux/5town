@@ -20,11 +20,11 @@
 
 ## Attacks
 
-***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+***Multiattack*** The dragon makes three attacks: one with its bite and two with its claws.
 
-***Bite.*** +5 (Stab 3 STR +2), reach 10ft\_3m\_2sq, one target. Hit: 2d10+2 piercing damage plus 4 (1d8) acid damage.
+***Bite*** +5 (Stab 3 STR +2), reach 10ft\_3m\_2sq, one target. Hit: 2d10+2 piercing damage plus 4 (1d8) acid damage.
 
-***Claw.*** +5 (Stab 3 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 2d6+2 slashing damage.
+***Claw*** +5 (Stab 3 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 2d6+2 slashing damage.
 
-***Acid Breath (Recharge 5-6).*** The dragon exhales acid in a 30ft\_9m\_6sq\_t line that is 5ft\_1.5m\_1sq wide. Each creature in that line must make a DC 14 Dexterity saving throw, taking 49 (11d8) acid damage on a failed save, or half as much damage on a successful one.
+***Acid Breath (Recharge 5-6)*** The dragon exhales acid in a 30ft\_9m\_6sq\_t line that is 5ft\_1.5m\_1sq wide. Each creature in that line must make a DC 14 Dexterity saving throw, taking 49 (11d8) acid damage on a failed save, or half as much damage on a successful one.
 

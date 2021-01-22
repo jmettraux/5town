@@ -20,5 +20,5 @@
 
 ## Attacks
 
-***Beak.*** +3 (Stab 2 STR +1), reach 5ft\_1.5m\_1sq, one target. Hit: 1d8+1 slashing damage.
+***Beak*** +3 (Stab 2 STR +1), reach 5ft\_1.5m\_1sq, one target. Hit: 1d8+1 slashing damage.
 

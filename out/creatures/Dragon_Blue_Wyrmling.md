@@ -20,7 +20,7 @@
 
 ## Attacks
 
-***Bite.*** +3 (Stab 2 STR +1), reach 5ft\_1.5m\_1sq, one target. Hit: 1d10+1 piercing damage plus 3 (1d6) lightning damage.
+***Bite*** +3 (Stab 2 STR +1), reach 5ft\_1.5m\_1sq, one target. Hit: 1d10+1 piercing damage plus 3 (1d6) lightning damage.
 
-***Lightning Breath (Recharge 5-6).*** The dragon exhales lightning in a 30ft\_9m\_6sq\_t line that is 5ft\_1.5m\_1sq wide. Each creature in that line must make a DC 12 Dexterity saving throw, taking 22 (4d10) lightning damage on a failed save, or half as much damage on a successful one.
+***Lightning Breath (Recharge 5-6)*** The dragon exhales lightning in a 30ft\_9m\_6sq\_t line that is 5ft\_1.5m\_1sq wide. Each creature in that line must make a DC 12 Dexterity saving throw, taking 22 (4d10) lightning damage on a failed save, or half as much damage on a successful one.
 

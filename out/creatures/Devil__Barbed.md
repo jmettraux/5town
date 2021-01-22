@@ -20,11 +20,11 @@
 
 ## Attacks
 
-***Multiattack.*** The devil makes three melee attacks: one with its tail and two with its claws. Alternatively, it can use Hurl Flame twice.
+***Multiattack*** The devil makes three melee attacks: one with its tail and two with its claws. Alternatively, it can use Hurl Flame twice.
 
-***Claw.*** +4 (Stab 3 DEX +1), reach 5ft\_1.5m\_1sq, one target. Hit: 1d6+1 piercing damage.
+***Claw*** +4 (Stab 3 DEX +1), reach 5ft\_1.5m\_1sq, one target. Hit: 1d6+1 piercing damage.
 
-***Tail.*** +4 (Stab 3 DEX +1), reach 5ft\_1.5m\_1sq, one target. Hit: 2d6+1 piercing damage.
+***Tail*** +4 (Stab 3 DEX +1), reach 5ft\_1.5m\_1sq, one target. Hit: 2d6+1 piercing damage.
 
-***Hurl Flame.*** Ranged Spell Attack:+3 (Shoot 2 DEX +1), range 150ft\_45m\_30sq\_FFFt, one target. Hit: 3d6+1 fire damage. If the target is a flammable object that isn't being worn or carried, it also catches fire.
+***Hurl Flame*** Ranged Spell Attack:+3 (Shoot 2 DEX +1), range 150ft\_45m\_30sq\_FFFt, one target. Hit: 3d6+1 fire damage. If the target is a flammable object that isn't being worn or carried, it also catches fire.
 

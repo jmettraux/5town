@@ -20,5 +20,5 @@
 
 ## Attacks
 
-***Claw.*** +0 (Stab 0 DEX +0), reach 5ft\_1.5m\_1sq, one target. Hit: 1 bludgeoning damage.
+***Claw*** +0 (Stab 0 DEX +0), reach 5ft\_1.5m\_1sq, one target. Hit: 1 bludgeoning damage.
 

@@ -20,5 +20,5 @@
 
 ## Attacks
 
-***Bite.*** +2 (Stab 2 DEX +0), reach 5ft\_1.5m\_1sq, one target. Hit: 1 piercing damage.
+***Bite*** +2 (Stab 2 DEX +0), reach 5ft\_1.5m\_1sq, one target. Hit: 1 piercing damage.
 

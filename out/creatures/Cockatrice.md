@@ -20,5 +20,5 @@
 
 ## Attacks
 
-***Bite.*** +2 (Stab 2 DEX +0), reach 5ft\_1.5m\_1sq, one creature. Hit: 1d4+0 piercing damage, and the target must succeed on a DC 11 Constitution saving throw against being magically petrified. On a failed save, the creature begins to turn to stone and is restrained. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified for 24 hours.
+***Bite*** +2 (Stab 2 DEX +0), reach 5ft\_1.5m\_1sq, one creature. Hit: 1d4+0 piercing damage, and the target must succeed on a DC 11 Constitution saving throw against being magically petrified. On a failed save, the creature begins to turn to stone and is restrained. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified for 24 hours.
 

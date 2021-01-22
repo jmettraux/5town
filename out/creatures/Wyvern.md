@@ -20,11 +20,11 @@
 
 ## Attacks
 
-***Multiattack.*** The wyvern makes two attacks: one with its bite and one with its stinger. While flying, it can use its claws in place of one other attack.
+***Multiattack*** The wyvern makes two attacks: one with its bite and one with its stinger. While flying, it can use its claws in place of one other attack.
 
-***Bite.*** +5 (Stab 3 STR +2), reach 10ft\_3m\_2sq, one creature. Hit: 2d6+2 piercing damage.
+***Bite*** +5 (Stab 3 STR +2), reach 10ft\_3m\_2sq, one creature. Hit: 2d6+2 piercing damage.
 
-***Claws.*** +5 (Stab 3 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 2d8+2 slashing damage.
+***Claws*** +5 (Stab 3 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 2d8+2 slashing damage.
 
-***Stinger.*** +5 (Stab 3 STR +2), reach 10ft\_3m\_2sq, one creature. Hit: 2d6+2 piercing damage. The target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.
+***Stinger*** +5 (Stab 3 STR +2), reach 10ft\_3m\_2sq, one creature. Hit: 2d6+2 piercing damage. The target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.
 

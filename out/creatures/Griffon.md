@@ -20,9 +20,9 @@
 
 ## Attacks
 
-***Multiattack.*** The griffon makes two attacks: one with its beak and one with its claws.
+***Multiattack*** The griffon makes two attacks: one with its beak and one with its claws.
 
-***Beak.*** +4 (Stab 2 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 1d8+2 piercing damage.
+***Beak*** +4 (Stab 2 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 1d8+2 piercing damage.
 
-***Claws.*** +4 (Stab 2 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 2d6+2 slashing damage.
+***Claws*** +4 (Stab 2 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 2d6+2 slashing damage.
 

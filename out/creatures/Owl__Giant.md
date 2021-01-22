@@ -20,7 +20,7 @@
 
 ## Attacks
 
-***Talons.*** +2 (Stab 1 DEX +1), reach 5ft\_1.5m\_1sq, one target. Hit: 2d6+1 slashing damage.
+***Talons*** +2 (Stab 1 DEX +1), reach 5ft\_1.5m\_1sq, one target. Hit: 2d6+1 slashing damage.
 
-***Giant owls.*** often befriend fey and other sylvan creatures and are guardians of their woodland realms.
+***Giant owls*** often befriend fey and other sylvan creatures and are guardians of their woodland realms.
 

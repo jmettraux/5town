@@ -20,7 +20,7 @@
 
 ## Attacks
 
-***Multiattack.*** The hydra makes as many bite attacks as it has heads.
+***Multiattack*** The hydra makes as many bite attacks as it has heads.
 
-***Bite.*** +5 (Stab 3 STR +2), reach 10ft\_3m\_2sq, one target. Hit: 1d10+2 piercing damage.
+***Bite*** +5 (Stab 3 STR +2), reach 10ft\_3m\_2sq, one target. Hit: 1d10+2 piercing damage.
 

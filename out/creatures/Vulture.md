@@ -20,5 +20,5 @@
 
 ## Attacks
 
-***Beak.*** +2 (Stab 2 DEX +0), reach 5ft\_1.5m\_1sq, one target. Hit: 1d4+0 piercing damage.
+***Beak*** +2 (Stab 2 DEX +0), reach 5ft\_1.5m\_1sq, one target. Hit: 1d4+0 piercing damage.
 

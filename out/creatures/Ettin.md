@@ -20,9 +20,9 @@
 
 ## Attacks
 
-***Multiattack.*** The ettin makes two attacks: one with its battleaxe and one with its morningstar.
+***Multiattack*** The ettin makes two attacks: one with its battleaxe and one with its morningstar.
 
-***Battleaxe.*** +4 (Stab 2 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 2d8+2 slashing damage.
+***Battleaxe*** +4 (Stab 2 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 2d8+2 slashing damage.
 
-***Morningstar.*** +4 (Stab 2 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 2d8+2 piercing damage.
+***Morningstar*** +4 (Stab 2 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 2d8+2 piercing damage.
 

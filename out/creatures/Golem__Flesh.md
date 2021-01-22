@@ -20,7 +20,7 @@
 
 ## Attacks
 
-***Multiattack.*** The golem makes two slam attacks.
+***Multiattack*** The golem makes two slam attacks.
 
-***Slam.*** +5 (Stab 3 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 2d8+2 bludgeoning damage.
+***Slam*** +5 (Stab 3 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 2d8+2 bludgeoning damage.
 

@@ -20,5 +20,5 @@
 
 ## Attacks
 
-***Bite.*** +1 (Stab 0 DEX +1), reach 5ft\_1.5m\_1sq, one creature. Hit: 1d6+1 piercing damage, and the target must make a DC 11 Constitution saving throw, taking 7 (2d6) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
+***Bite*** +1 (Stab 0 DEX +1), reach 5ft\_1.5m\_1sq, one creature. Hit: 1d6+1 piercing damage, and the target must make a DC 11 Constitution saving throw, taking 7 (2d6) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
 

@@ -20,9 +20,9 @@
 
 ## Attacks
 
-***Multiattack.*** The erinyes makes three attacks.
+***Multiattack*** The erinyes makes three attacks.
 
-***Longsword.*** +6 (Stab 4 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 1d8+2 slashing damage, or 9 (1d10+4) slashing damage if used with two hands, plus 13 (3d8) poison damage.
+***Longsword*** +6 (Stab 4 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 1d8+2 slashing damage, or 9 (1d10+4) slashing damage if used with two hands, plus 13 (3d8) poison damage.
 
-***Longbow.*** +5 (Shoot 4 DEX +1), range 150ft\_45m\_30sq\_FFFt / 600ft\_180m\_120sq\_15F, one target. Hit: 1d8+1 piercing damage plus 13 (3d8) poison damage, and the target must succeed on a DC 14 Constitution saving throw or be poisoned. The poison lasts until it is removed by the lesser restoration spell or similar magic.
+***Longbow*** +5 (Shoot 4 DEX +1), range 150ft\_45m\_30sq\_FFFt / 600ft\_180m\_120sq\_15F, one target. Hit: 1d8+1 piercing damage plus 13 (3d8) poison damage, and the target must succeed on a DC 14 Constitution saving throw or be poisoned. The poison lasts until it is removed by the lesser restoration spell or similar magic.
 

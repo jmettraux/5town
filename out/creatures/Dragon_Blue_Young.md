@@ -20,11 +20,11 @@
 
 ## Attacks
 
-***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+***Multiattack*** The dragon makes three attacks: one with its bite and two with its claws.
 
-***Bite.*** +6 (Stab 4 STR +2), reach 10ft\_3m\_2sq, one target. Hit: 2d10+2 piercing damage plus 5 (1d10) lightning damage.
+***Bite*** +6 (Stab 4 STR +2), reach 10ft\_3m\_2sq, one target. Hit: 2d10+2 piercing damage plus 5 (1d10) lightning damage.
 
-***Claw.*** +6 (Stab 4 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 2d6+2 slashing damage.
+***Claw*** +6 (Stab 4 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 2d6+2 slashing damage.
 
-***Lightning Breath (Recharge 5-6).*** The dragon exhales lightning in an 60ft\_18m\_12sq\_tt line that is 5ft\_1.5m\_1sq wide. Each creature in that line must make a DC 16 Dexterity saving throw, taking 55 (10d10) lightning damage on a failed save, or half as much damage on a successful one.
+***Lightning Breath (Recharge 5-6)*** The dragon exhales lightning in an 60ft\_18m\_12sq\_tt line that is 5ft\_1.5m\_1sq wide. Each creature in that line must make a DC 16 Dexterity saving throw, taking 55 (10d10) lightning damage on a failed save, or half as much damage on a successful one.
 

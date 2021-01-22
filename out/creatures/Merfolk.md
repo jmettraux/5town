@@ -20,7 +20,7 @@
 
 ## Attacks
 
-***Spear.*** +1 (Stab 1 DEX +0), reach 5ft\_1.5m\_1sq, one target. Hit: 1d6+0 piercing damage, or 4 (1d8) piercing damage if used with two hands to make a melee attack.
+***Spear*** +1 (Stab 1 DEX +0), reach 5ft\_1.5m\_1sq, one target. Hit: 1d6+0 piercing damage, or 4 (1d8) piercing damage if used with two hands to make a melee attack.
 
-***Spear.*** +1 (Shoot 1 DEX +0), range 20ft\_6m\_4sq\_t-2 / 60ft\_18m\_12sq\_tt, one target. Hit: 1d6+0 piercing damage, or 4 (1d8) piercing damage if used with two hands to make a melee attack.
+***Spear*** +1 (Shoot 1 DEX +0), range 20ft\_6m\_4sq\_t-2 / 60ft\_18m\_12sq\_tt, one target. Hit: 1d6+0 piercing damage, or 4 (1d8) piercing damage if used with two hands to make a melee attack.
 

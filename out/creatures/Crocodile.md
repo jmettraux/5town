@@ -20,5 +20,5 @@
 
 ## Attacks
 
-***Bite.*** +3 (Stab 2 STR +1), reach 5ft\_1.5m\_1sq, one creature. Hit: 1d10+1 piercing damage, and the target is grappled (escape DC 12). Until this grapple ends, the target is restrained, and the crocodile can't bite another target.
+***Bite*** +3 (Stab 2 STR +1), reach 5ft\_1.5m\_1sq, one creature. Hit: 1d10+1 piercing damage, and the target is grappled (escape DC 12). Until this grapple ends, the target is restrained, and the crocodile can't bite another target.
 

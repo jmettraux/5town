@@ -20,9 +20,9 @@
 
 ## Attacks
 
-***Multiattack.*** The badger makes two attacks: one with its bite and one with its claws.
+***Multiattack*** The badger makes two attacks: one with its bite and one with its claws.
 
-***Bite.*** +2 (Stab 2 STR +0), reach 5ft\_1.5m\_1sq, one target. Hit: 1d6+0 piercing damage.
+***Bite*** +2 (Stab 2 STR +0), reach 5ft\_1.5m\_1sq, one target. Hit: 1d6+0 piercing damage.
 
-***Claws.*** +2 (Stab 2 STR +0), reach 5ft\_1.5m\_1sq, one target. Hit: 2d4+0 slashing damage.
+***Claws*** +2 (Stab 2 STR +0), reach 5ft\_1.5m\_1sq, one target. Hit: 2d4+0 slashing damage.
 

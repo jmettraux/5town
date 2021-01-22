@@ -20,7 +20,7 @@
 
 ## Attacks
 
-***War Pick.*** +3 (Stab 2 DEX +1), reach 5ft\_1.5m\_1sq, one target. Hit: 1d8+1 piercing damage.
+***War Pick*** +3 (Stab 2 DEX +1), reach 5ft\_1.5m\_1sq, one target. Hit: 1d8+1 piercing damage.
 
-***Poisoned Dart.*** +3 (Shoot 2 DEX +1), range 30ft\_9m\_6sq\_t / 120ft\_36m\_24sq\_FFF, one creature. Hit: 1d4+1 piercing damage, and the target must succeed on a DC 12 Constitution saving throw or be poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Poisoned Dart*** +3 (Shoot 2 DEX +1), range 30ft\_9m\_6sq\_t / 120ft\_36m\_24sq\_FFF, one creature. Hit: 1d4+1 piercing damage, and the target must succeed on a DC 12 Constitution saving throw or be poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 

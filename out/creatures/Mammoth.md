@@ -20,7 +20,7 @@
 
 ## Attacks
 
-***Gore.*** +5 (Stab 3 STR +2), reach 10ft\_3m\_2sq, one target. Hit: 4d8+2 piercing damage.
+***Gore*** +5 (Stab 3 STR +2), reach 10ft\_3m\_2sq, one target. Hit: 4d8+2 piercing damage.
 
-***Stomp.*** +5 (Stab 3 STR +2), reach 5ft\_1.5m\_1sq, one prone creature. Hit: 4d10+2 bludgeoning damage.
+***Stomp*** +5 (Stab 3 STR +2), reach 5ft\_1.5m\_1sq, one prone creature. Hit: 4d10+2 bludgeoning damage.
 

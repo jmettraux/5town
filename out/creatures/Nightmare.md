@@ -20,7 +20,7 @@
 
 ## Attacks
 
-***Hooves.*** +4 (Stab 2 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 2d8+2 bludgeoning damage plus 7 (2d6) fire damage.
+***Hooves*** +4 (Stab 2 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 2d8+2 bludgeoning damage plus 7 (2d6) fire damage.
 
-***Ethereal Stride.*** The nightmare and up to three willing creatures within 5ft\_1.5m\_1sq of it magically enter the Ethereal Plane from the Material Plane, or vice versa.
+***Ethereal Stride*** The nightmare and up to three willing creatures within 5ft\_1.5m\_1sq of it magically enter the Ethereal Plane from the Material Plane, or vice versa.
 

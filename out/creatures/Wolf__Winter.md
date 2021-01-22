@@ -20,7 +20,7 @@
 
 ## Attacks
 
-***Bite.*** +4 (Stab 2 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 2d6+2 piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone.
+***Bite*** +4 (Stab 2 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 2d6+2 piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone.
 
-***Cold Breath (Recharge 5-6).*** The wolf exhales a blast of freezing wind in a 15ft\_4.5m\_3sq cone. Each creature in that area must make a DC 12 Dexterity saving throw, taking 18 (4d8) cold damage on a failed save, or half as much damage on a successful one.
+***Cold Breath (Recharge 5-6)*** The wolf exhales a blast of freezing wind in a 15ft\_4.5m\_3sq cone. Each creature in that area must make a DC 12 Dexterity saving throw, taking 18 (4d8) cold damage on a failed save, or half as much damage on a successful one.
 
