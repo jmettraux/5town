@@ -60,11 +60,16 @@ class Creature
     o.string
   end
 
-  def hit_dice
+  def hdice
 
     hp = self['Hit Points']
     m = hp.match(/\(([^)]+)d.+\)/)
-    hd = m ? m[1].to_i : 1
+    m ? m[1].to_i : 1
+  end
+
+  def hit_dice
+
+    hd = hdice
 
     con = hd * modifier(:con)
 
@@ -225,7 +230,7 @@ class Creature
       .gsub(/^(Melee|Ranged|Melee or Ranged) Weapon Attack:/,
         '')
       .gsub(/ ([-+]\d+) to hit/) { |m|
-        translate_attack_bonus(type, $1.to_i) }
+        translate_attack_mod(type, $1.to_i) }
       .gsub(/ Hit: \d+ \(([^)]+)\) /) { |m|
         translate_attack_damage(type, $1) }
 
@@ -238,7 +243,10 @@ class Creature
 
   # Warning: sets @stab or @shoot
   #
-  def translate_attack_bonus(type, bonus)
+  def translate_attack_mod(type, bonus)
+
+    ab = (hdice.to_f / 2.0).floor
+#p [ hit_dice, ab ]
 
     m5s, m5d = mod5(:str), mod5(:dex)
     d5s, d5d = bonus - m5s, bonus - m5d
