@@ -10,7 +10,7 @@
 |---------|---------|---------|---------|---------|---------|
 |  6 (-1) | 17 (+1) | 13 (+0) | 11 (+0) | 12 (+0) | 14 (+1) |
 
-**Saves** Physical 15, Evasion 14, Mental 14, Luck 15
+**Saves** Physical 15, Evasion 14, Mental 14, Luck 15, save 15
 
 **Skills** Stab 2, Connect 1, Notice 1, Convice 1, Sneak 1
 

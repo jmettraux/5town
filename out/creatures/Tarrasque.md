@@ -10,7 +10,7 @@
 |---------|---------|---------|---------|---------|---------|
 | 30 (+2) | 11 (+0) | 30 (+2) |  3 (-2) | 11 (+0) | 11 (+0) |
 
-**Saves** Physical 13, Evasion 15, Mental 15, Luck 15
+**Saves** Physical -2, Evasion 0, Mental 0, Luck 0, save 0
 
 **Skills** Stab 9
 

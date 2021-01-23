@@ -69,6 +69,11 @@ class Creature
     m ? m[1].to_i : 1
   end
 
+  def hdice2
+
+    (hdice.to_f / 2).floor
+  end
+
   def hit_dice
 
     hd = hdice
@@ -93,7 +98,8 @@ class Creature
     [ 'Physical', save(:str, :con),
       'Evasion', save(:int, :dex),
       'Mental', save(:wis, :cha),
-      'Luck', 15 ]
+      'Luck', 16 - hdice2,
+      'save', 16 - hdice2 ]
         .collect(&:to_s)
         .each_slice(2)
         .collect { |k, v| [ k, v ].join(' ') }
@@ -250,7 +256,7 @@ class Creature
   #
   def translate_attack_mod(type, bonus)
 
-    ab = (hdice.to_f / 2.0).floor
+    ab = hdice2
 #p [ hit_dice, ab ]
 
     m5s, m5d = mod5(:str), mod5(:dex)
@@ -308,11 +314,7 @@ class Creature
 
     m = [ modifier(att0), modifier(att1) ].max
 
-    if @options[:clasave]
-      16 - hit_dice - m
-    else
-      15 - m
-    end
+    16 - hdice2 - m
   end
 
   def modifier(att)
