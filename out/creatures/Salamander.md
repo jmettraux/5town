@@ -28,3 +28,7 @@
 
 ***Tail*** +5 (Stab 3 STR +2), reach 10ft\_3m\_2sq, one target. Hit: 2d6+2 bludgeoning damage plus 7 (2d6) fire damage, and the target is grappled (escape DC 14). Until this grapple ends, the target is restrained, the salamander can automatically hit the target with its tail, and the salamander can't make tail attacks against other targets.
 
+## Other
+
+**Sense**s darkvision 60ft\_18m\_12sq\_tt, passive Perception 10
+

@@ -24,3 +24,7 @@
 
 ***Stomp*** +5 (Stab 3 STR +2), reach 5ft\_1.5m\_1sq, one prone creature. Hit: 4d10+2 bludgeoning damage.
 
+## Other
+
+A **mammoth** is an elephantine creature with thick fur and long tusks. Stockier and fiercer than normal elephants, mammoths inhabit a wide range of climes, from subarctic to subtropical.
+

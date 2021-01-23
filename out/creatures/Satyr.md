@@ -26,3 +26,7 @@
 
 ***Shortbow*** +3 (Shoot 2 DEX +1), range 80ft\_24m\_16sq\_FF / 320ft\_96m\_64sq\_8F, one target. Hit: 1d6+1 piercing damage.
 
+## Other
+
+**Sense**s passive Perception 12
+

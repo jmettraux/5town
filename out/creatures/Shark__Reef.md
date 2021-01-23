@@ -22,3 +22,7 @@
 
 ***Bite*** +3 (Stab 2 STR +1), reach 5ft\_1.5m\_1sq, one target. Hit: 1d8+1 piercing damage.
 
+## Other
+
+Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow waters and coral reefs, gathering in small packs to hunt. A full-grown specimen measures 6 to 10ft\_3m\_2sq long.
+

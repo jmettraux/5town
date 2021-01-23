@@ -22,3 +22,7 @@
 
 ***Bite*** +5 (Stab 3 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 3d10+2 piercing damage.
 
+## Other
+
+A **giant shark** is 30ft\_9m\_6sq\_t long and normally found in deep oceans. Utterly fearless, it preys on anything that crosses its path, including whales and ships.
+

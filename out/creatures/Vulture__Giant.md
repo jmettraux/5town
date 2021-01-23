@@ -26,3 +26,7 @@
 
 ***Talons*** +3 (Stab 2 STR +1), reach 5ft\_1.5m\_1sq, one target. Hit: 2d6+1 slashing damage.
 
+## Other
+
+A **giant vulture** has advanced intelligence and a malevolent bent. Unlike its smaller kin, it will attack a wounded creature to hasten its end. Giant vultures have been known to haunt a thirsty, starving creature for days to enjoy its suffering.
+

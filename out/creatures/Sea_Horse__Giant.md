@@ -22,3 +22,7 @@
 
 ***Ram*** +2 (Stab 1 DEX +1), reach 5ft\_1.5m\_1sq, one target. Hit: 1d6+1 bludgeoning damage.
 
+## Other
+
+Like their smaller kin, **giant sea horses** are shy, colorful fish with elongated bodies and curled tails. Aquatic elves train them as mounts.
+

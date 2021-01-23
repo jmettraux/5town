@@ -30,3 +30,7 @@
 
 ***Swarm of Wasps*** A swarm of wasps has a walking speed of 5ft\_1.5m\_1sq, a flying speed of 30ft\_9m\_6sq\_t, and no climbing speed.
 
+## Other
+
+**Variant: Insect Swarms**
+

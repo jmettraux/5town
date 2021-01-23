@@ -22,3 +22,7 @@
 
 ***Bite*** +4 (Stab 2 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 2d8+2 piercing damage.
 
+## Other
+
+Smaller than a giant shark but larger and fiercer than a reef shark, a **hunter shark** haunts deep waters. It usually hunts alone, but multiple hunter sharks might feed in the same area. A fully grown hunter shark is 15 to 20ft\_6m\_4sq\_t-2 long.
+

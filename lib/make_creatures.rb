@@ -10,6 +10,7 @@ class Creature
 
   attr_reader :abilities
   attr_accessor :phase, :name, :type
+  attr_reader :rest
 
   def initialize
 
@@ -19,6 +20,8 @@ class Creature
 
     @stab = nil
     @shoot = nil
+
+    @rest = []
   end
 
   def <<(kv)
@@ -37,8 +40,9 @@ class Creature
 
     @options = opts
 
-    @entries['Actions'].each { |a| translate_action(a) }
-    attacks = @entries['Actions'].collect { |a| translate_action(a) }.flatten
+    actions = @entries['Actions'] || []
+    actions.each { |a| translate_action(a) }
+    attacks = actions.collect { |a| translate_action(a) }.flatten
       # 1st pass, then second pass...
       # which sets Stab and Shoot
 
@@ -56,8 +60,13 @@ class Creature
     o << '**Move** ' << move << nn
     o << '**Morale** ' << morale << nn
 
-    o << '## Attacks' << nn
+    o << '### Attacks' << nn
     attacks.each { |a| o << a << nn }
+
+    if @rest.any?
+      o << '### Other' << nn
+      @rest.each { |l| o << l << nn }
+    end
 
     o.string
   end
@@ -423,6 +432,7 @@ class MdownToCreature < Redcarpet::Render::Base
       text
     else
 #p [ :paragraph, text ]
+      @creature.rest << text if text.index('*')
       text
     end
   end
