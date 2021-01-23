@@ -115,7 +115,9 @@ class Creature
 
     a.concat(
       (self['Skills'] || '')
-        .split(/\s*,\s*/).collect { |s| translate_skill(s) })
+        .split(/\s*,\s*/)
+        .inject([]) { |arr, s| translate_skill(arr, s) }
+        .collect { |s, l| "#{s} #{l}" })
 
     a.join(', ')
   end
@@ -203,7 +205,7 @@ class Creature
   # Work / Toil (WOG)
   # Trade / Gift (WOG)
 
-  def translate_skill(s)
+  def translate_skill(arr, s)
 
     m = s.match(/\A([^-+]+) ([-+]\d+)/)
     n = m[1]
@@ -217,7 +219,16 @@ class Creature
     else sl = sl / 2
     end
 
-    "#{n1} #{sl}"
+    prev = arr.assoc(n1)
+    previ = arr.index(prev)
+
+    if previ && prev[1] < sl
+      arr[previ] = [ n1, sl ]
+    elsif ! previ
+      arr << [ n1, sl ]
+    end
+
+    arr
   end
 
   def translate_action(a)

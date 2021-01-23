@@ -12,7 +12,7 @@
 
 **Saves** Physical 10, Evasion 9, Mental 8, Luck 10, save 10
 
-**Skills** Stab 2, Connect 2, Notice 2, Notice 2, Convice 2, Sneak 2
+**Skills** Stab 2, Connect 2, Notice 2, Convice 2, Sneak 2
 
 **Move** 30ft\_9m\_6sq\_t, fly 60ft\_18m\_12sq\_tt
 

@@ -12,7 +12,7 @@
 
 **Saves** Physical 15, Evasion 14, Mental 15, Luck 15, save 15
 
-**Skills** Stab 2, Shoot 2, Survive 2, Notice 2, Sneak 2, Survive 2
+**Skills** Stab 2, Shoot 2, Survive 2, Notice 2, Sneak 2
 
 **Move** 30ft\_9m\_6sq\_t
 

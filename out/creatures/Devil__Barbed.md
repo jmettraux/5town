@@ -12,7 +12,7 @@
 
 **Saves** Physical 8, Evasion 9, Mental 9, Luck 10, save 10
 
-**Skills** Stab 3, Shoot 2, Connect 1, Notice 1, Notice 3
+**Skills** Stab 3, Shoot 2, Connect 1, Notice 3
 
 **Move** 30ft\_9m\_6sq\_t
 

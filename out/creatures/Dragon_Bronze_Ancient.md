@@ -12,7 +12,7 @@
 
 **Saves** Physical 2, Evasion 2, Mental 2, Luck 4, save 4
 
-**Skills** Stab 7, Notice 3, Notice 7, Sneak 3
+**Skills** Stab 7, Notice 7, Sneak 3
 
 **Move** 40ft\_12m\_8sq\_F, fly 80ft\_24m\_16sq\_FF, swim 40ft\_12m\_8sq\_F
 

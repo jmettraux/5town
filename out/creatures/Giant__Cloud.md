@@ -12,7 +12,7 @@
 
 **Saves** Physical 6, Evasion 8, Mental 7, Luck 8, save 8
 
-**Skills** Stab 4, Shoot 12, Notice 2, Notice 2
+**Skills** Stab 4, Shoot 12, Notice 2
 
 **Move** 40ft\_12m\_8sq\_F
 

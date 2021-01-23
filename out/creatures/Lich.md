@@ -12,7 +12,7 @@
 
 **Saves** Physical 6, Evasion 5, Mental 6, Luck 7, save 7
 
-**Skills** Stab 9, Magic 7, Know 3, Notice 3, Notice 3
+**Skills** Stab 9, Magic 7, Know 3, Notice 3
 
 **Move** 30ft\_9m\_6sq\_t
 

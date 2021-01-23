@@ -3,6 +3,8 @@ RUBY=bundle exec ruby
 LI=-Ilib -rfivetown
 
 
+dbar:
+	${RUBY} ${LI} -e "puts make_creature('sources/creatures/Devil__Barbed.md').to_md"
 gob:
 	${RUBY} ${LI} -e "puts make_creature('sources/creatures/Goblin.md').to_md"
 cen:
