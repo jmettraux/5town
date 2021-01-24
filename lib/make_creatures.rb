@@ -284,7 +284,7 @@ class Creature
   def translate_attack_mod(type, bonus)
 
     ab = hdice2
-#p [ hit_dice, ab ]
+p [ hit_dice, hdice, ab ]
 
     m5s, m5d = mod5(:str), mod5(:dex)
     d5s, d5d = bonus - m5s, bonus - m5d
