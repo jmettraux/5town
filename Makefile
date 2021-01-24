@@ -4,19 +4,17 @@ LI=-Ilib -rfivetown
 
 
 gob:
-	${RUBY} ${LI} -e "puts make_creature('sources/creatures/Goblin.md').to_md"
+	${RUBY} ${LI} -e "compare_creature('sources/creatures/Goblin.md')"
 frog:
-	cat sources/creatures/Frog.md
-	@echo '-------------------------------------------------------------------'
-	${RUBY} ${LI} -e "puts make_creature('sources/creatures/Frog.md').to_md"
+	${RUBY} ${LI} -e "compare_creature('sources/creatures/Frog.md')"
 dbar:
-	${RUBY} ${LI} -e "puts make_creature('sources/creatures/Devil__Barbed.md').to_md"
+	${RUBY} ${LI} -e "compare_creature('sources/creatures/Devil__Barbed.md')"
 cen:
-	${RUBY} ${LI} -e "puts make_creature('sources/creatures/Centaur.md').to_md"
+	${RUBY} ${LI} -e "compare_creature('sources/creatures/Centaur.md')"
 gha:
-	${RUBY} ${LI} -e "puts make_creature('sources/creatures/Ghast.md').to_md"
+	${RUBY} ${LI} -e "compare_creature('sources/creatures/Ghast.md')"
 orc:
-	${RUBY} ${LI} -e "puts make_creature('sources/creatures/Orc.md').to_md"
+	${RUBY} ${LI} -e "compare_creature('sources/creatures/Orc.md')"
 
 creatures:
 	${RUBY} ${LI} -e "make_creatures"

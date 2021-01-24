@@ -283,8 +283,8 @@ class Creature
   #
   def translate_attack_mod(type, bonus)
 
-    ab = hdice2
-p [ hit_dice, hdice, ab ]
+#    ab = hdice2
+#p [ hit_dice, hdice, ab ]
 
     m5s, m5d = mod5(:str), mod5(:dex)
     d5s, d5d = bonus - m5s, bonus - m5d
@@ -491,5 +491,22 @@ def make_creatures
       puts "!!!#{fn}"
     end
   end
+end
+
+
+def compare_creature(path, compact=false)
+
+  puts
+  puts '=== 5e ' + ('=' * 70)
+  puts '=======' + ('=' * 70)
+  puts File.read(path)
+  puts
+  puts '=== wn ' + ('=' * 70)
+  puts '=======' + ('=' * 70)
+  puts
+  puts make_creature(path).to_md
+  puts '-' * 80
+  puts '-' * 80
+  puts
 end
 
