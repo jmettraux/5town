@@ -18,13 +18,13 @@
 
 **Morale** 9
 
-## Attacks
+### Attacks
 
 ***Multiattack*** The manticore makes three attacks: one with its bite and two with its claws or three with its tail spikes.
 
 ***Bite*** +3 (Stab 2 DEX +1), reach 5ft\_1.5m\_1sq, one target. Hit: 1d8+1 piercing damage.
 
-***Claw*** +3 (Stab 2 DEX +1), reach 5ft\_1.5m\_1sq, one target. Hit: 1d6+1 slashing damage.
+***Claw*** +3 (Stab 2 DEX +1) Shock 2+1/AC13, reach 5ft\_1.5m\_1sq, one target. Hit: 1d6+1 slashing damage.
 
 ***Tail Spike*** +3 (Shoot 2 DEX +1), range 100ft\_30m\_20sq\_Ftt / 200ft\_60m\_40sq\_5F, one target. Hit: 1d8+1 piercing damage.
 

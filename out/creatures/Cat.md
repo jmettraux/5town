@@ -18,7 +18,7 @@
 
 **Morale** 6
 
-## Attacks
+### Attacks
 
-***Claws*** +1 (Stab 0 DEX +1), reach 5ft\_1.5m\_1sq, one target. Hit: 1 slashing damage.
+***Claws*** +1 (Stab 0 DEX +1) Shock 2+1/AC13, reach 5ft\_1.5m\_1sq, one target. Hit: 1 slashing damage.
 

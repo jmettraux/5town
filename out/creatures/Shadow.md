@@ -18,7 +18,7 @@
 
 **Morale** 12
 
-## Attacks
+### Attacks
 
 ***Strength Drain*** +3 (Stab 2 DEX +1), reach 5ft\_1.5m\_1sq, one creature. Hit: 2d6+1 necrotic damage, and the target's Strength score is reduced by 1d4. The target dies if this reduces its Strength to 0. Otherwise, the reduction lasts until the target finishes a short or long rest.
 

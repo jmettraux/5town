@@ -18,9 +18,9 @@
 
 **Morale** 12
 
-## Attacks
+### Attacks
 
 ***Multiattack*** The sphinx makes two claw attacks.
 
-***Claw*** +6 (Stab 4 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 2d8+2 slashing damage.
+***Claw*** +6 (Stab 4 STR +2) Shock 2+2/AC13, reach 5ft\_1.5m\_1sq, one target. Hit: 2d8+2 slashing damage.
 

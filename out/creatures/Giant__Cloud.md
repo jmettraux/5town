@@ -18,7 +18,7 @@
 
 **Morale** 10
 
-## Attacks
+### Attacks
 
 ***Multiattack*** The giant makes two morningstar attacks.
 

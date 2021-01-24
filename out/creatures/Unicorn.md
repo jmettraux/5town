@@ -18,7 +18,7 @@
 
 **Morale** 7
 
-## Attacks
+### Attacks
 
 ***Multiattack*** The unicorn makes two attacks: one with its hooves and one with its horn.
 

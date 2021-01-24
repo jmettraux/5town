@@ -18,13 +18,13 @@
 
 **Morale** 10
 
-## Attacks
+### Attacks
 
 ***Multiattack*** The dragon turtle makes three attacks: one with its bite and two with its claws. It can make one tail attack in place of its two claw attacks.
 
 ***Bite*** +8 (Stab 6 STR +2), reach 15ft\_4.5m\_3sq, one target. Hit: 3d12+2 piercing damage.
 
-***Claw*** +8 (Stab 6 STR +2), reach 10ft\_3m\_2sq, one target. Hit: 2d8+2 slashing damage.
+***Claw*** +8 (Stab 6 STR +2) Shock 2+2/AC13, reach 10ft\_3m\_2sq, one target. Hit: 2d8+2 slashing damage.
 
 ***Tail*** +8 (Stab 6 STR +2), reach 15ft\_4.5m\_3sq, one target. Hit: 3d12+2 bludgeoning damage. If the target is a creature, it must succeed on a DC 20 Strength saving throw or be pushed up to 10ft\_3m\_2sq away from the dragon turtle and knocked prone.
 

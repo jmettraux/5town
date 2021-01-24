@@ -18,7 +18,7 @@
 
 **Morale** 8
 
-## Attacks
+### Attacks
 
 ***Bite*** +2 (Stab 1 DEX +1), reach 5ft\_1.5m\_1sq, one creature. Hit: 1d6+1 piercing damage.
 

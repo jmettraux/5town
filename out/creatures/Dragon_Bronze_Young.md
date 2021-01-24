@@ -18,13 +18,13 @@
 
 **Morale** 9
 
-## Attacks
+### Attacks
 
 ***Multiattack*** The dragon makes three attacks: one with its bite and two with its claws.
 
 ***Bite*** +5 (Stab 3 STR +2), reach 10ft\_3m\_2sq, one target. Hit: 2d10+2 piercing damage.
 
-***Claw*** +5 (Stab 3 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 2d6+2 slashing damage.
+***Claw*** +5 (Stab 3 STR +2) Shock 2+2/AC13, reach 5ft\_1.5m\_1sq, one target. Hit: 2d6+2 slashing damage.
 
 ***Breath Weapons (Recharge 5-6)*** The dragon uses one of the following breath weapons.
 

@@ -18,7 +18,7 @@
 
 **Morale** 10
 
-## Attacks
+### Attacks
 
 ***Bites*** +3 (Stab 2 DEX +1), reach 0ft, one creature in the swarm's space. Hit: 4d6+1 piercing damage, or 7 (2d6) piercing damage if the swarm has half of its hit points or fewer.
 

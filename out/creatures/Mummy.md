@@ -18,7 +18,7 @@
 
 **Morale** 12
 
-## Attacks
+### Attacks
 
 ***Multiattack*** The mummy can use its Dreadful Glare and makes one attack with its rotting fist.
 

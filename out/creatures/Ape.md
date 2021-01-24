@@ -18,7 +18,7 @@
 
 **Morale** 7
 
-## Attacks
+### Attacks
 
 ***Multiattack*** The ape makes two fist attacks.
 

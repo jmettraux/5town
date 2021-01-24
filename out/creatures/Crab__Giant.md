@@ -18,7 +18,7 @@
 
 **Morale** 7
 
-## Attacks
+### Attacks
 
-***Claw*** +2 (Stab 1 DEX +1), reach 5ft\_1.5m\_1sq, one target. Hit: 1d6+1 bludgeoning damage, and the target is grappled (escape DC 11). The crab has two claws, each of which can grapple only one target.
+***Claw*** +2 (Stab 1 DEX +1) Shock 2+1/AC13, reach 5ft\_1.5m\_1sq, one target. Hit: 1d6+1 bludgeoning damage, and the target is grappled (escape DC 11). The crab has two claws, each of which can grapple only one target.
 

@@ -18,11 +18,11 @@
 
 **Morale** 7
 
-## Attacks
+### Attacks
 
 ***Multiattack*** The harpy makes two attacks: one with its claws and one with its club.
 
-***Claws*** +2 (Stab 2 DEX +0), reach 5ft\_1.5m\_1sq, one target. Hit: 2d4+0 slashing damage.
+***Claws*** +2 (Stab 2 DEX +0) Shock 2+0/AC13, reach 5ft\_1.5m\_1sq, one target. Hit: 2d4+0 slashing damage.
 
 ***Club*** +2 (Stab 2 DEX +0), reach 5ft\_1.5m\_1sq, one target. Hit: 1d4+0 bludgeoning damage.
 

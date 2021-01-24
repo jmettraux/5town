@@ -18,7 +18,7 @@
 
 **Morale** 9
 
-## Attacks
+### Attacks
 
 ***Multiattack*** The shambling mound makes two slam attacks. If both attacks hit a Medium or smaller target, the target is grappled (escape DC 14), and the shambling mound uses its Engulf on it.
 

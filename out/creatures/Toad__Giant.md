@@ -18,7 +18,7 @@
 
 **Morale** 6
 
-## Attacks
+### Attacks
 
 ***Bite*** +3 (Stab 2 STR +1), reach 5ft\_1.5m\_1sq, one target. Hit: 1d10+1 piercing damage plus 5 (1d10) poison damage, and the target is grappled (escape DC 13). Until this grapple ends, the target is restrained, and the toad can't bite another target.
 

@@ -18,13 +18,13 @@
 
 **Morale** 9
 
-## Attacks
+### Attacks
 
 ***Multiattack*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
 ***Bite*** +7 (Stab 5 STR +2), reach 10ft\_3m\_2sq, one target. Hit: 2d10+2 piercing damage.
 
-***Claw*** +7 (Stab 5 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 2d6+2 slashing damage.
+***Claw*** +7 (Stab 5 STR +2) Shock 2+2/AC13, reach 5ft\_1.5m\_1sq, one target. Hit: 2d6+2 slashing damage.
 
 ***Tail*** +7 (Stab 5 STR +2), reach 15ft\_4.5m\_3sq, one target. Hit: 2d8+2 bludgeoning damage.
 

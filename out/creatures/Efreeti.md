@@ -18,11 +18,11 @@
 
 **Morale** 12
 
-## Attacks
+### Attacks
 
 ***Multiattack*** The efreeti makes two scimitar attacks or uses its Hurl Flame twice.
 
-***Scimitar*** +6 (Stab 4 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 2d6+2 slashing damage plus 7 (2d6) fire damage.
+***Scimitar*** +6 (Stab 4 STR +2) Shock 1+2/AC13, reach 5ft\_1.5m\_1sq, one target. Hit: 2d6+2 slashing damage plus 7 (2d6) fire damage.
 
 ***Hurl Flame*** Ranged Spell Attack:+6 (Shoot 6 DEX +0), range 120ft\_36m\_24sq\_FFF, one target. Hit: 5d6+0 fire damage.
 

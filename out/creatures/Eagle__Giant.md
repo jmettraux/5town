@@ -18,7 +18,7 @@
 
 **Morale** 8
 
-## Attacks
+### Attacks
 
 ***Multiattack*** The eagle makes two attacks: one with its beak and one with its talons.
 
@@ -26,7 +26,7 @@
 
 ***Talons*** +3 (Stab 2 DEX +1), reach 5ft\_1.5m\_1sq, one target. Hit: 2d6+1 slashing damage.
 
-## Other
+### Other
 
 A **giant eagle** is a noble creature that speaks its own language and understands speech in the Common tongue. A mated pair of giant eagles typically has up to four eggs or young in their nest (treat the young as normal eagles).
 

@@ -18,9 +18,9 @@
 
 **Morale** 11
 
-## Attacks
+### Attacks
 
 ***Multiattack*** The rakshasa makes two claw attacks.
 
-***Claw*** +5 (Stab 4 DEX +1), reach 5ft\_1.5m\_1sq, one target. Hit: 2d6+1 slashing damage, and the target is cursed if it is a creature. The magical curse takes effect whenever the target takes a short or long rest, filling the target's thoughts with horrible images and dreams. The cursed target gains no benefit from finishing a short or long rest. The curse lasts until it is lifted by a remove curse spell or similar magic.
+***Claw*** +5 (Stab 4 DEX +1) Shock 2+1/AC13, reach 5ft\_1.5m\_1sq, one target. Hit: 2d6+1 slashing damage, and the target is cursed if it is a creature. The magical curse takes effect whenever the target takes a short or long rest, filling the target's thoughts with horrible images and dreams. The cursed target gains no benefit from finishing a short or long rest. The curse lasts until it is lifted by a remove curse spell or similar magic.
 

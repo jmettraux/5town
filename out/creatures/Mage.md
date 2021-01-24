@@ -18,9 +18,9 @@
 
 **Morale** 9
 
-## Attacks
+### Attacks
 
-***Dagger*** +4 (Stab 3 DEX +1), reach 5ft\_1.5m\_1sq, one target. Hit: 1d4 +1 piercing damage.
+***Dagger*** +4 (Stab 3 DEX +1) Shock 1+1/AC15, reach 5ft\_1.5m\_1sq, one target. Hit: 1d4 +1 piercing damage.
 
 ***Dagger*** +4 (Shoot 3 DEX +1), range 20ft\_6m\_4sq\_t-2 / 60ft\_18m\_12sq\_tt, one target. Hit: 1d4 +1 piercing damage.
 

@@ -18,7 +18,7 @@
 
 **Morale** 8
 
-## Attacks
+### Attacks
 
 ***Multiattack (Humanoid or Hybrid Form Only)*** The wererat makes two attacks, only one of which can be a bite.
 

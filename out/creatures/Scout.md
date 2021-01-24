@@ -18,11 +18,11 @@
 
 **Morale** 6
 
-## Attacks
+### Attacks
 
 ***Multiattack*** The scout makes two melee attacks or two ranged attacks.
 
-***Shortsword*** +3 (Stab 2 DEX +1), reach 5ft\_1.5m\_1sq, one target. Hit: 1d6 +1 piercing damage.
+***Shortsword*** +3 (Stab 2 DEX +1) Shock 2+1/AC15, reach 5ft\_1.5m\_1sq, one target. Hit: 1d6 +1 piercing damage.
 
 ***Longbow*** +3 (Shoot 2 DEX +1), ranged 150ft\_45m\_30sq\_FFFt / 600ft\_180m\_120sq\_15F, one target. Hit: 1d8 +1 piercing damage.
 

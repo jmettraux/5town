@@ -1,6 +1,5 @@
 
-#
-# expand_ranges
+SHOCK = YAML.load(File.read('sources/shock.yaml'))
 
 
 #
@@ -36,6 +35,7 @@ class Creature
     { name: @name, type: @type, abilities: @abilities, entries: @entries }
   end
 
+# TODO (vT test)
   def to_md(opts={})
 
     @options = opts
@@ -268,6 +268,13 @@ class Creature
     desc1 = type == 'Stab' ?
       desc1.gsub(/ (or )?range [^,$]+/, '') :
       desc1.gsub(/reach (?:(?!, |or ).)+(, |or )/, '')
+
+    sd, sac = SHOCK[name]
+    if sd && type == 'Stab'
+      m = desc1.match(/(DEX|STR) ([-+]\d)\)/)
+      i = desc1.index('),')
+      desc1.insert(i + 1, " Shock #{sd}#{m[2]}/AC#{sac}")
+    end
 
     "***#{name}*** #{desc1}"
   end

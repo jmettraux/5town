@@ -18,9 +18,9 @@
 
 **Morale** 6
 
-## Attacks
+### Attacks
 
-## Other
+### Other
 
 A **frog** has no effective attacks. It feeds on small insects and typically dwells near water, in trees, or underground. The frog's statistics can also be used to represent a **toad.**
 

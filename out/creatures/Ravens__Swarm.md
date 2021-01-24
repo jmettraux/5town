@@ -18,7 +18,7 @@
 
 **Morale** 9
 
-## Attacks
+### Attacks
 
 ***Beaks*** +3 (Stab 2 DEX +1), reach 5ft\_1.5m\_1sq, one target in the swarm's space. Hit: 2d6+1 piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer.
 

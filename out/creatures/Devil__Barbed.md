@@ -18,11 +18,11 @@
 
 **Morale** 10
 
-## Attacks
+### Attacks
 
 ***Multiattack*** The devil makes three melee attacks: one with its tail and two with its claws. Alternatively, it can use Hurl Flame twice.
 
-***Claw*** +4 (Stab 3 DEX +1), reach 5ft\_1.5m\_1sq, one target. Hit: 1d6+1 piercing damage.
+***Claw*** +4 (Stab 3 DEX +1) Shock 2+1/AC13, reach 5ft\_1.5m\_1sq, one target. Hit: 1d6+1 piercing damage.
 
 ***Tail*** +4 (Stab 3 DEX +1), reach 5ft\_1.5m\_1sq, one target. Hit: 2d6+1 piercing damage.
 

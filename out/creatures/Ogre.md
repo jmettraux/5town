@@ -18,11 +18,11 @@
 
 **Morale** 10
 
-## Attacks
+### Attacks
 
-***Greatclub*** +4 (Stab 2 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 2d8+2 bludgeoning damage.
+***Greatclub*** +4 (Stab 2 STR +2) Shock 2+2/AC15, reach 5ft\_1.5m\_1sq, one target. Hit: 2d8+2 bludgeoning damage.
 
-***Javelin*** +4 (Stab 2 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 2d6+2 piercing damage.
+***Javelin*** +4 (Stab 2 STR +2) Shock 2+2/AC13, reach 5ft\_1.5m\_1sq, one target. Hit: 2d6+2 piercing damage.
 
 ***Javelin*** +7 (Shoot 7 DEX +0), range 30ft\_9m\_6sq\_t / 120ft\_36m\_24sq\_FFF, one target. Hit: 2d6+0 piercing damage.
 

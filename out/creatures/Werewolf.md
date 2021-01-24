@@ -18,7 +18,7 @@
 
 **Morale** 8
 
-## Attacks
+### Attacks
 
 ***Multiattack (Humanoid or Hybrid Form Only)*** The werewolf makes two attacks: two with its spear (humanoid form) or one with its bite and one with its claws (hybrid form).
 

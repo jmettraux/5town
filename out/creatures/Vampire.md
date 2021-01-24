@@ -18,7 +18,7 @@
 
 **Morale** 11
 
-## Attacks
+### Attacks
 
 ***Multiattack (Vampire Form Only)*** The vampire makes two attacks, only one of which can be a bite attack.
 

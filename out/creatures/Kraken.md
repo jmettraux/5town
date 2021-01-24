@@ -18,7 +18,7 @@
 
 **Morale** 11
 
-## Attacks
+### Attacks
 
 ***Multiattack*** The kraken makes three tentacle attacks, each of which it can replace with one use of Fling.
 

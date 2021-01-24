@@ -18,11 +18,11 @@
 
 **Morale** 8
 
-## Attacks
+### Attacks
 
 ***Bite*** +3 (Stab 2 STR +1), reach 5ft\_1.5m\_1sq, one target. Hit: 2d6+1 piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
 
-## Other
+### Other
 
 A **worg** is an evil predator that delights in hunting and devouring creatures weaker than itself. Cunning and malevolent, worgs roam across the remote wilderness or are raised by goblins and hobgoblins. Those creatures use worgs as mounts, but a worg will turn on its rider if it feels mistreated or malnourished. Worgs speak in their own language and Goblin, and a few learn to speak Common as well
 

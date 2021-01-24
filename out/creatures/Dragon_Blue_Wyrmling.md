@@ -18,7 +18,7 @@
 
 **Morale** 9
 
-## Attacks
+### Attacks
 
 ***Bite*** +3 (Stab 2 STR +1), reach 5ft\_1.5m\_1sq, one target. Hit: 1d10+1 piercing damage plus 3 (1d6) lightning damage.
 

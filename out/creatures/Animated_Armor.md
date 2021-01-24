@@ -18,7 +18,7 @@
 
 **Morale** 12
 
-## Attacks
+### Attacks
 
 ***Multiattack*** The armor makes two melee attacks.
 

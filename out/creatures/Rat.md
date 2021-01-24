@@ -18,7 +18,7 @@
 
 **Morale** 5
 
-## Attacks
+### Attacks
 
 ***Bite*** +0 (Stab 0 DEX +0), reach 5ft\_1.5m\_1sq, one target. Hit: 1 piercing damage.
 

@@ -18,9 +18,9 @@
 
 **Morale** 7
 
-## Attacks
+### Attacks
 
-***Longsword*** +2 (Stab 0 DEX +2), reach 5ft\_1.5m\_1sq, one target. Hit: 1 slashing damage.
+***Longsword*** +2 (Stab 0 DEX +2) Shock 2+2/AC13, reach 5ft\_1.5m\_1sq, one target. Hit: 1 slashing damage.
 
 ***Shortbow*** +4 (Shoot 2 DEX +2), range 40ft\_12m\_8sq\_F / 160ft\_48m\_32sq\_4F, one target. Hit: 1 piercing damage, and the target must succeed on a DC 10 Constitution saving throw or become poisoned for 1 minute. If its saving throw result is 5 or lower, the poisoned target falls unconscious for the same duration, or until it takes damage or another creature takes an action to shake it awake.
 

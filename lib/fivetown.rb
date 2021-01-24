@@ -1,4 +1,5 @@
 
+require 'yaml'
 require 'stringio'
 
 require 'redcarpet'

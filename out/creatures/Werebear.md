@@ -18,7 +18,7 @@
 
 **Morale** 10
 
-## Attacks
+### Attacks
 
 ***Multiattack*** In bear form, the werebear makes two claw attacks. In humanoid form, it makes two greataxe attacks. In hybrid form, it can attack like a bear or a humanoid.
 

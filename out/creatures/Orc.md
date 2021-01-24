@@ -18,11 +18,11 @@
 
 **Morale** 6 (8 with leader)
 
-## Attacks
+### Attacks
 
-***Greataxe*** +3 (Stab 2 STR +1), reach 5ft\_1.5m\_1sq, one target. Hit: 1d12+1 slashing damage.
+***Greataxe*** +3 (Stab 2 STR +1) Shock 3+1/AC15, reach 5ft\_1.5m\_1sq, one target. Hit: 1d12+1 slashing damage.
 
-***Javelin*** +3 (Stab 2 STR +1), reach 5ft\_1.5m\_1sq, one target. Hit: 1d6+1 piercing damage.
+***Javelin*** +3 (Stab 2 STR +1) Shock 2+1/AC13, reach 5ft\_1.5m\_1sq, one target. Hit: 1d6+1 piercing damage.
 
 ***Javelin*** +4 (Shoot 4 DEX +0), range 30ft\_9m\_6sq\_t / 120ft\_36m\_24sq\_FFF, one target. Hit: 1d6+0 piercing damage.
 

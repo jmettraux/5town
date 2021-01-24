@@ -18,7 +18,7 @@
 
 **Morale** 9
 
-## Attacks
+### Attacks
 
 ***Multiattack*** The treant makes two slam attacks.
 

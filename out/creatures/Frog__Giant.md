@@ -18,7 +18,7 @@
 
 **Morale** 7
 
-## Attacks
+### Attacks
 
 ***Bite*** +2 (Stab 2 DEX +0), reach 5ft\_1.5m\_1sq, one target. Hit: 1d6+0 piercing damage, and the target is grappled (escape DC 11). Until this grapple ends, the target is restrained, and the frog can't bite another target.
 

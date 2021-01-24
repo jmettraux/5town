@@ -18,17 +18,17 @@
 
 **Morale** 9
 
-## Attacks
+### Attacks
 
 ***Multiattack*** The captain makes three melee attacks: two with its scimitar and one with its dagger. Or the captain makes two ranged attacks with its daggers.
 
-***Scimitar*** +3 (Stab 2 DEX +1), reach 5ft\_1.5m\_1sq, one target. Hit: 1d6 +1 slashing damage.
+***Scimitar*** +3 (Stab 2 DEX +1) Shock 1+1/AC13, reach 5ft\_1.5m\_1sq, one target. Hit: 1d6 +1 slashing damage.
 
-***Dagger*** +3 (Stab 2 DEX +1), reach 5ft\_1.5m\_1sq, one target. Hit: 1d4 +1 piercing damage.
+***Dagger*** +3 (Stab 2 DEX +1) Shock 1+1/AC15, reach 5ft\_1.5m\_1sq, one target. Hit: 1d4 +1 piercing damage.
 
 ***Dagger*** +3 (Shoot 2 DEX +1), range 20ft\_6m\_4sq\_t-2 / 60ft\_18m\_12sq\_tt, one target. Hit: 1d4 +1 piercing damage.
 
-## Other
+### Other
 
 It takes a strong personality, ruthless cunning, and a silver tongue to keep a gang of bandits in line. The **bandit captain** has these qualities in spades.
 

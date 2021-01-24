@@ -18,7 +18,7 @@
 
 **Morale** 8
 
-## Attacks
+### Attacks
 
 ***Bite*** +4 (Stab 2 STR +2), reach 10ft\_3m\_2sq, one creature. Hit: 2d6+2 piercing damage.
 

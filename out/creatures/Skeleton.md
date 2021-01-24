@@ -18,9 +18,9 @@
 
 **Morale** 12
 
-## Attacks
+### Attacks
 
-***Shortsword*** +3 (Stab 2 DEX +1), reach 5ft\_1.5m\_1sq, one target. Hit: 1d6+1 piercing damage.
+***Shortsword*** +3 (Stab 2 DEX +1) Shock 2+1/AC15, reach 5ft\_1.5m\_1sq, one target. Hit: 1d6+1 piercing damage.
 
 ***Shortbow*** +3 (Shoot 2 DEX +1), range 80ft\_24m\_16sq\_FF / 320ft\_96m\_64sq\_8F, one target. Hit: 1d6+1 piercing damage.
 

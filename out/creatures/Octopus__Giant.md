@@ -18,7 +18,7 @@
 
 **Morale** 7
 
-## Attacks
+### Attacks
 
 ***Tentacles*** +3 (Stab 2 STR +1), reach 15ft\_4.5m\_3sq, one target. Hit: 2d6+1 bludgeoning damage. If the target is a creature, it is grappled (escape DC 16). Until this grapple ends, the target is restrained, and the octopus can't use its tentacles on another target.
 

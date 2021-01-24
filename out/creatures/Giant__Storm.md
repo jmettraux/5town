@@ -18,11 +18,11 @@
 
 **Morale** 10
 
-## Attacks
+### Attacks
 
 ***Multiattack*** The giant makes two greatsword attacks.
 
-***Greatsword*** +7 (Stab 5 STR +2), reach 10ft\_3m\_2sq, one target. Hit: 6d6+2 slashing damage.
+***Greatsword*** +7 (Stab 5 STR +2) Shock 2+2/AC15, reach 10ft\_3m\_2sq, one target. Hit: 6d6+2 slashing damage.
 
 ***Rock*** +13 (Shoot 12 DEX +1), range 60ft\_18m\_12sq\_tt / 240ft\_72m\_48sq\_6F, one target. Hit: 4d12+1 bludgeoning damage.
 

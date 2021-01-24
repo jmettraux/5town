@@ -18,11 +18,11 @@
 
 **Morale** 7
 
-## Attacks
+### Attacks
 
 ***Multiattack*** The bear makes two attacks: one with its bite and one with its claws.
 
 ***Bite*** +3 (Stab 2 STR +1), reach 5ft\_1.5m\_1sq, one target. Hit: 1d6+1 piercing damage.
 
-***Claws*** +3 (Stab 2 STR +1), reach 5ft\_1.5m\_1sq, one target. Hit: 2d4+1 slashing damage.
+***Claws*** +3 (Stab 2 STR +1) Shock 2+1/AC13, reach 5ft\_1.5m\_1sq, one target. Hit: 2d4+1 slashing damage.
 

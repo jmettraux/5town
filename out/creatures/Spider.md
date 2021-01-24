@@ -18,7 +18,7 @@
 
 **Morale** 6
 
-## Attacks
+### Attacks
 
 ***Bite*** +3 (Stab 2 DEX +1), reach 5ft\_1.5m\_1sq, one creature. Hit: 1 piercing damage, and the target must succeed on a DC 9 Constitution saving throw or take 2 (1d4) poison damage.
 

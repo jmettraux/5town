@@ -18,13 +18,13 @@
 
 **Morale** 9
 
-## Attacks
+### Attacks
 
 ***Multiattack*** The dragon makes three attacks: one with its bite and two with its claws.
 
 ***Bite*** +5 (Stab 3 STR +2), reach 10ft\_3m\_2sq, one target. Hit: 2d10+2 piercing damage plus 7 (2d6) poison damage.
 
-***Claw*** +5 (Stab 3 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 2d6+2 slashing damage.
+***Claw*** +5 (Stab 3 STR +2) Shock 2+2/AC13, reach 5ft\_1.5m\_1sq, one target. Hit: 2d6+2 slashing damage.
 
 ***Poison Breath (Recharge 5-6)*** The dragon exhales poisonous gas in a 30ft\_9m\_6sq\_t cone. Each creature in that area must make a DC 14 Constitution saving throw, taking 42 (12d6) poison damage on a failed save, or half as much damage on a successful one.
 

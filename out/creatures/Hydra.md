@@ -18,7 +18,7 @@
 
 **Morale** 9
 
-## Attacks
+### Attacks
 
 ***Multiattack*** The hydra makes as many bite attacks as it has heads.
 

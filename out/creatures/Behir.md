@@ -18,7 +18,7 @@
 
 **Morale** 9
 
-## Attacks
+### Attacks
 
 ***Multiattack*** The behir makes two attacks: one with its bite and one to constrict.
 

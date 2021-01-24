@@ -18,7 +18,7 @@
 
 **Morale** 10 (12 in lair)
 
-## Attacks
+### Attacks
 
 ***Multiattack*** The roc makes two attacks: one with its beak and one with its talons.
 

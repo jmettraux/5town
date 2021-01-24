@@ -18,7 +18,7 @@
 
 **Morale** 8
 
-## Attacks
+### Attacks
 
 ***Gore*** +4 (Stab 2 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 3d8+2 piercing damage.
 

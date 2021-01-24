@@ -18,11 +18,11 @@
 
 **Morale** 7
 
-## Attacks
+### Attacks
 
-***Rapier*** +2 (Stab 2 DEX +0), reach 5ft\_1.5m\_1sq, one target. Hit: 1d8 +0 piercing damage.
+***Rapier*** +2 (Stab 2 DEX +0) Shock 1+0/AC15, reach 5ft\_1.5m\_1sq, one target. Hit: 1d8 +0 piercing damage.
 
-## Other
+### Other
 
 The noble's statistics can also be used to represent **courtiers** who aren't of noble birth.
 

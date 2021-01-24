@@ -18,7 +18,7 @@
 
 **Morale** 8
 
-## Attacks
+### Attacks
 
 ***Bite*** +3 (Stab 2 STR +1), reach 5ft\_1.5m\_1sq, one target. Hit: 2d6+1 piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
 

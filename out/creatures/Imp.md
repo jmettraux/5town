@@ -18,7 +18,7 @@
 
 **Morale** 7
 
-## Attacks
+### Attacks
 
 ***Sting (Bite in Beast Form)*** +3 (Stab 2 DEX +1), reach 5ft\_1.5m\_1sq, one target. Hit: 1d4+1 piercing damage, and the target must make on a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.
 

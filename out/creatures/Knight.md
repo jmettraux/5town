@@ -18,11 +18,11 @@
 
 **Morale** 10
 
-## Attacks
+### Attacks
 
 ***Multiattack*** The knight makes two melee attacks.
 
-***Greatsword*** +3 (Stab 2 STR +1), reach 5ft\_1.5m\_1sq, one target. Hit: 2d6 +1 slashing damage.
+***Greatsword*** +3 (Stab 2 STR +1) Shock 2+1/AC15, reach 5ft\_1.5m\_1sq, one target. Hit: 2d6 +1 slashing damage.
 
 ***Heavy Crossbow*** +2 (Shoot 2 DEX +0), range 100ft\_30m\_20sq\_Ftt / 400ft\_120m\_80sq\_10F, one target. Hit: 1d10+0 piercing damage.
 

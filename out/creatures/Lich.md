@@ -18,7 +18,7 @@
 
 **Morale** 12
 
-## Attacks
+### Attacks
 
 ***Paralyzing Touch*** Melee Spell Attack:+10 (Stab 9 DEX +1), reach 5ft\_1.5m\_1sq, one creature. Hit: 3d6+1 cold damage. The target must succeed on a DC 18 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 

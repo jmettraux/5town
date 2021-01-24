@@ -18,7 +18,7 @@
 
 **Morale** 9
 
-## Attacks
+### Attacks
 
 ***Multiattack*** The crocodile makes two attacks: one with its bite and one with its tail.
 

@@ -18,7 +18,7 @@
 
 **Morale** 12
 
-## Attacks
+### Attacks
 
 ***Multiattack*** The stalker makes two slam attacks.
 

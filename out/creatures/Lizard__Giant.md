@@ -18,11 +18,11 @@
 
 **Morale** 7
 
-## Attacks
+### Attacks
 
 ***Bite*** +3 (Stab 2 STR +1), reach 5ft\_1.5m\_1sq, one target. Hit: 1d8+1 piercing damage.
 
-## Other
+### Other
 
 A **giant lizard** can be ridden or used as a draft animal. Lizardfolk also keep them as pets, and subterranean giant lizards are used as mounts and pack animals by drow, duergar, and others.
 

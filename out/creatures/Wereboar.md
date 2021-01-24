@@ -18,7 +18,7 @@
 
 **Morale** 9
 
-## Attacks
+### Attacks
 
 ***Multiattack (Humanoid or Hybrid Form Only)*** The wereboar makes two attacks, only one of which can be with its tusks.
 

@@ -18,7 +18,7 @@
 
 **Morale** 6
 
-## Attacks
+### Attacks
 
 ***Club*** +1 (Stab 1 DEX +0) (+6 to hit with shillelagh), reach 5ft\_1.5m\_1sq, one target. Hit: 1d4+0 bludgeoning damage, or 8 (1d8+4) bludgeoning damage with shillelagh.
 

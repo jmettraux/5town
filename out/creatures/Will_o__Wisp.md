@@ -18,7 +18,7 @@
 
 **Morale** 12
 
-## Attacks
+### Attacks
 
 ***Shock*** Melee Spell Attack:+2 (Stab 0 DEX +2), reach 5ft\_1.5m\_1sq, one creature. Hit: 2d8+2 lightning damage.
 

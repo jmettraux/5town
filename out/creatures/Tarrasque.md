@@ -18,13 +18,13 @@
 
 **Morale** 10
 
-## Attacks
+### Attacks
 
 ***Multiattack*** The tarrasque can use its Frightful Presence. It then makes five attacks: one with its bite, two with its claws, one with its horns, and one with its tail. It can use its Swallow instead of its bite.
 
 ***Bite*** +11 (Stab 9 STR +2), reach 10ft\_3m\_2sq, one target. Hit: 4d12+2 piercing damage. If the target is a creature, it is grappled (escape DC 20). Until this grapple ends, the target is restrained, and the tarrasque can't bite another target.
 
-***Claw*** +11 (Stab 9 STR +2), reach 15ft\_4.5m\_3sq, one target. Hit: 4d8+2 slashing damage.
+***Claw*** +11 (Stab 9 STR +2) Shock 2+2/AC13, reach 15ft\_4.5m\_3sq, one target. Hit: 4d8+2 slashing damage.
 
 ***Horns*** +11 (Stab 9 STR +2), reach 10ft\_3m\_2sq, one target. Hit: 4d10+2 piercing damage.
 

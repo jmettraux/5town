@@ -18,9 +18,9 @@
 
 **Morale** 6 (8 with leader)
 
-## Attacks
+### Attacks
 
-***Dagger*** +3 (Stab 2 DEX +1), reach 5ft\_1.5m\_1sq, one target. Hit: 1d4+1 piercing damage.
+***Dagger*** +3 (Stab 2 DEX +1) Shock 1+1/AC15, reach 5ft\_1.5m\_1sq, one target. Hit: 1d4+1 piercing damage.
 
 ***Sling*** +3 (Shoot 2 DEX +1), range 30ft\_9m\_6sq\_t / 120ft\_36m\_24sq\_FFF, one target. Hit: 1d4+1 bludgeoning damage.
 

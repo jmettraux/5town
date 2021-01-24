@@ -18,9 +18,9 @@
 
 **Morale** 12
 
-## Attacks
+### Attacks
 
-***Greataxe*** +4 (Stab 2 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 2d12+2 slashing damage.
+***Greataxe*** +4 (Stab 2 STR +2) Shock 3+2/AC15, reach 5ft\_1.5m\_1sq, one target. Hit: 2d12+2 slashing damage.
 
 ***Gore*** +4 (Stab 2 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 2d8+2 piercing damage.
 

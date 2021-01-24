@@ -18,7 +18,7 @@
 
 **Morale** 9
 
-## Attacks
+### Attacks
 
 ***Tusk*** +2 (Stab 2 STR +0), reach 5ft\_1.5m\_1sq, one target. Hit: 1d6+0 slashing damage.
 

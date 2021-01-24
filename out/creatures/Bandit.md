@@ -18,9 +18,9 @@
 
 **Morale** 8
 
-## Attacks
+### Attacks
 
-***Scimitar*** +2 (Stab 2 DEX +0), reach 5ft\_1.5m\_1sq, one target. Hit: 1d6 +0 slashing damage.
+***Scimitar*** +2 (Stab 2 DEX +0) Shock 1+0/AC13, reach 5ft\_1.5m\_1sq, one target. Hit: 1d6 +0 slashing damage.
 
 ***Light Crossbow*** +2 (Shoot 2 DEX +0), range 80ft\_24m\_16sq\_FF/320ft\_96m\_64sq\_8F, one target. Hit: 1d8 +0 piercing damage.
 

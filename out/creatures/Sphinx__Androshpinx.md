@@ -18,11 +18,11 @@
 
 **Morale** 12
 
-## Attacks
+### Attacks
 
 ***Multiattack*** The sphinx makes two claw attacks.
 
-***Claw*** +8 (Stab 6 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 2d10+2 slashing damage.
+***Claw*** +8 (Stab 6 STR +2) Shock 2+2/AC13, reach 5ft\_1.5m\_1sq, one target. Hit: 2d10+2 slashing damage.
 
 ***Roar (3/Day)*** The sphinx emits a magical roar. Each time it roars before finishing a long rest, the roar is louder and the effect is different, as detailed below. Each creature within 500ft\_150m\_100sq\_11Ftt of the sphinx and able to hear the roar must make a saving throw.
 

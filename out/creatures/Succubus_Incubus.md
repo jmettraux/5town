@@ -18,7 +18,7 @@
 
 **Morale** 10
 
-## Attacks
+### Attacks
 
 ***Claw (Fiend Form Only)*** +3 (Stab 2 DEX +1), reach 5ft\_1.5m\_1sq, one target. Hit: 1d6+1 slashing damage.
 

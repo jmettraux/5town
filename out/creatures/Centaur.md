@@ -18,11 +18,11 @@
 
 **Morale** 8
 
-## Attacks
+### Attacks
 
 ***Multiattack*** The centaur makes two attacks: one with its pike and one with its hooves or two with its longbow.
 
-***Pike*** +4 (Stab 2 STR +2), reach 10ft\_3m\_2sq, one target. Hit: 1d10+2 piercing damage.
+***Pike*** +4 (Stab 2 STR +2) Shock 1+2/AC18, reach 10ft\_3m\_2sq, one target. Hit: 1d10+2 piercing damage.
 
 ***Hooves*** +4 (Stab 2 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 2d6+2 bludgeoning damage.
 

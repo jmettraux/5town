@@ -18,7 +18,7 @@
 
 **Morale** 9
 
-## Attacks
+### Attacks
 
 ***Multiattack*** The chimera makes three attacks: one with its bite, one with its horns, and one with its claws. When its fire breath is available, it can use the breath in place of its bite or horns.
 
@@ -26,7 +26,7 @@
 
 ***Horns*** +5 (Stab 3 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 1d12+2 bludgeoning damage.
 
-***Claws*** +5 (Stab 3 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 2d6+2 slashing damage.
+***Claws*** +5 (Stab 3 STR +2) Shock 2+2/AC13, reach 5ft\_1.5m\_1sq, one target. Hit: 2d6+2 slashing damage.
 
 ***Fire Breath (Recharge 5-6)*** The dragon head exhales fire in a 15ft\_4.5m\_3sq cone. Each creature in that area must make a DC 15 Dexterity saving throw, taking 31 (7d8) fire damage on a failed save, or half as much damage on a successful one.
 

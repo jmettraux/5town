@@ -18,7 +18,7 @@
 
 **Morale** 9
 
-## Attacks
+### Attacks
 
 ***Hooves*** +4 (Stab 2 STR +2), reach 5ft\_1.5m\_1sq, one target. Hit: 2d6+2 bludgeoning damage.
 

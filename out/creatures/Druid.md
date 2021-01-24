@@ -18,9 +18,9 @@
 
 **Morale** 9
 
-## Attacks
+### Attacks
 
-***Quarterstaff*** +1 (Stab 1 DEX +0) (+4 to hit with shillelagh), reach 5ft\_1.5m\_1sq, one target. Hit: 1d6+0 bludgeoning damage, 4 (1d8) bludgeoning damage if wielded with two hands, or 6 (1d8 + 2) bludgeoning damage with shillelagh.
+***Quarterstaff*** +1 (Stab 1 DEX +0) (+4 to hit with shillelagh) Shock 1+0/AC13, reach 5ft\_1.5m\_1sq, one target. Hit: 1d6+0 bludgeoning damage, 4 (1d8) bludgeoning damage if wielded with two hands, or 6 (1d8 + 2) bludgeoning damage with shillelagh.
 
 ***Druids*** dwell in forests and other secluded wilderness locations, where they protect the natural world from monsters and the encroachment of civilization. Some are **tribal shamans** who heal the sick, pray to animal spirits, and provide spiritual guidance.
 
