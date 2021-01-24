@@ -18,10 +18,11 @@ Not "five town" but "5 to Without Number".
 | Leather             | 11 + DEX mod         |              |
 | Studded Leather     | 12 + DEX mod         |              |
 | Hide                | 12 + DEX mod (max 2) |              |
-| Chain Shirt         | 13 + DEX mod (max 2) | 14 + DEX mod |
+| Chain Shirt         | 13 + DEX mod (max 2) |              |
 | Scale Mail          | 14 + DEX mod (max 2) |              |
 | Breatplate          | 14 + DEX mod (max 2) |              |
 | Half plate          | 15 + DEX mod (max 2) |              |
+| Mail Shirt          |                      | 14 + DEX mod |
 | Cuirass and Greaves |                      | 15 + DEX mod |
 | Scaled Armor        |                      | 16 + DEX mod |
 | Ring mail           | 14                   |              |
