@@ -101,8 +101,13 @@ module FeetExpander
       while rs = rework_tail(s); s = rs; end
 
       s
-        .gsub(/tttt/, 'FFF')
-        .gsub(/F+/) { |s| s.length > 3 ? "#{s.length}F" : s }
+        .gsub(/tttt/,
+          'FFF')
+        .gsub(/F+/) { |s|
+          s.length > 3 ? "#{s.length}F" : s }
+        .gsub(/[tF]+/) { |s|
+          ts, fs = s.count('t'), s.count('F')
+          ('F' * fs) + ('t' * ts) }
     end
   end
 end
