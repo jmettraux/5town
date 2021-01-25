@@ -17,6 +17,28 @@ module FeetExpander
           }
     end
 
+    def list_to(max)
+
+      f = 5
+
+      loop do
+        break if f > max
+        puts expand("#{f} feet")
+        f = f + 5
+      end
+    end
+
+    def list_csv_to(max)
+
+      f = 5
+
+      loop do
+        break if f > max
+        puts expand("#{f} feet").gsub(/(ft|m|sq)/, '').gsub(/_/, ',')
+        f = f + 5
+      end
+    end
+
     protected
 
     def expand_feet(r0, r1, unit)

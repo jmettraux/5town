@@ -23,3 +23,6 @@ all: creatures
 weapons:
 	${RUBY} ${LI} -e "list_weapons"
 
+feet:
+	${RUBY} ${LI} -e "FeetExpander.list_csv_to(300)"
+
