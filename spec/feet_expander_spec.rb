@@ -65,6 +65,9 @@ describe FeetExpander do
       '400ft' => '400ft_120m_80sq_10F',
       '600ft' => '600ft_180m_120sq_15F',
 
+      '245ft' => '245ft_73.5m_49sq_4Fttt-1',
+      '295ft' => '295ft_88.5m_59sq_6Ftt-1',
+
     }.each do |k, v|
 
       it "turns #{k.inspect} into #{v.inspect}" do

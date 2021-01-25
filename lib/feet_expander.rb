@@ -103,11 +103,11 @@ module FeetExpander
       s
         .gsub(/tttt/,
           'FFF')
-        .gsub(/F+/) { |s|
-          s.length > 3 ? "#{s.length}F" : s }
         .gsub(/[tF]+/) { |s|
           ts, fs = s.count('t'), s.count('F')
           ('F' * fs) + ('t' * ts) }
+        .gsub(/F+/) { |s|
+          s.length > 3 ? "#{s.length}F" : s }
     end
   end
 end
